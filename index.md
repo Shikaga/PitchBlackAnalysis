@@ -43,11 +43,14 @@ It would not have been hard, for a writer to pick up the film after forty five m
 
 But this is not the direction the film chooses to take. It instead becomes much more interesting. Johns makes a deal with Riddick, help them, guide them, and he will get his freedom.
 
-But before we discuss the rest of the film, let us look at the first half.
+But before we discuss the rest of the film, let us look at the first act.
+
+Warrant Officer First Class
+---
 
 This is unquestionably Carolyn Fry's movie. 
 
-The film starts, with her waking up from cryosleep in the midst of a disaster. While the her co-pilot Owens is still reeling from his sudden awakening, she is immediately into action, trying to land the ship.
+The film starts with her waking up from cryosleep in the midst of a disaster. While the her co-pilot Owens is still reeling from his sudden awakening, she is immediately into action, trying to land the ship.
 
 She is then immediately confronted with a choice. With the ship crashing, she prepares to purge the passenger cabin. Owens talks her down, telling her that he has every confidence in her to be able to land the ship.
 
@@ -59,15 +62,44 @@ She had the ability to land the ship, and Owens believes in her enough to entrus
 
 Is she merely being selfish, being willing to abandon people she doesn't know in a bid to save herself and her colleague? Perhaps, but she is also clearly pragmatic. She is is able to make the sacrifices to save those she can.
 
+Once on the ground, she is happy to take order from Johns with regards to Riddick, but she takes charge of the passengers, searching for water and rescue. In fact, she also doesn't take any of Johns bullshit, calling him out when he starts trying to scare her with stories about Riddick. 
 
+At this point, at the end of the first act, Fry is very much of a Ripley character. She is strong and independent, without being unlikable. 
 
-In many ways, this makes more sense. Indeed, Fry is very much of a Ripley character. She is competent, strong, treated as an equal by the rest of her crew. She is also eminently pragmatic. 
+But a film is made up of three acts.
 
+The Xenomorph
+---
 
+With his first line of dialog, Riddick steals the movie right from under her.
 
-Well, maybe. He is after all, the most memorable character. Everyone walks out of the film, thinking "Man, that Riddick was a badass!", and it is true that he is.
+Riddick is clearly the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn't hesitate to "skullfuck you in your sleep".
 
-But while Riddick may be the protagonist, he is simulataneously also the antagonist. And this is where the character of Riddick becomes most interesting.
+Even in chains in his opening dialogue exchange with Fry he is clearly in control. Of course, he has somehow been captured. But we have all been here before. The villain getting captured as part of his grand plan was a little less hacknied in 2000, but has always been a classic trope of genre films.
+
+And yet, this never seems to come to pass. Did he know that Johns would relase him? Did he know that the only way that he would be able to get off the planet would be to travel with the rest of the passengers, allowing them to get picked off one by one, thus requiring him to get captured?
+
+Indeed, it would not have been hard for to add a line of dialog for it to be so,
+
+RIDDICK: "Come on Carolyn, do you think I helped you out of the goodness of my heart?" LAUGHS
+Fry shakes her head, visibly upset.
+RIDDICK: "I couldn't make it all the way myself, I needed a distraction. That's all you were to me Fry. Big, fat, juicy distractions" SMILES EVILY
+
+And yet, this is not the Riddick that we are given in this movie? His role as antagonist does not outlive the first act. In fact, upon reflection, his actions of the first act are not conducive to an antagonist role when taken in context. Sure, he tried to incapacitate Johns in a bid to escape. But beyond that he doesn't seem to bear any ill will to any of the crewmembers, even Johns. 
+
+His stalking of Fry seems to have been simply out of curiosity. He did not kill (the gravedigger).
+
+The film definitely tries to give you the sense of his danger in the first act, but he never actually seems to provide a threat. 
+
+That is not to say that he is a saint. He tries to help the others, but only to a degree. When one of the imam's boys gets cornered by a creature, Riddick does not try to save him. He tells the boy to stay still, but when the boy runs, Riddick does nothing to intervene, clearly sensing the futility of trying to save boy.
+
+Johns in fact, posses a far more salient threat. Johns is completely selfish. We know this because he has a drug problem, and all junkies are evil. He was more than willing to kill Jack to save his own life, and he is fixing to betray Riddick from the moment that he frees him.
+
+Even so by the end of Pitch Black, I can't help feeling that Riddick so completely fulfills both the Protagonist and Antagonist role perfectly.
+
+But if I have just layed out a case showing that he should not be considered the antagonist of Pitch Black, why is that I feel this way?
+
+It is because he performs acts that are unconcianable for a protagonist. When forced, he leaves Fry, Abu and Jack to die on the planet while he heads to safety. This is the actionas that we 
 
 By fulfilling both protagonist and antagonist role, he can suddenly do no wrong in the eyes of the audience. We love him when he is good, and we love him all the more when he is bad.
 
