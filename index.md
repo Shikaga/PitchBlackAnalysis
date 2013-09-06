@@ -2,31 +2,54 @@
 layout: main
 ---
 
-Pitch Black, Alien and why the Riddick franchise doesn't understand itself
+Pitch Black, Chronicles and why the Riddick franchise doesn't understand itself
 ---
 
 "They say most of your brain shuts down in cryosleep. All but the primitive side. The animal side. No wonder I am still awake"
 
 In the first twenty four words, Pitch Black tells you more about the character of Riddick than most films do in their entire three acts.
 
-And yet, this is the very downfall of Riddick franchise. This opening monologue sets Riddick as the centrepiece of a film that he does not necessarily star in. Pitch Black is a film about many characters, Riddick being just one of them.
+And yet, this is the very downfall of Riddick franchise. Pitch Black is a film about many characters, Riddick being just one of them, yet he is immediately set as the centre piece. 
+
+In a film about Man vs the elements, Riddick plays just as big role as an elemental force as he does as a pivotal character.
 
 But, by the end of the film, there is no doubt that Riddick is the hero of this piece. The fact that we know almost nothing about him makes him interesting to us. Who did he kill and why? Where did he learn to pilot, what is the secret behind those eyes of his?
 
 
 
-Our story begins abord the Hunter Gratzner, where Richard B. Riddick is being transported in Cryosleep back to the prison where he escaped from by bounty hunter William Johns. After unfortunate midflight incident, the pilot Carolyn Fry crash lands the ship on a planet. They find a ship with which they can escape the planet, but the planet is not safe, infested with dangerous flying creatures and it is up to Riddick, Fry, Johns and the rest of the passengers and crew to escape.
-
-
-There are many comparisons to be made with Alien. Both film's feature largely on female protagonists. Both movies involve getting stalked in the dark by aliens. Both movies feature largely civilian crew members. 
-
-"Don't you touch that handle Fry!"
-
-What was it that made Pitch Black much better than The Chronicles of Riddick? It is so easy to chalk it up to Chronicles being yet another "unnecessary sequels", that w
+Our story begins abord the Hunter Gratzner, where Richard B. Riddick is being transported in cryosleep back to the prison where he escaped from by bounty hunter William Johns. After a midflight incident, the pilot Carolyn Fry crash lands the ship on a planet. Their ship is badly damaged, but the soon find another ship with which they can escape the planet. But their troubles are not yet over, as the planet is infested with dangerous flying creatures and it is up to Riddick, Fry, Johns and the rest of the passengers to escape.
 
 The Protagonist
 ---
-Who is the protagonist of Pitch Black? What a silly question you say, Riddick of course!
+Who is the protagonist of Pitch Black? Riddick, but it is not that simple. 
+
+What do we expect from our protagonists? Courage, strength, intelligence? These are not traits that can best be applied to Riddick in this film.
+
+Perhaps, all we need for someone to be a protagonist is for the audience to identify with them, to see the world from their point of view. Indeed, there are plenty of stories out there about anti-heroes, who we identify with and are undoubtedly the protagonists of their own films.
+
+But can Riddick, who does not utter a single line of dialog for the first twenty seven minutes of the film, possibly be considered the film's protagonist?
+
+In fact, for fully the first half of the movie, he plays the role the Xenomorph played in Alien.
+
+Consider the parallels. 
+
+In Alien, a [greedy crew member] brings a dangerous alien on board in an attempt to get rich. The Alien escapes, and then slowly hunts down each of the crew members in turn while the crew, headed by Ripley, try to track it down.
+
+By contrast, in the first half of Pitch Black, John's brings a dangerous alien on board in an attempt to get rich. Riddick escapes, and then (we are lead to believe) slowly hunts down each of the crew members in turn while the crew, head by Fry, try to track him down.
+
+A forced analogy? Maybe. But there is no question that in the first half of Pitch Black, before we truly understand the danger posed by the flying creatures, the audience is forced to see Riddick as the salient threat of the film.
+
+It would not have been hard, for a writer to pick up the film after forty five minutes and turn it into a standard Freddy or Jason style slasher, with perhaps just one of the crew members escaping with the escape ship (with a cut of Riddick hiding in the engine bay for the stinger).
+
+
+
+And yet, by the end of the film
+
+Yes of course, Riddick. He is what we all came here to see isn't it?
+
+Well, no. At least, not in 2000 when Pitch Black was released. Sure, he is what we all left the cinema remember, but he was not the reason we came to see the movie. In the painfully nineties trailer, Riddick is as an incidental character at best.
+
+
 
 Well, maybe. He is after all, the most memorable character. Everyone walks out of the film, thinking "Man, that Riddick was a badass!", and it is true that he is.
 
@@ -38,19 +61,7 @@ But let me propose an alternative. Consider that perhaps Fry is the protagonist.
 
 In many ways, this makes more sense. Indeed, Fry is very much of a Ripley character. She is competent, strong, treated as an equal by the rest of her crew. She is also eminently pragmatic. 
 
-The opening scene in which she attempts to purge the passenger cabin. Owens has every confidence that she is able to save everyone on board, even though Fry does not.
-
-Riddick
----
-
-Twenty seven minutes. This is how long it is before Riddick has his first line of dialogue.
-
-And yet, everyone 
-
-Yes of course, Riddick. He is what we all came here to see isn't it?
-
-Well, no. At least, not in 2000 when Pitch Black was released. Sure, he is what we all left the cinema remember, but he was not the reason we came to see the movie. In the painfully nineties trailer, Riddick is as an incidental character at best.
-
+The opening scene in which she attempts to purge the passenger cabin. Owens has every confidence that she is able to save everyone on board, even though Fry do
 
 
 ???
@@ -144,3 +155,15 @@ This is sadly one of the common mistakes that all sequels seem to be prone to. O
 It seems impossible for films to let a character be anything less than a superhero by the time their second movie comes around. Even Alien is not completely immune to this, with with the Ripley from Aliens being significantly more badass than her previous incarnation.
 
 That is not to say that the Riddick presented in Pitch Black is weak. He shows himself to be supremely competent, but he never quite stops being human. 
+
+
+
+
+
+
+There are many comparisons to be made with Alien. Both film's feature largely on female protagonists. Both movies involve getting stalked in the dark by aliens. Both movies feature largely civilian crew members. 
+
+"Don't you touch that handle Fry!"
+
+What was it that made Pitch Black much better than The Chronicles of Riddick? It is so easy to chalk it up to Chronicles being yet another "unnecessary sequels", that w
+
