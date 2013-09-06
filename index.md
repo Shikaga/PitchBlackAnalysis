@@ -41,13 +41,27 @@ A forced analogy? Maybe. But there is no question that in the first half of Pitc
 
 It would not have been hard, for a writer to pick up the film after forty five minutes and turn it into a standard Freddy or Jason style slasher, with perhaps just one of the crew members escaping with the escape ship (with a cut of Riddick hiding in the engine bay for the stinger).
 
+But this is not the direction the film chooses to take. It instead becomes much more interesting. Johns makes a deal with Riddick, help them, guide them, and he will get his freedom.
+
+But before we discuss the rest of the film, let us look at the first half.
+
+This is unquestionably Carolyn Fry's movie. 
+
+The film starts, with her waking up from cryosleep in the midst of a disaster. While the her co-pilot Owens is still reeling from his sudden awakening, she is immediately into action, trying to land the ship.
+
+She is then immediately confronted with a choice. With the ship crashing, she prepares to purge the passenger cabin. Owens talks her down, telling her that he has every confidence in her to be able to land the ship.
+
+However, with ship still spinning out of control she attempts to purge the cabin anyway, but Owens has sabotaged the system, so that she is forced to try and land the ship intact.
+
+It is at this point that we see the character Fry is, both in herself, and how she is reflected in Owens. 
+
+She had the ability to land the ship, and Owens believes in her enough to entrust his own life into her hands. But she does not.
+
+Is she merely being selfish, being willing to abandon people she doesn't know in a bid to save herself and her colleague? Perhaps, but she is also clearly pragmatic. She is is able to make the sacrifices to save those she can.
 
 
-And yet, by the end of the film
 
-Yes of course, Riddick. He is what we all came here to see isn't it?
-
-Well, no. At least, not in 2000 when Pitch Black was released. Sure, he is what we all left the cinema remember, but he was not the reason we came to see the movie. In the painfully nineties trailer, Riddick is as an incidental character at best.
+In many ways, this makes more sense. Indeed, Fry is very much of a Ripley character. She is competent, strong, treated as an equal by the rest of her crew. She is also eminently pragmatic. 
 
 
 
@@ -56,12 +70,6 @@ Well, maybe. He is after all, the most memorable character. Everyone walks out o
 But while Riddick may be the protagonist, he is simulataneously also the antagonist. And this is where the character of Riddick becomes most interesting.
 
 By fulfilling both protagonist and antagonist role, he can suddenly do no wrong in the eyes of the audience. We love him when he is good, and we love him all the more when he is bad.
-
-But let me propose an alternative. Consider that perhaps Fry is the protagonist.
-
-In many ways, this makes more sense. Indeed, Fry is very much of a Ripley character. She is competent, strong, treated as an equal by the rest of her crew. She is also eminently pragmatic. 
-
-The opening scene in which she attempts to purge the passenger cabin. Owens has every confidence that she is able to save everyone on board, even though Fry do
 
 
 ???
