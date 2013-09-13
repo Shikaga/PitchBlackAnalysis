@@ -2,42 +2,74 @@
 layout: main
 ---
 
-Pitch Black, Chronicles and why the Riddick franchise doesn't understand itself
+Antihero: Why the Riddick franchise doesn't understand itself
+---
+
+Mind Dump
+---
+
+Can Hollywood create a trilogy about a character that is anything less than a superhero, responsible for saving the universe?
+
+An unfair question really. The real question is, is there a way to create a trilogy around the story of a normal character? The truth is that typical "normal man in the wrong place at the wrong time" characters normally start looking a little silly by the third time they are involved in an adventure.
+
+An obvious example would be Joh McClain (spelling), who starts off as a cop and deadbeat father and soon turns into a John Rambo on steroids. In many ways, Die Hard achieved more than most. While I am personally not a fan of Die Hard 2, by and large it remains believable (relatively speaking), and apart from a bit of nudging the fourth wall ("Why does this keep happening to us?", "Not again"), the characters remain in their own world. Die Hard: With a Vengance, does a much better job. Losing the fourth wall and pairing John up with an entertaining sidekick, Die Hard 3 feels like a perfect sequel. John is no more powerful than he was in Die Hard one, and his motivation and circumstances are believable.
+
+However, things swiftly go downhill with Die Hard 4.0 (Live Free or Die Hard), with the character of John McLaine being almost unrecognisable, as he soon blowing up helicopters with cars and surfing jets (seriously not making this up, watch the movie).
+
+And in many ways this is what is most tragic about Die Hard 4.0. It is actually a great movie. It would have fit in perfectly as a Brosnan era Bond film, or some equally slapstick action film. But it is not a good Die Hard film.
+
+Die Hard is supposed to be about about a New York Cop, doing the best he can in the situation. In Die Hard, when terrorists attack the Nakatomi Plaza, his first action, is to run away from danger. He then tries to call the police, the phone lines are cut. He then pulls the fire alarm, and the call is diverted. He then takes down ONE terrorist, and uses his radio to call for help. Once police assistance arrives, he hides in the bathroom, until he suddenly realises that the roof has been rigged with explosives, forcing him to try to save hostages.
+
+At every junction his choices are quite logical and believable for his character. And this continues, by and large, for the next two films.
+
+
+
+Introduction
 ---
 
 "They say most of your brain shuts down in cryosleep. All but the primitive side. The animal side. No wonder I am still awake"
 
-In the first twenty four words, Pitch Black tells you more about the character of Riddick than most films do in their entire three acts.
+In the first twenty four words, Pitch Black tells you more about the character of Riddick than most films do in their entire three acts. I mean, talk about setting a scene. Who is this character that is somehow unaffected by Cryosleep? who refers to himself as a wholly "primitive animal"?
 
-And yet, this is the very downfall of Riddick franchise. Pitch Black is a film about many characters, Riddick being just one of them, yet he is immediately set as the centre piece. 
+Who is this character who then goes on to describe, with remarkable detail, right down to the leather tool belt, his fellow passengers, presumably by smell alone?
 
-In a film about Man vs the elements, Riddick plays just as big role as an elemental force as he does as a pivotal character.
+And yet, this is the very downfall of Riddick franchise. Pitch Black is a film about survival, about many characters working together to survive the elements. In many ways, Riddick is just just one of those characters. He is not necessarily main character, he doesn't even have the most screen time. 
 
-But, by the end of the film, there is no doubt that Riddick is the hero of this piece. The fact that we know almost nothing about him makes him interesting to us. Who did he kill and why? Where did he learn to pilot, what is the secret behind those eyes of his?
+But, by the end of the film, there is no doubt that Riddick is the hero of this piece. And it is upon this foundation that the Riddick franchise was built, including multiple films, video games and even anime.
 
+But, while ostensibly Riddick may have escaped the planet at the end of Pitch Black, in many ways his character, his character never did. 
 
+Pitch Black: The Plot
+---
 
-Our story begins abord the Hunter Gratzner, where Richard B. Riddick is being transported in cryosleep back to the prison where he escaped from by bounty hunter William Johns. After a midflight incident, the pilot Carolyn Fry crash lands the ship on a planet. Their ship is badly damaged, but the soon find another ship with which they can escape the planet. But their troubles are not yet over, as the planet is infested with dangerous flying creatures and it is up to Riddick, Fry, Johns and the rest of the passengers to escape.
+Our story begins aboard the Hunter Gratzner, where Richard B. Riddick is being transported in cryosleep back to the prison by bounty hunter William Johns. After a midflight incident, the pilot Carolyn Fry crash lands the ship on a planet. Their ship is badly damaged, but the soon find another ship with which they can escape the planet. But their troubles are not yet over, as the planet is infested with dangerous flying creatures and it is up to Riddick, Fry, Johns and the rest of the passengers to escape.
 
 The Protagonist
 ---
-Who is the protagonist of Pitch Black? Riddick, but it is not that simple. 
 
-What do we expect from our protagonists? Courage, strength, intelligence? These are not traits that can best be applied to Riddick in this film.
-
-Perhaps, all we need for someone to be a protagonist is for the audience to identify with them, to see the world from their point of view. Indeed, there are plenty of stories out there about anti-heroes, who we identify with and are undoubtedly the protagonists of their own films.
-
-But can Riddick, who does not utter a single line of dialog for the first twenty seven minutes of the film, possibly be considered the film's protagonist?
-
-In fact, for fully the first half of the movie, he plays the role the Xenomorph played in Alien.
-
-Consider the parallels. 
+For any movie about killer space monsters, parallels must be drawn to Alien. Consider:
 
 In Alien, a [greedy crew member] brings a dangerous alien on board in an attempt to get rich. The Alien escapes, and then slowly hunts down each of the crew members in turn while the crew, headed by Ripley, try to track it down.
 
-By contrast, in the first half of Pitch Black, John's brings a dangerous alien on board in an attempt to get rich. Riddick escapes, and then (we are lead to believe) slowly hunts down each of the crew members in turn while the crew, head by Fry, try to track him down.
+By contrast, in the first half of Pitch Black, John's brings a dangerous being on board in an attempt to get rich. Riddick escapes, and then (we are lead to believe) slowly hunts down each of the crew members in turn while the crew, led by Fry, try to track him down.
 
 A forced analogy? Maybe. But there is no question that in the first half of Pitch Black, before we truly understand the danger posed by the flying creatures, the audience is forced to see Riddick as the salient threat of the film.
+
+It is interesting, if you were to rewrite the movie, thirty minutes in, how different it could have gone.
+
+
+
+
+
+
+
+
+
+Who is the protagonist of Pitch Black? What do we expect from our protagonists? Courage, strength, intelligence? Quick one-liners?
+
+Perhaps, all we need for someone to be a protagonist is for the audience to identify with them, to see the world from their point of view. Indeed, there are plenty of stories out there about anti-heroes, who we identify with and are undoubtedly the protagonists of their own films.
+
+But can Riddick, who does not utter a single line of dialog for the first twenty seven minutes of the film, possibly be considered the film's protagonist? Is he the character that the audience most sympathise with?
 
 It would not have been hard, for a writer to pick up the film after forty five minutes and turn it into a standard Freddy or Jason style slasher, with perhaps just one of the crew members escaping with the escape ship (with a cut of Riddick hiding in the engine bay for the stinger).
 
@@ -207,3 +239,65 @@ There are many comparisons to be made with Alien. Both film's feature largely on
 
 What was it that made Pitch Black much better than The Chronicles of Riddick? It is so easy to chalk it up to Chronicles being yet another "unnecessary sequels", that w
 
+
+
+
+
+
+
+
+How then, do you create a sequel to a movie like Pitch Black? Well it seems that Vin Diesel seems to think that you do it by remaking it within it's own continuity. And is he wrong?
+
+Not really. Riddick is a good film, all things considered. It quickly jettison's the extraneous Necromonger plot lines alla Alien 3, and adds a family member bent on revenge for his family member that Riddick killed in the first film, alla Die Hard with a Vengeance.
+
+The film is heavy handed in its use of repetition, both of plot points and shots. In many ways it is these scenes that are the best in the movie.
+
+What about the "superhero effect"? Yes, it is there. The Riddicck in Riddick is significantly more powerful than his counterpart in Pitch Black. But it is not quite to the same degree that Chronicles go to. 
+
+This Riddick can be hurt. He makes mistakes. He gets captured. And in the final "climax" of the film, he even needs too be saved by his enemies.
+
+There are many problems with the "Riddick". For starters, the film really needs to have it's dialog almost completely rewritten from scratch.
+
+In addition, non of the character's motivations make any sense. Every single one of the bounty hunters is supposedly here to kill Riddick, and yet they never do it, despite the many opportunities that they have.
+
+The addition of the "cells" plotline goes a long way to fixing this issue. Obviously they cannot kill him once he has hidden the cells somewhere in the desert, but why does Johns save him at the end? He only moments before abandoned Riddick to take both power cells back to the ship, and yet something in the last half and hour or so has made him change his mind so that he now needs to save Riddick?
+
+
+
+Why does thug number 1 suddenly attack Johns when Riddick is digging? Surely you would kill Riddick first, and why would you even try and kill Riddick? Every single person in the film who has crossed him so far has died! Leave him alone.
+
+
+
+
+Also, unlike Pitch Black, nearly every single one of the characters is completely unlikable. One of Pitch Black's strong points was the fact that most of the characters were actually quite likeable. None of the characters were over the top cliches. Even Johns, as flawed as he is, acted more like a scared chid than a action villain stereotype.
+
+You genuinely want all the characters in Pitch Black to make it through. The same can not be said of Riddick. Every single one of the characters is completely unlikable.
+
+You have absolutely no empathy for any of the characters that die, and no joy for those who live. In Pitch Black, when Jack and Abu escape the planet with Riddick, you feel genuinely relieved for them, and feel a very real sense of pain that Fry didn't make it.
+
+You do not feel the least thing for these characters. They have all backstabbed and bitched and postured the whole movie, and you can't help but think the movie would be better without them.
+
+In fact, have there ever been non-protagonist bounty hunters or mercenaries that the audience has ever empathised with? There is a whole sub population of society that the film industry has completely marginalised as evil greedy cannon fodder. I have known a few mercenaries in my time, and they have been lovely people, no worse than any national military solider. But while soldiers get to get shot holding a picture of their girlfriends while Adagio for Strings plays, mercenaries get gunned down with gleeful abandon, without ever a thought that perhaps this person was only on this job in an attempt to put food on table for their family.
+
+Nevertheless, it is not the job of "Riddick" to try and reverse this trend. Simply be aware of it, and realise that the audience is not going to sympathise with mercenaries the way it is going to empathise with the survivors of the Hunter Gratzner.
+
+And on the subject of empathising, a dog, seriously? Don't get me wrong, the dog was one of the better parts of the film. Firstly the, CG on it was excellent, about as good as I have seen. That said, it never stops being a CG dog. Vin Diesel is just able to act as though there is a real dog there. There is something about the way that people's eyes move when they are looking at a creature, that is completely lost, and just makes me feel like I am sitting on a sterile set whenever he and the dog are sharing a scene.
+
+But anyone who has been around the film block for a while, could have told you that the dog was not long for this world. "Evil people kill dogs", is one of the biggest tropes in Hollywood, and it seems as though the film wants to villainise Santana much more for the killing of a dog who was attack him, than for the rape and murder of a woman at the beginning of the second act.
+
+
+"Ball's deep"? What the fuck? Since when does a hero threaten a woman with rape? Okay, technically, all he implied was that he would have sex with her, not that it would it would be non-consensual. But the character was pre-established to be homosexual (which I will come back to later). To imply that Riddick's action's over the next twenty four hours would be such that she would change her sexual orientation, is simply adolescent male (read: Vin Diesel) wish fulfilment.
+
+And why does her character even need to be a lesbian? It seems to me to be a real shame that it seems like no woman can possibly be tough in movies or television, without being a lesbian. This is not really the forum for this discussion, but seriously..
+
+On the subject of homosexuality, I think it would have been much more interesting if it had turned out that John's had been John's husband rather than father.
+
+Indeed, I though that the film was setting up for this. John's never implies that he is the father, Riddick induces it, and Johns never confirms nor denies it. Then later in the film, Riddick inform's Johns that his son was a junkie to which Johns Sr replies, "That is no the man I knew". Do father's refer to their son's as "the man I knew". Sure. But they are much more likely to say something like, "He was a good kid". This would have been a perfect juncture to reveal that Johns Sr was actually Johns husband.
+
+The shock that your husband was a drug addict and you never knew about it, is so much more visceral than that your son is a drug addict. There are ten thousand movies about men's son's doing drugs and their father saying "you are going to ruin your life if you go down this path son".
+
+But there are precious few films about how discovering that your partner is a drug addict can destroy your life. This would have been a far more interesting story. Firstly, it personalises the original Johns much more. You never think about the fact that he has a family or loved ones. It never occurs to you that he might be so viciously hunting Riddick's bounty because he has a husband to provide for
+
+And I think that discovering that your Husband is was a drug addict is just so much more potent. Johns would have had to completely rethink their relationship. All those little things would suddenly start to make sense, as they always do. Ultimately it would make no difference, he would love him just as much.
+
+finally, it would mean that the actor wouldn't look way to young to be Johns father. Ten years has passed since the events of Pitch Black. Taking that into account, Both Johns are about the same age, so I can only suppose that Johns Sr has had some serious work done. Perhaps he exchanged twenty menthol kools for a surgical face lift.
