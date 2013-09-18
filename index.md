@@ -12,16 +12,36 @@ Can Hollywood create a trilogy about a character that is anything less than a su
 
 An unfair question really. The real question is, is there a way to create a trilogy around the story of a normal character? The truth is that typical "normal man in the wrong place at the wrong time" characters normally start looking a little silly by the third time they are involved in an adventure.
 
-An obvious example would be Joh McClain (spelling), who starts off as a cop and deadbeat father and soon turns into a John Rambo on steroids. In many ways, Die Hard achieved more than most. While I am personally not a fan of Die Hard 2, by and large it remains believable (relatively speaking), and apart from a bit of nudging the fourth wall ("Why does this keep happening to us?", "Not again"), the characters remain in their own world. Die Hard: With a Vengance, does a much better job. Losing the fourth wall and pairing John up with an entertaining sidekick, Die Hard 3 feels like a perfect sequel. John is no more powerful than he was in Die Hard one, and his motivation and circumstances are believable.
+An obvious example would be Joh McClain (spelling), begins his narrative journey as a police officer and deadbeat father and soon turns into a John Rambo on steroids. In many ways, the Die Hard series achieved more than most. While I am personally not a fan of Die Hard 2, by and large it remains believable (relatively speaking), and apart from a bit of nudging the fourth wall ("Why does this keep happening to us?", "Not again"), the characters remain in their own world. Die Hard: With a Vengance, does a much better job. By losing the fourth wall and pairing John up with an entertaining sidekick, Die Hard 3 feels like a perfect sequel. John is no more powerful than he was in Die Hard one, and his motivation and circumstances are believable.
 
-However, things swiftly go downhill with Die Hard 4.0 (Live Free or Die Hard), with the character of John McLaine being almost unrecognisable, as he soon blowing up helicopters with cars and surfing jets (seriously not making this up, watch the movie).
+However, things swiftly go downhill with Die Hard 4.0 (Live Free or Die Hard), with the character of John McLain being almost unrecognisable, as he is soon blowing up helicopters with cars and surfing jets (seriously not making this up, watch the movie).
 
-And in many ways this is what is most tragic about Die Hard 4.0. It is actually a great movie. It would have fit in perfectly as a Brosnan era Bond film, or some equally slapstick action film. But it is not a good Die Hard film.
+But in a way what is most tragic about Die Hard 4.0 is that it is actually a great movie. It would have fit in perfectly as a Brosnan era Bond film, or some equally slapstick action film. But it is not a good Die Hard film.
 
-Die Hard is supposed to be about about a New York Cop, doing the best he can in the situation. In Die Hard, when terrorists attack the Nakatomi Plaza, his first action, is to run away from danger. He then tries to call the police, the phone lines are cut. He then pulls the fire alarm, and the call is diverted. He then takes down ONE terrorist, and uses his radio to call for help. Once police assistance arrives, he hides in the bathroom, until he suddenly realises that the roof has been rigged with explosives, forcing him to try to save hostages.
+Die Hard is supposed to be about about a New York Cop, doing the best he can in the situation. In Die Hard, when terrorists attack Nakatomi Plaza, his first action, is to run away from danger. He then tries to call the police; the phone lines are cut. He then pulls the fire alarm, and the call is diverted. He then takes down ONE terrorist, and uses his radio to call for help. Once police assistance arrives, he hides in the bathroom, until he suddenly realises that the roof has been rigged with explosives, forcing him to try to save hostages.
 
-At every junction his choices are quite logical and believable for his character. And this continues, by and large, for the next two films.
+At every junction his choices are quite logical and believable for his character. And this continues, by and large, for the next two films. But soon Hollywood require another movie, to capitalise on a much loved character, and quickly start looking around the back shelves for an action movie plot. 
 
+Any will do, with a flick of a red pen John McLain quickly becomes a protagonist, complete with catchphrase and references to previous films. The fact that his character has suddenly become superhuman badass is irrelevant.
+
+Layout
+---
+
+Part 1: Hero
+
+A discussion about the differences between Riddicks in the three films
+
+Part 2: Villain
+
+A discussion about how the Riddick in Pitch Black is just as much a force of nature in the first film as the aliens that he dispatches. He is good because he is not in focus too much of the time, letting other characters largely carry the plot.
+
+Part 3: Cannon Fodder
+
+A discussion about how, although the supporting characters are auxiliary to the plot, the fact that we like them is a massive part of what makes Pitch Black good. It raises the stakes when we actually like the characters.
+
+Solution
+
+A discussion about how a sequel to a movie like Pitch Black can best be executed. Can it?
 
 
 Introduction
@@ -105,7 +125,7 @@ But unlike most Friday 13th style movies, most of these characters are quite lik
 
 This is in many ways, what Pitch Black does best. You actually want all these characters to survive. Sure, you came to the movie to see the awesome kills, and you want your money's worth, but humanising these people only helps the movie.
 
-Abu, the Imam (spelling), is one of the most interesting of these. In addition to being one of the few survivors, his paternal care of his acolytes brings a sense of a family to the film, without needing the inevitable "father's vengeance". 
+Abu, the Imam, is one of the most interesting of these. In addition to being one of the few survivors, his paternal care of his acolytes brings a sense of a family to the film, without needing the inevitable "father's vengeance". 
 
 He clearly cares a lot for his kids, but trusts in his God as they slowly and mercilessly get killed one by one. Perhaps he sees himself as a Job figure, seeking meaning in his punishment. Perhaps not.
 
@@ -121,7 +141,21 @@ As they finally fly into the sunset, the Imam acknowledges, that he "There is so
 
 I never did really understand what Jack meant in this scene. The best I can guess is that she meant that she would than God for Riddick, but if anyone has a better idea I would love to hear it.
 
-This brings up the character of Jack. A young girl travelling alone, masquerading as a boy, she has a sort of hero worship of Riddick. 
+This brings up the character of Jack. A young girl travelling alone, masquerading as a boy, she has a hero worship of Riddick. 
+
+Jack quickly fashions replicas of Riddick's trademark goggles, and runs around the ship terrorising the rest of the crew, in ways on children can, until one passenger finally quips, "Did you run away from your parents or did they run away from you?"
+
+Jack is very believable and never annoying as young characters in these movies so often are. 
+
+In the scene where Riddick and Fry are talking about (??? Name's) disappearance, Jack enters and starts asking about Riddick's eyes. This is a wonderful bit of exposition, and a chance for Jack to show her fascination with Riddick, and the secret of his surgical sine job which is so poorly executed on in the following film.
+
+Jack's gender is a secret kept from both the characters and the audience well into the film. When the crew must pass the most dangerous point in their journey Riddick halts the group, stating that it will be impossible to go any further, "Especially with the girl bleeding."
+
+Jack also has a crucial role to play later in the film, where Johns decides to ask Riddick to "triage" Jack to save the rest of the group. Why precisely Johns would make this offer isn't exactly clear. Perhaps he doesn't understand Riddick very well. But Riddick quite clearly states that there is a line that he won't cross and Johns flew way over it.
+
+After dispatching Johns, Riddick returns to the group, informing them of what happens. When Jack starts to get upset about losing him, Riddick simply says, "Don't you cry for Johns. Don't you dare".
+
+The other characters, while minor roles, are still very likeable. None of them really conform to typical stereotype roles, and they all have a little bit to contribute to the film. While inevitable, you do feel a little sorry for each of them as they are dispatched, albeit normally at their own hands for not doing as they are told.
 
 
 The Xenomorph
@@ -131,30 +165,32 @@ With his first line of dialog, Riddick steals the movie right from under her.
 
 Riddick is clearly the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to “skullfuck you in your sleep”.
 
-Even in chains in his opening dialogue exchange with Fry he is clearly in control. Of course, he has somehow been captured. But we have all been here before. The villain getting captured as part of his grand plan was a little less hacknied in 2000, but has always been a classic trope of genre films.
+Even in chains in his opening dialogue exchange with Fry he is clearly in control. Of course, he has somehow been captured. But we have all been here before. The villain getting captured as part of his grand plan was a little less hackneyed in 2000, but has always been a classic trope of genre films.
 
-And yet, this never seems to come to pass. Did he know that Johns would relase him? Did he know that the only way that he would be able to get off the planet would be to travel with the rest of the passengers, allowing them to get picked off one by one, thus requiring him to get captured?
+And yet, this never seems to come to pass. Did he know that Johns would release him? Did he know that the only way that he would be able to get off the planet would be to travel with the rest of the passengers, allowing them to get picked off one by one, thus requiring him to get captured?
 
 Indeed, it would not have been hard for to add a line of dialog for it to be so,
 
-RIDDICK: “Come on Carolyn, do you think I helped you out of the goodness of my heart?” LAUGHS Fry shakes her head, visibly upset. 
+RIDDICK: “Come on Carolyn. You think I helped you out of the goodness of my heart?” LAUGHS Fry shakes her head, visibly upset. 
 RIDDICK: “I couldn’t make it all the way myself, I needed a distraction. That’s all you were to me Fry. Big, fat, juicy distractions” SMILES EVILY
 
-And yet, this is not the Riddick that we are given in this movie? His role as antagonist does not outlive the first act. In fact, upon reflection, his actions of the first act are not conducive to an antagonist role when taken in context. Sure, he tried to incapacitate Johns in a bid to escape. But beyond that he doesn’t seem to bear any ill will to any of the crewmembers, even Johns.
+And yet, this is not the Riddick that we are given in this movie. His role as antagonist does not outlive the first act. In fact, upon reflection, his actions of the first act are not conducive to an antagonist role when taken in context. Sure, he tried to incapacitate Johns in a bid to escape. But beyond that he doesn’t seem to bear any ill will to any of the crewmembers, even Johns.
 
 His stalking of Fry seems to have been simply out of curiosity. He did not kill (the gravedigger).
 
 The film definitely tries to give you the sense of his danger in the first act, but he never actually seems to provide a threat.
 
-That is not to say that he is a saint. He tries to help the others, but only to a degree. When one of the imam’s boys gets cornered by a creature, Riddick does not try to save him. He tells the boy to stay still, but when the boy runs, Riddick does nothing to intervene, clearly sensing the futility of trying to save boy.
+That is not to say that he is a saint. He tries to help the other passengers, but only to a degree. When one of the Imam’s boys gets cornered by a creature, Riddick does not try to save him. He tells the boy to stay still, but when the boy runs, Riddick does nothing to intervene, clearly sensing the futility of trying to save boy.
 
-Johns in fact, posses a far more salient threat. Johns is completely selfish. We know this because he has a drug problem, and all junkies are evil. He was more than willing to kill Jack to save his own life, and he is fixing to betray Riddick from the moment that he frees him.
+Johns in fact, posses a far more salient threat to the survivors. Johns is selfish. We know this because he has a drug problem, and all junkies are evil. He was more than willing to kill Jack to save his own life, and he is fixing to betray Riddick from the moment that he frees him.
 
-Even so by the end of Pitch Black, I can’t help feeling that Riddick so completely fulfills both the Protagonist and Antagonist role perfectly.
+Yet, despite Riddick often displaying cowardice and weakness, he still ends up being incredibly likeable. THis is largely due to the fact that he still lives by a code.
 
-But if I have just layed out a case showing that he should not be considered the antagonist of Pitch Black, why is that I feel this way?
+It is because he performs acts that are unconscionable for a protagonist. When forced, he leaves Fry, Abu and Jack to die on the planet while he heads to safety. This makes Riddick seem like a hypocrite. 
 
-It is because he performs acts that are unconcianable for a protagonist. When forced, he leaves Fry, Abu and Jack to die on the planet while he heads to safety. This is the actionas that we
+When Johns decides to sacrifice Jack to get the rest of the group to the ship, Riddick dispatches him. Yet shortly after, Riddick abandons all the survivors to escape by himself.
+
+Why is it that the audience forgives him for this? On one hand, it is because he is a survivor, and we respect that.
 
 
 In many ways, this makes more sense. Indeed, Fry is very much of a Ripley character. She is competent, strong, treated as an equal by the rest of her crew. She is also eminently pragmatic. 
@@ -173,27 +209,31 @@ By fulfilling both protagonist and antagonist role, he can suddenly do no wrong 
 
 Riddick is not without emotion, at least not in Pitch Black. 
 
-He is prone to fits of anger. When Johns frees Riddick, he tells Riddick to "remember this moment. The way it could have gone and didn't". Riddick is visibly annoyed, and lashes out. He snatches Johns' rifle from his hand, "Fuck you!", he says threatening Johns', "I wan't you to remember this moment".
+He is prone to fits of anger. When Johns frees Riddick, he tells Riddick to "remember this moment. The way it could have gone and didn't". Riddick is visibly annoyed, and lashes out. He snatches Johns' rifle from his hand, "Fuck you!", he says threatening Johns, "I want you to remember this moment".
 
 Riddick should have kept his cool, graciously accepted Johns' phony treaty and waited his time, but instead he tries, unsuccesfully, to restore the balance of power in his favour, posturing that merely earns a grin from Johns.
 
-He is clearly a troubled individual. He talks about his disdain for God, the long time he spent in prison and the fact that his mother supposedly abandoned him at birth.
+He is clearly a troubled individual. His talk about his disdain for God, the long time he spent in prison and the fact that his mother supposedly abandoned him at birth, all point to a character who feels betrayed by life.
 
-Riddick shows variable loyalty the rest of the crew. He clearly fancies himself as a stone cold killer, and tries to portray himself as such before the other characters. He delight's in their nievete, and laughs at their collective misfortune.
+He clearly harbours an emotional separation from the other characters, not being able to empathise with them the way a normal character would. 
+
+Riddick shows variable loyalty the rest of the crew. He clearly fancies himself as a stone cold killer, and tries to portray himself as such before the other characters. He delight's in their naiveté, and laughs at their collective misfortune.
 
 His ire fall's most heavily on Abu, The Holy Man. Riddick sees his belief as a weakness. "So where the hell's your God now?", he asks mockingly as the sudden rainfall starts to extinguish their last remaining torches.
 
-But Riddick is not a sadist, or without reason. He does try to get the entire crew to safety. He defends Jack against Johns, when Johns tries to betray her, and he continues to shepard them through the valley of the shadow of death, almost literally.
+But Riddick is not a sadist, or without reason. He does try to get the entire crew to safety. He defends Jack against Johns, when Johns tries to betray her, and he continues to shepard them to safety.
 
-The scene in which Fry arrives at the ship just in time to prevent Riddick from leaving without them is the climax of the film. It is where, we finally see precisely what our two main characters are made of. Each of them has made it to safety against incredible odds, and the prospect of going back for the remaining two survivors suddenly seems like an impossible task.
+The scene in which Fry arrives at the ship just in time to prevent Riddick from leaving without them is the climax of the film. It is where, we finally see precisely what our two main characters are made of. 
 
-RIDDICK: "Strong survival instinct, I admire that in a woman"
+Each of them has made it to safety against incredible odds, and the prospect of going back for the remaining two survivors suddenly seems like an impossible task.
+
+RIDDICK: "Strong survival instinct. I admire that in a woman"
 FRY: "I promised them, that we would go back with more light"
 RIDDICK: "Did you? Hmmm"
-FRY: "What, are you afraid?"
+FRY: "What? Are you afraid?"
 RIDDICK: "Me afraid?" LAUGHING
 
-By Riddick is afraid. He doesn't think that he can do. He already abandoned them once, when he decided to leave them at the last mile. Riddick is not a villian, he did not string his fellow passengers only to abandon them out of some kind of sadistic game. He truly believed he was too weak to save them, and his own survival instinct made him take the pragmatic approach.
+But Riddick is afraid. He doesn't think that he can do it. He already abandoned them once, when he decided to leave them at the last mile. Riddick is not a villian, he did not string his fellow passengers only to abandon them out of some kind of sadistic game. He truly believed he was too weak to save them, and his own survival instinct made him take the pragmatic approach.
 
 When Fry tries to convince him to save the others, he simply counters with offering to take her with him, knowing it would be suicide, and that Fry is too clever to do otherwise.
 
@@ -207,21 +247,22 @@ Riddick stretches out his hand
 "Look, no one is going to blame you Carolyn"
 "Come on, Come on, That's it, That's it. Good Girl"
 
+In this scene, Riddick is trying to get Carolyn to also take the cowards way out. He clearly thinks that if she too, abandons the others, then he is no more guilty that any other pragmatic individual.
 
 He asks her to come aboard, offering his hand, and coaxing her onboard with gentle words and nudges, to overcome her emotional paralysis. This scene is truly incredible, Fry finally breaking down, weeping in the rain as she slowly resolves to leave the other to her face, while Riddick comforts her.
 
-Fry's personal journey finally resolves. She determines that she would rather face death, even certain death, than leave any of her crew to die. She is able to rectify her mistake, to forgive herself for trying to purge the passenger hold.
+But then Fry's personal journey finally resolves. She determines that she would rather face death, even certain death, than leave any of her crew to die. She is able to rectify her mistake, to forgive herself for trying to purge the passenger hold.
 
-"I am the captain of this ship..."
+FRY: "Now, you! You listen to me! I am the captain of this ship. And I am not leaving anyone on this rock"
 
-"You would die for them?"
-"I would try for them"
-"You didn't answer me"
-"Yes I would Riddick, I would. I would die for them"
+RIDDICK: "You would die for them?"
+FRY: "I would try for them"
+RIDDICK: "You didn't answer me"
+RIDDICK: "Yes I would Riddick, I would. I would die for them"
 
 Riddick takes off his goggles. A beat
 
-"How interesting"
+RIDDICK: "How interesting"
 
 It is in this moment that Riddick is a most interesting character. He has seen something that he can't explain. For Fry to selflessly go back for the others, even without Riddick's help intrigues him.
 
@@ -237,13 +278,14 @@ It is difficult to know what the character of Riddick feels at this moment. He s
 He allows himself a moment to grieve, but once again, he tries to embody his persona of "stone cold killer", by the time that he once again joins the rest of the crew. What this says about his character, is as much a reflection of viewers feeling as Riddick's, but it is clear that he is not unnaffected by her death.
 
 
-Nor is he an unstoppable killing machine. Indeed, in this regard, in the Chronicles of Riddick it seems like he is a completely different character. 
 
-In pitch black he is frequently bested by the rest of crew. When he first escapes, John's is able to take him down, despite Riddick getting the drop on him (albeit, while shackled). And after he escapes, he is once again captured by crew, when they work together.
+And while Riddick is not an emotionless robot, nor is he an unstoppable killing machine. Indeed, in this regard, in the sequel, The Chronicles of Riddick it seems like he is a completely different character. 
+
+In Pitch Black he is frequently bested by the rest of crew. When he first escapes, John's is able to take him down, despite Riddick getting the drop on him (albeit, while shackled). And after he escapes, he is once again captured by crew, when they work together.
 
 Nor does he have the usual prescience of a movie hero. He frequently misjudges both his enemies and his allies. When cornered by the creatures, he runs towards the rest of the crew, not predicting that they would instinctively shine light in his eyes. I have almost never seen such a trivial mistake made by a movie hero, and it imbues Riddick with a certain sense of believablity.
 
-"It lookes clear"
+"It looks clear"
 
 
 In addition, we can assume that John's was able to track down and capture Riddick by his skill as a bounty hunter.
@@ -252,7 +294,7 @@ Not only that, but he is beaten to the point of near unconciousness by a mere tw
 
 By contrast, the Riddick presented to us in Chronicles, is an unstoppable killing machine, who is able to take down crew after crew of highly skilled mercenaries unarmed, dangerous convicts with nothing more tin cup and necromancer Gods with a simple dagger.
 
-He infiltrates Crematoria without any apparent doubt that not only he but also Jack will be able to subsequently break out. Yet in Riddick states that he spent half of his life in his previous "slam". In fact, we are informed that he was only able to escape by hijacking a prison transport, we have no reason to believe that he is a man that no prison can hold. 
+He infiltrates Crematoria without any apparent doubt that not only he, but also Jack, will be able to subsequently break out. Yet in Pitch Black, Riddick states that he spent half of his life in his previous "slam". In fact, we are informed that he was only able to escape by hijacking a prison transport, we have no reason to believe that he is a man that no prison can hold. 
 
 This is sadly one of the common mistakes that all sequels seem to be prone to. Once your hero has defeated one enemy, they need to be given a bigger test. This is why a New York City cop who's initial actions are initially to call the police, is only three movies later blowing up a helicopter with a car and surfing a jet.
 
@@ -268,10 +310,6 @@ That is not to say that the Riddick presented in Pitch Black is weak. He shows h
 There are many comparisons to be made with Alien. Both film's feature largely on female protagonists. Both movies involve getting stalked in the dark by aliens. Both movies feature largely civilian crew members. 
 
 "Don't you touch that handle Fry!"
-
-What was it that made Pitch Black much better than The Chronicles of Riddick? It is so easy to chalk it up to Chronicles being yet another "unnecessary sequels", that w
-
-
 
 
 
@@ -332,4 +370,4 @@ But there are precious few films about how discovering that your partner is a dr
 
 And I think that discovering that your Husband is was a drug addict is just so much more potent. Johns would have had to completely rethink their relationship. All those little things would suddenly start to make sense, as they always do. Ultimately it would make no difference, he would love him just as much.
 
-finally, it would mean that the actor wouldn't look way to young to be Johns father. Ten years has passed since the events of Pitch Black. Taking that into account, Both Johns are about the same age, so I can only suppose that Johns Sr has had some serious work done. Perhaps he exchanged twenty menthol kools for a surgical face lift.
+finally, it would mean that the actor wouldn't look way to young to be Johns father. Ten years have passed since the events of Pitch Black. Taking that into account, Both Johns are about the same age, so I can only suppose that Johns Sr has had some serious work done. Perhaps he exchanged twenty menthol kools for a surgical face lift.
