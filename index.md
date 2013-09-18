@@ -27,24 +27,25 @@ Any will do, with a flick of a red pen John McLain quickly becomes a protagonist
 Layout
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Part 1: Hero
-
-A discussion about the differences between Riddicks in the three films
-
-Part 2: Villain
-
-A discussion about how the Riddick in Pitch Black is just as much a force of nature in the first film as the aliens that he dispatches. He is good because he is not in focus too much of the time, letting other characters largely carry the plot.
-
-Part 3: Cannon Fodder
-
-A discussion about how, although the supporting characters are auxiliary to the plot, the fact that we like them is a massive part of what makes Pitch Black good. It raises the stakes when we actually like the characters.
-
-Solution
-
-A discussion about how a sequel to a movie like Pitch Black can best be executed. Can it?
-
-
-Introduction
 ---
 
 "They say most of your brain shuts down in cryosleep. All but the primitive side. The animal side. No wonder I am still awake"
@@ -59,107 +60,6 @@ But, by the end of the film, there is no doubt that Riddick is the hero of this 
 
 But, while ostensibly Riddick may have escaped the planet at the end of Pitch Black, in many ways his character, his character never did. 
 
-Pitch Black: The Plot
----
-
-Our story begins aboard the Hunter Gratzner, where Richard B. Riddick is being transported in cryosleep back to the prison by bounty hunter William Johns. After a midflight incident, the pilot Carolyn Fry crash lands the ship on a planet. Their ship is badly damaged, but the soon find another ship with which they can escape the planet. But their troubles are not yet over, as the planet is infested with dangerous flying creatures and it is up to Riddick, Fry, Johns and the rest of the passengers to escape.
-
-The Protagonist
----
-
-For any movie about killer space monsters, parallels must be drawn to Alien. Consider:
-
-In Alien, a [greedy crew member] brings a dangerous alien on board in an attempt to get rich. The Alien escapes, and then slowly hunts down each of the crew members in turn while the crew, headed by Ripley, try to track it down.
-
-By contrast, in the first half of Pitch Black, John's brings a dangerous being on board in an attempt to get rich. Riddick escapes, and then (we are lead to believe) slowly hunts down each of the crew members in turn while the crew, led by Fry, try to track him down.
-
-A forced analogy? Maybe. But there is no question that in the first half of Pitch Black, before we truly understand the danger posed by the flying creatures, the audience is forced to see Riddick as the salient threat of the film.
-
-It is interesting, if you were to rewrite the movie, thirty minutes in, how different it could have gone.
-
-
-
-
-
-
-
-
-
-Who is the protagonist of Pitch Black? What do we expect from our protagonists? Courage, strength, intelligence? Quick one-liners?
-
-Perhaps, all we need for someone to be a protagonist is for the audience to identify with them, to see the world from their point of view. Indeed, there are plenty of stories out there about anti-heroes, who we identify with and are undoubtedly the protagonists of their own films.
-
-But can Riddick, who does not utter a single line of dialog for the first twenty seven minutes of the film, possibly be considered the film's protagonist? Is he the character that the audience most sympathise with?
-
-It would not have been hard, for a writer to pick up the film after forty five minutes and turn it into a standard Freddy or Jason style slasher, with perhaps just one of the crew members escaping with the escape ship (with a cut of Riddick hiding in the engine bay for the stinger).
-
-But this is not the direction the film chooses to take. It instead becomes much more interesting. Johns makes a deal with Riddick: help them, guide them, and he will get his freedom.
-
-But before we discuss the rest of the film, let us look where we are after twenty seven minutes.
-
-The first act is unquestionably Carolyn Fry's movie. 
-
-The film starts, with her waking up from cryosleep in the midst of a disaster. While the her co-pilot Owens is still reeling from his sudden awakening, she is immediately into action, trying to land the ship.
-
-She is then immediately confronted with an "action movie choice". With the ship crashing, she prepares to purge the passenger cabin. Owens talks her down, telling her that he has every confidence in her to be able to land the ship.
-
-However, with ship still spinning out of control she attempts to purge the cabin anyway, but Owens has sabotaged the system, so that she is forced to try and land the ship intact.
-
-It is at this point that we see the character Fry is, both in herself, and how she is reflected in Owens. 
-
-She had the ability to land the ship, and Owens believes in her enough to entrust his own life into her hands. But she does not.
-
-Is she merely being selfish, being willing to abandon people she doesn't know in a bid to save herself and her colleague? Perhaps, but she is also clearly pragmatic. In her mind, they are all going to die, and she is willing to make the sacrifices to save those she can.
-
-This is often the kind of opening scene a movie would use to set up their main character. Perhaps this was a flashback, and she has since been rescued is now currently unable to forgive herself for trying to sacrifice all those people. One logical thing to do now, would be to cut to her waking up screaming in bed, before suddenly realising that she was just reliving her nightmare. Pan over to the futuristic alarm clock, showing that it is 3:34 in the morning, but never mind going back to sleep, Carolyn is going to wake up and brood. 
-
-But fear not, soon an old friend calls her. They need a brilliant pilot. She says that she doesn't do that anymore. Ever since… "You can't blame yourself for that Carolyn, you did what you had to do." After a little bit of backstory, and perhaps a hint of past romance, she decides to at least listen to the offer. They get dinner in a shady diner with a shady backer, and after enough exposition, we are off on a good science fiction romp.
-
-Instead, Pitch Black continues. Fry quickly assesses the damage, gathers to survivors and addresses the "Riddick problem". A lot of time is put into her emotion, and feelings at this point in the film. The guilt that she feels for Owens' death, not to mention trying to kill the rest of passengers.
-
-She clearly doesn't have much motivation to do anything, but she still soldiers on, perhaps her military training kicking in. She organises the search for water and talks to Johns about the best way to deal with Riddick. She doesn't become overly demanding, or try and pull rank, and we genuinely like her.
-
-At the same time, the movie pauses long enough on the rest of the characters for us to get to like them. At this point in the movie, we are setting up for Friday 13th style slasher, and it is already clear that not everyone is going to make it off this planet.
-
-But unlike most Friday 13th style movies, most of these characters are quite likeable and believable. Rather than thin stereotypes (???, The Jock, The Whore, The Clown and The Virgin as so eloquently stated in Cabin in the Woods), we get well rounded characters, each with their own motivations and abilities. 
-
-This is in many ways, what Pitch Black does best. You actually want all these characters to survive. Sure, you came to the movie to see the awesome kills, and you want your money's worth, but humanising these people only helps the movie.
-
-Abu, the Imam, is one of the most interesting of these. In addition to being one of the few survivors, his paternal care of his acolytes brings a sense of a family to the film, without needing the inevitable "father's vengeance". 
-
-He clearly cares a lot for his kids, but trusts in his God as they slowly and mercilessly get killed one by one. Perhaps he sees himself as a Job figure, seeking meaning in his punishment. Perhaps not.
-
-But it is also this religious aspect that adds a good deal of depth to the film. The Imam finds himself in the company of atheists, who gently discount his faith (???, Is this true?). 
-
-But it is when he is discussing God with Riddick that the film becomes most interesting. Indeed, Riddick claims to believe in some kind of God figure, laying much of his trouble at his feet. Whether this is a true belief or merely social construct that Riddick uses to explain the bad things that happen in this world, is known only to him however.
-
-But the Imam's constant Faith is something that Riddick starts to admire. When the rain starts to fall, Riddick asks "So where the hell's your God now?". But shortly after, when Carolyn convinces Riddick to save them, the Imam finally says, "There is my my God, Mr Riddick", to which Riddick simply smiles in acknowledgement.
-
-Yes, that sentence can be interpreted two ways, but I think it can simply be taken as the Imam trying to say that God has a plan for Riddick.
-
-As they finally fly into the sunset, the Imam acknowledges, that he "There is so much prayer to make up for, I scarcely know where to begin", Jack replies, "I know where I would start".
-
-I never did really understand what Jack meant in this scene. The best I can guess is that she meant that she would than God for Riddick, but if anyone has a better idea I would love to hear it.
-
-This brings up the character of Jack. A young girl travelling alone, masquerading as a boy, she has a hero worship of Riddick. 
-
-Jack quickly fashions replicas of Riddick's trademark goggles, and runs around the ship terrorising the rest of the crew, in ways on children can, until one passenger finally quips, "Did you run away from your parents or did they run away from you?"
-
-Jack is very believable and never annoying as young characters in these movies so often are. 
-
-In the scene where Riddick and Fry are talking about (??? Name's) disappearance, Jack enters and starts asking about Riddick's eyes. This is a wonderful bit of exposition, and a chance for Jack to show her fascination with Riddick, and the secret of his surgical sine job which is so poorly executed on in the following film.
-
-Jack's gender is a secret kept from both the characters and the audience well into the film. When the crew must pass the most dangerous point in their journey Riddick halts the group, stating that it will be impossible to go any further, "Especially with the girl bleeding."
-
-Jack also has a crucial role to play later in the film, where Johns decides to ask Riddick to "triage" Jack to save the rest of the group. Why precisely Johns would make this offer isn't exactly clear. Perhaps he doesn't understand Riddick very well. But Riddick quite clearly states that there is a line that he won't cross and Johns flew way over it.
-
-After dispatching Johns, Riddick returns to the group, informing them of what happens. When Jack starts to get upset about losing him, Riddick simply says, "Don't you cry for Johns. Don't you dare".
-
-The other characters, while minor roles, are still very likeable. None of them really conform to typical stereotype roles, and they all have a little bit to contribute to the film. While inevitable, you do feel a little sorry for each of them as they are dispatched, albeit normally at their own hands for not doing as they are told.
-
-
-The Xenomorph
----
 
 With his first line of dialog, Riddick steals the movie right from under her.
 
@@ -307,11 +207,160 @@ That is not to say that the Riddick presented in Pitch Black is weak. He shows h
 
 
 
+
+
+
+
+
+Part 2: Villain
+---
+
+A discussion about how the Riddick in Pitch Black is just as much a force of nature in the first film as the aliens that he dispatches. He is good because he is not in focus too much of the time, letting other characters largely carry the plot.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part 3: Cannon Fodder
+
+
 There are many comparisons to be made with Alien. Both film's feature largely on female protagonists. Both movies involve getting stalked in the dark by aliens. Both movies feature largely civilian crew members. 
 
-"Don't you touch that handle Fry!"
+For any movie about killer space monsters, parallels must be drawn to Alien. Consider:
+
+In Alien, a [greedy crew member] brings a dangerous alien on board in an attempt to get rich. The Alien escapes, and then slowly hunts down each of the crew members in turn while the crew, headed by Ripley, try to track it down.
+
+By contrast, in the first half of Pitch Black, John's brings a dangerous being on board in an attempt to get rich. Riddick escapes, and then (we are lead to believe) slowly hunts down each of the crew members in turn while the crew, led by Fry, try to track him down.
+
+A forced analogy? Maybe. But there is no question that in the first half of Pitch Black, before we truly understand the danger posed by the flying creatures, the audience is forced to see Riddick as the salient threat of the film.
+
+It is interesting, if you were to rewrite the movie, thirty minutes in, how different it could have gone.
+
+Who is the protagonist of Pitch Black? What do we expect from our protagonists? Courage, strength, intelligence? Quick one-liners?
+
+Perhaps, all we need for someone to be a protagonist is for the audience to identify with them, to see the world from their point of view. Indeed, there are plenty of stories out there about anti-heroes, who we identify with and are undoubtedly the protagonists of their own films.
+
+But can Riddick, who does not utter a single line of dialog for the first twenty seven minutes of the film, possibly be considered the film's protagonist? Is he the character that the audience most sympathise with?
+
+It would not have been hard, for a writer to pick up the film after forty five minutes and turn it into a standard Freddy or Jason style slasher, with perhaps just one of the crew members escaping with the escape ship (with a cut of Riddick hiding in the engine bay for the stinger).
+
+But this is not the direction the film chooses to take. It instead becomes much more interesting. Johns makes a deal with Riddick: help them, guide them, and he will get his freedom.
+
+But before we discuss the rest of the film, let us look where we are after twenty seven minutes.
+
+The first act is unquestionably Carolyn Fry's movie. 
+
+The film starts, with her waking up from cryosleep in the midst of a disaster. While the her co-pilot Owens is still reeling from his sudden awakening, she is immediately into action, trying to land the ship.
+
+She is then immediately confronted with an "action movie choice". With the ship crashing, she prepares to purge the passenger cabin. Owens talks her down, telling her that he has every confidence in her to be able to land the ship.
+
+However, with ship still spinning out of control she attempts to purge the cabin anyway, but Owens has sabotaged the system, so that she is forced to try and land the ship intact.
+
+It is at this point that we see the character Fry is, both in herself, and how she is reflected in Owens. 
+
+She had the ability to land the ship, and Owens believes in her enough to entrust his own life into her hands. But she does not.
+
+Is she merely being selfish, being willing to abandon people she doesn't know in a bid to save herself and her colleague? Perhaps, but she is also clearly pragmatic. In her mind, they are all going to die, and she is willing to make the sacrifices to save those she can.
+
+This is often the kind of opening scene a movie would use to set up their main character. Perhaps this was a flashback, and she has since been rescued is now currently unable to forgive herself for trying to sacrifice all those people. One logical thing to do now, would be to cut to her waking up screaming in bed, before suddenly realising that she was just reliving her nightmare. Pan over to the futuristic alarm clock, showing that it is 3:34 in the morning, but never mind going back to sleep, Carolyn is going to wake up and brood. 
+
+But fear not, soon an old friend calls her. They need a brilliant pilot. She says that she doesn't do that anymore. Ever since… "You can't blame yourself for that Carolyn, you did what you had to do." After a little bit of backstory, and perhaps a hint of past romance, she decides to at least listen to the offer. They get dinner in a shady diner with a shady backer, and after enough exposition, we are off on a good science fiction romp.
+
+Instead, Pitch Black continues. Fry quickly assesses the damage, gathers to survivors and addresses the "Riddick problem". A lot of time is put into her emotion, and feelings at this point in the film. The guilt that she feels for Owens' death, not to mention trying to kill the rest of passengers.
+
+She clearly doesn't have much motivation to do anything, but she still soldiers on, perhaps her military training kicking in. She organises the search for water and talks to Johns about the best way to deal with Riddick. She doesn't become overly demanding, or try and pull rank, and we genuinely like her.
+
+At the same time, the movie pauses long enough on the rest of the characters for us to get to like them. At this point in the movie, we are setting up for Friday 13th style slasher, and it is already clear that not everyone is going to make it off this planet.
+
+But unlike most Friday 13th style movies, most of these characters are quite likeable and believable. Rather than thin stereotypes (???, The Jock, The Whore, The Clown and The Virgin as so eloquently stated in Cabin in the Woods), we get well rounded characters, each with their own motivations and abilities. 
+
+This is in many ways, what Pitch Black does best. You actually want all these characters to survive. Sure, you came to the movie to see the awesome kills, and you want your money's worth, but humanising these people only helps the movie.
+
+Abu, the Imam, is one of the most interesting of these. In addition to being one of the few survivors, his paternal care of his acolytes brings a sense of a family to the film, without needing the inevitable "father's vengeance". 
+
+He clearly cares a lot for his kids, but trusts in his God as they slowly and mercilessly get killed one by one. Perhaps he sees himself as a Job figure, seeking meaning in his punishment. Perhaps not.
+
+But it is also this religious aspect that adds a good deal of depth to the film. The Imam finds himself in the company of atheists, who gently discount his faith (???, Is this true?). 
+
+But it is when he is discussing God with Riddick that the film becomes most interesting. Indeed, Riddick claims to believe in some kind of God figure, laying much of his trouble at his feet. Whether this is a true belief or merely social construct that Riddick uses to explain the bad things that happen in this world, is known only to him however.
+
+But the Imam's constant Faith is something that Riddick starts to admire. When the rain starts to fall, Riddick asks "So where the hell's your God now?". But shortly after, when Carolyn convinces Riddick to save them, the Imam finally says, "There is my my God, Mr Riddick", to which Riddick simply smiles in acknowledgement.
+
+Yes, that sentence can be interpreted two ways, but I think it can simply be taken as the Imam trying to say that God has a plan for Riddick.
+
+As they finally fly into the sunset, the Imam acknowledges, that he "There is so much prayer to make up for, I scarcely know where to begin", Jack replies, "I know where I would start".
+
+I never did really understand what Jack meant in this scene. The best I can guess is that she meant that she would than God for Riddick, but if anyone has a better idea I would love to hear it.
+
+This brings up the character of Jack. A young girl travelling alone, masquerading as a boy, she has a hero worship of Riddick. 
+
+Jack quickly fashions replicas of Riddick's trademark goggles, and runs around the ship terrorising the rest of the crew, in ways on children can, until one passenger finally quips, "Did you run away from your parents or did they run away from you?"
+
+Jack is very believable and never annoying as young characters in these movies so often are. 
+
+In the scene where Riddick and Fry are talking about (??? Name's) disappearance, Jack enters and starts asking about Riddick's eyes. This is a wonderful bit of exposition, and a chance for Jack to show her fascination with Riddick, and the secret of his surgical sine job which is so poorly executed on in the following film.
+
+Jack's gender is a secret kept from both the characters and the audience well into the film. When the crew must pass the most dangerous point in their journey Riddick halts the group, stating that it will be impossible to go any further, "Especially with the girl bleeding."
+
+Jack also has a crucial role to play later in the film, where Johns decides to ask Riddick to "triage" Jack to save the rest of the group. Why precisely Johns would make this offer isn't exactly clear. Perhaps he doesn't understand Riddick very well. But Riddick quite clearly states that there is a line that he won't cross and Johns flew way over it.
+
+After dispatching Johns, Riddick returns to the group, informing them of what happens. When Jack starts to get upset about losing him, Riddick simply says, "Don't you cry for Johns. Don't you dare".
+
+The other characters, while minor roles, are still very likeable. None of them really conform to typical stereotype roles, and they all have a little bit to contribute to the film. While inevitable, you do feel a little sorry for each of them as they are dispatched, albeit normally at their own hands for not doing as they are told.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution
+
+A discussion about how a sequel to a movie like Pitch Black can best be executed. Can it?
 
 
 
@@ -371,3 +420,37 @@ But there are precious few films about how discovering that your partner is a dr
 And I think that discovering that your Husband is was a drug addict is just so much more potent. Johns would have had to completely rethink their relationship. All those little things would suddenly start to make sense, as they always do. Ultimately it would make no difference, he would love him just as much.
 
 finally, it would mean that the actor wouldn't look way to young to be Johns father. Ten years have passed since the events of Pitch Black. Taking that into account, Both Johns are about the same age, so I can only suppose that Johns Sr has had some serious work done. Perhaps he exchanged twenty menthol kools for a surgical face lift.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our story begins aboard the Hunter Gratzner, where Richard B. Riddick is being transported in cryosleep back to the prison by bounty hunter William Johns. After a midflight incident, the pilot Carolyn Fry crash lands the ship on a planet. Their ship is badly damaged, but the soon find another ship with which they can escape the planet. But their troubles are not yet over, as the planet is infested with dangerous flying creatures and it is up to Riddick, Fry, Johns and the rest of the passengers to escape.
+
