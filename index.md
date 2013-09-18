@@ -5,54 +5,27 @@ layout: main
 Antihero: Why the Riddick franchise doesn't understand itself
 ---
 
-Mind Dump
----
+Abstract
+========
 
-Can Hollywood create a trilogy about a character that is anything less than a superhero, responsible for saving the universe?
+Can Hollywood create a trilogy about a character that is anything less than a superhero responsible for saving the universe?
 
-An unfair question really. The real question is, is there a way to create a trilogy around the story of a normal character? The truth is that typical "normal man in the wrong place at the wrong time" characters normally start looking a little silly by the third time they are involved in an adventure.
+Popular films leave their audiences with a deep seated affection for their heroes. A sequel is the natural way to capitalise on this. But a character needs a bigger challenge on their second visit to the silver screen, which must once again be amplified for the third. This continues until the once beloved character bears no longer resemblance to his earlier self (See Jason X aka Jason in Space). 
 
-An obvious example would be Joh McClain (spelling), begins his narrative journey as a police officer and deadbeat father and soon turns into a John Rambo on steroids. In many ways, the Die Hard series achieved more than most. While I am personally not a fan of Die Hard 2, by and large it remains believable (relatively speaking), and apart from a bit of nudging the fourth wall ("Why does this keep happening to us?", "Not again"), the characters remain in their own world. Die Hard: With a Vengance, does a much better job. By losing the fourth wall and pairing John up with an entertaining sidekick, Die Hard 3 feels like a perfect sequel. John is no more powerful than he was in Die Hard one, and his motivation and circumstances are believable.
+Die Hard came close. The first three Die Hard films remain within the bounds of reality. However, things swiftly go downhill with Die Hard 4.0 (Live Free or Die Hard), with the character of John McLain being almost unrecognisable, as he is soon blowing up helicopters with cars and surfing jets (seriously not making this up, watch the movie). By the fifth film, the character simply has no limits anymore.
 
-However, things swiftly go downhill with Die Hard 4.0 (Live Free or Die Hard), with the character of John McLain being almost unrecognisable, as he is soon blowing up helicopters with cars and surfing jets (seriously not making this up, watch the movie).
-
-But in a way what is most tragic about Die Hard 4.0 is that it is actually a great movie. It would have fit in perfectly as a Brosnan era Bond film, or some equally slapstick action film. But it is not a good Die Hard film.
-
-Die Hard is supposed to be about about a New York Cop, doing the best he can in the situation. In Die Hard, when terrorists attack Nakatomi Plaza, his first action, is to run away from danger. He then tries to call the police; the phone lines are cut. He then pulls the fire alarm, and the call is diverted. He then takes down ONE terrorist, and uses his radio to call for help. Once police assistance arrives, he hides in the bathroom, until he suddenly realises that the roof has been rigged with explosives, forcing him to try to save hostages.
-
-At every junction his choices are quite logical and believable for his character. And this continues, by and large, for the next two films. But soon Hollywood require another movie, to capitalise on a much loved character, and quickly start looking around the back shelves for an action movie plot. 
-
-Any will do, with a flick of a red pen John McLain quickly becomes a protagonist, complete with catchphrase and references to previous films. The fact that his character has suddenly become superhuman badass is irrelevant.
-
-Layout
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+And it is these limits, that form focus of our discussion.
 
 
 Part 1: Hero
----
+============
 
 "They say most of your brain shuts down in cryosleep. All but the primitive side. The animal side. No wonder I am still awake"
 
-In the first twenty four words, Pitch Black tells you more about the character of Riddick than most films do in their entire three acts. I mean, talk about setting a scene. Who is this character that is somehow unaffected by Cryosleep? who refers to himself as a wholly "primitive animal"?
+In the first twenty four words, Pitch Black tells you more about the character of its protagonist than most films do in their entire three acts. These immortal lines hook the audiences attention immediately. Who is this character that is somehow unaffected by Cryosleep? who refers to himself as a wholly "primitive animal"?
 
-Who is this character who then goes on to describe, with remarkable detail, right down to the leather tool belt, his fellow passengers, presumably by smell alone?
+Richard B. Riddick
+------------------
 
 And yet, this is the very downfall of Riddick franchise. Pitch Black is a film about survival, about many characters working together to survive the elements. In many ways, Riddick is just just one of those characters. He is not necessarily main character, he doesn't even have the most screen time. 
 
@@ -444,11 +417,22 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 
+Who is this character who then goes on to describe, with remarkable detail, right down to the leather tool belt, his fellow passengers, presumably by smell alone?
+
+ John McClane, begins his narrative journey as a police officer and deadbeat husband, a believable everyman who is thrust into events beyond his control. But before long, John McClane turns into John Rambo on steroids. In many ways, the Die Hard series achieved more than most, it was actually capable of putting together a solid trilogy before succumbing to inevitable Hollywood money making machine. 
 
 
+??? Move the rest of this down to somewhere more appropriate.
 
+While I am personally not a fan of Die Hard 2, by and large it remains believable (relatively speaking), and apart from a bit of nudging the fourth wall ("Why does this keep happening to us?", "Not again"), the characters remain in their own world. Die Hard: With a Vengance, does a much better job. By losing the fourth wall and pairing John up with an entertaining sidekick, Die Hard 3 feels like a perfect sequel. John is no more powerful than he was in Die Hard one, and his motivation and circumstances are believable.
 
+But in a way what is most tragic about Die Hard 4.0 is that it is actually a great movie. It would have fit in perfectly as a Brosnan era Bond film, or some equally slapstick action flick. But it is not a good Die Hard film, because the character has no limits.
 
+Die Hard is supposed to be about about a New York Cop, doing the best he can in the situation. In Die Hard, when terrorists attack Nakatomi Plaza, his first action, is to run away from danger. He then tries to call the police; the phone lines are cut. He then pulls the fire alarm, and the call is diverted. He then takes down ONE terrorist, and uses his radio to call for help. Once police assistance arrives, he hides in the bathroom, until he suddenly realises that the roof has been rigged with explosives, forcing him to try to save hostages.
+
+At every junction his choices are quite logical and believable for his character. And this continues, by and large, for the next two films. But soon Hollywood require another movie, to capitalise on a much loved character, and quickly start looking around the back shelves for an action movie plot. 
+
+Any will do, with a flick of a red pen John McLain quickly becomes a protagonist, complete with catchphrase and references to previous films. The fact that his character has suddenly become superhuman badass is irrelevant.
 
 
 
