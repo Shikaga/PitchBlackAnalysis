@@ -3,7 +3,7 @@ layout: main
 ---
 
 Antihero: Why the Riddick franchise doesn't understand itself
----
+=============================================================
 
 Abstract
 ========
@@ -44,8 +44,8 @@ And yet, this never seems to come to pass. Did he know that Johns would release 
 
 Indeed, it would not have been hard for to add a line of dialog for it to be so,
 
-RIDDICK: “Come on Carolyn. You think I helped you out of the goodness of my heart?” LAUGHS Fry shakes her head, visibly upset. 
-RIDDICK: “I couldn’t make it all the way myself, I needed a distraction. That’s all you were to me Fry. Big, fat, juicy distractions” SMILES EVILY
+> RIDDICK: “Come on Carolyn. You think I helped you out of the goodness of my heart?” LAUGHS Fry shakes her head, visibly upset. 
+> RIDDICK: “I couldn’t make it all the way myself, I needed a distraction. That’s all you were to me Fry. Big, fat, juicy distractions” SMILES EVILY
 
 And yet, this is not the Riddick that we are given in this movie. His role as antagonist does not outlive the first act. In fact, upon reflection, his actions of the first act are not conducive to an antagonist role when taken in context. Sure, he tried to incapacitate Johns in a bid to escape. But beyond that he doesn’t seem to bear any ill will to any of the crewmembers, even Johns.
 
@@ -100,25 +100,25 @@ The scene in which Fry arrives at the ship just in time to prevent Riddick from 
 
 Each of them has made it to safety against incredible odds, and the prospect of going back for the remaining two survivors suddenly seems like an impossible task.
 
-RIDDICK: "Strong survival instinct. I admire that in a woman"
-FRY: "I promised them, that we would go back with more light"
-RIDDICK: "Did you? Hmmm"
-FRY: "What? Are you afraid?"
-RIDDICK: "Me afraid?" LAUGHING
+> RIDDICK: "Strong survival instinct. I admire that in a woman"
+> FRY: "I promised them, that we would go back with more light"
+> RIDDICK: "Did you? Hmmm"
+> FRY: "What? Are you afraid?"
+> RIDDICK: "Me afraid?" LAUGHING
 
 But Riddick is afraid. He doesn't think that he can do it. He already abandoned them once, when he decided to leave them at the last mile. Riddick is not a villian, he did not string his fellow passengers only to abandon them out of some kind of sadistic game. He truly believed he was too weak to save them, and his own survival instinct made him take the pragmatic approach.
 
 When Fry tries to convince him to save the others, he simply counters with offering to take her with him, knowing it would be suicide, and that Fry is too clever to do otherwise.
 
-"You don't know anything about me. I will leave you here"
-"I can't. I can't" CRYING
-"Sure you can, here I will make it easy on you
+> RIDDICK: "You don't know anything about me. I will leave you here"
+> FRY: "I can't. I can't" CRYING
+> RIDDICK: "Sure you can, here I will make it easy on you
 
 Riddick stretches out his hand
 
-"Take my hand, Come on, Come one"
-"Look, no one is going to blame you Carolyn"
-"Come on, Come on, That's it, That's it. Good Girl"
+> RIDDICK: "Take my hand, Come on, Come one"
+> RIDDICK: "Look, no one is going to blame you Carolyn"
+> RIDDICK: "Come on, Come on, That's it, That's it. Good Girl"
 
 In this scene, Riddick is trying to get Carolyn to also take the cowards way out. He clearly thinks that if she too, abandons the others, then he is no more guilty that any other pragmatic individual.
 
@@ -126,16 +126,16 @@ He asks her to come aboard, offering his hand, and coaxing her onboard with gent
 
 But then Fry's personal journey finally resolves. She determines that she would rather face death, even certain death, than leave any of her crew to die. She is able to rectify her mistake, to forgive herself for trying to purge the passenger hold.
 
-FRY: "Now, you! You listen to me! I am the captain of this ship. And I am not leaving anyone on this rock"
+> FRY: "Now, you! You listen to me! I am the captain of this ship. And I am not leaving anyone on this rock"
 
-RIDDICK: "You would die for them?"
-FRY: "I would try for them"
-RIDDICK: "You didn't answer me"
-RIDDICK: "Yes I would Riddick, I would. I would die for them"
+> RIDDICK: "You would die for them?"
+> FRY: "I would try for them"
+> RIDDICK: "You didn't answer me"
+> RIDDICK: "Yes I would Riddick, I would. I would die for them"
 
 Riddick takes off his goggles. A beat
 
-RIDDICK: "How interesting"
+> RIDDICK: "How interesting"
 
 It is in this moment that Riddick is a most interesting character. He has seen something that he can't explain. For Fry to selflessly go back for the others, even without Riddick's help intrigues him.
 
@@ -147,10 +147,7 @@ Fry helps Riddick back to his feet, but while helping him back to the ship, she 
 
 It is difficult to know what the character of Riddick feels at this moment. He seems to blame himself, but it is quite possible that he would let her take the blame for her own actions. He did warn her of the dangers of such a selfless act, and she declared that she was willing to die for them.
 
-
 He allows himself a moment to grieve, but once again, he tries to embody his persona of "stone cold killer", by the time that he once again joins the rest of the crew. What this says about his character, is as much a reflection of viewers feeling as Riddick's, but it is clear that he is not unnaffected by her death.
-
-
 
 And while Riddick is not an emotionless robot, nor is he an unstoppable killing machine. Indeed, in this regard, in the sequel, The Chronicles of Riddick it seems like he is a completely different character. 
 
@@ -159,7 +156,6 @@ In Pitch Black he is frequently bested by the rest of crew. When he first escape
 Nor does he have the usual prescience of a movie hero. He frequently misjudges both his enemies and his allies. When cornered by the creatures, he runs towards the rest of the crew, not predicting that they would instinctively shine light in his eyes. I have almost never seen such a trivial mistake made by a movie hero, and it imbues Riddick with a certain sense of believablity.
 
 "It looks clear"
-
 
 In addition, we can assume that John's was able to track down and capture Riddick by his skill as a bounty hunter.
 
