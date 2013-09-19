@@ -27,14 +27,27 @@ In the first twenty four words, Pitch Black tells you more about the character o
 Richard B. Riddick
 ------------------
 
-And yet, this is the very downfall of Riddick franchise. Pitch Black is a film about survival, about many characters working together to survive the elements. In many ways, Riddick is just just one of those characters. He is not necessarily main character, he doesn't even have the most screen time. 
+Badass. There is no better word to describe Riddick. He is a badass. A confessed murder, he is supremely competent and while he is arrogant, he has the strength to back up his arrogance. He has no strong moral core, but he still lives by a code.
 
-But, by the end of the film, there is no doubt that Riddick is the hero of this piece. And it is upon this foundation that the Riddick franchise was built, including multiple films, video games and even anime.
-
-But, while ostensibly Riddick may have escaped the planet at the end of Pitch Black, in many ways his character, his character never did. 
+Some might say that he is the man that every woman wants, and every man wants to be. While not a psychologist, I suspect that his character appeals a lot more to men than women. The Alpha male sensibilities that Riddick exudes provide a great deal of wish fulfilment for men. He is subsequently feared and idolised. When he talks people listen, and when he says jump, people ask how high. 
 
 
-With his first line of dialog, Riddick steals the movie right from under her.
+And yet, it  this is the very downfall of Riddick franchise. The first film, Pitch Black, is a film about survival, about many characters working together to survive the elements. In many ways, Riddick is just just one of those characters. 
+
+Yet by the end of the film, we, like Jack in the movie, have fallen into a sort of hero worship of a character who never became much more than human. It is often difficult to consider Pitch Black as it's own film, so intertwined is the Riddick legend with sequels and video games. But even a person who has only watched Pitch Black will likely come out of the movie with the impression of "Badass", on their minds, which is likely only going to grow over time.
+
+But is this an accurate representation of Riddick, and is it the reason that Pitch Black is a good movie and Riddick a great character?
+
+Alpha Male
+----------
+
+
+
+
+
+
+
+
 
 Riddick is clearly the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to “skullfuck you in your sleep”.
 
@@ -406,7 +419,14 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 
+He is not necessarily main character, he doesn't even have the most screen time. 
 
+But, by the end of the film, there is no doubt that Riddick is the hero of this piece. And it is upon this foundation that the Riddick franchise was built, including multiple films, video games and even anime.
+
+But, while ostensibly Riddick may have escaped the planet at the end of Pitch Black, in many ways his character, his character never did. 
+
+
+With his first line of dialog, Riddick steals the movie right from under her.
 
 
 
