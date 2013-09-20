@@ -415,7 +415,17 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 
+Pitch Black is science-fiction horror film, starring Vin Diesel. It has all the trappings of classic survival horror. A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors to be killed for viewing pleasure of the audience. But above all this, one element stands out in the film, the character of Richard B. Riddick (yes, his name is Dick Riddick; School must have been hard for him, it's no wonder he became a murderous psychopath).
 
+But, while Pitch Black may have all the trappings of generic horror movie, it goes far beyond that, breaking the bounds of mediocrity and becoming, in my opinion at least, a near perfect film. 
+
+But what do you do with such a film? Why, you make a sequel. After all, there are a lot of similarities between Pitch Black and Ridley Scott's horror masterpiece, Alien. And James Cameron's sequel to Alien, Aliens, is an action movie triumph. Take your main character, throw them back into the fray in a larger story with more aliens and bigger explosions, complete with nukes from orbit, and you have motion picture gold.
+
+Sadly, this was not to be the destiny of the Riddick franchise. The ill conceived Chronicles of Riddick, failed at so base a level, that it is hard to say anything good about it. From the plot, to the dialog, to the editing, characters and villains, it is quite hard to say anything good about the film. There are perhaps a few individual scenes, that I can say something positive about, but I sure can't think of any right now.
+
+Apparently, producers felt the same way, and it seemed like the Riddick franchise was dead in the water for the better part of a decade. But Vin Diesel was not to be stopped. Becoming an action movie star in the intervening time since Pitch Black, thanks in large part to the Fast and Furious franchise, now going into it's seventh incarnation, he used his influence in Hollywood to secure the rights to the Riddick franchise, and in what some may quite rightly describe as a vanity project, sunk his own money into producing another sequel.
+
+Riddick, the film, sees Vin Diesel reprise his role in what is by and large a remake of the first film.
 
 
 
