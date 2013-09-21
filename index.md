@@ -8,13 +8,19 @@ Antihero: Why the Riddick franchise doesn't understand itself
 Abstract
 ========
 
-Can Hollywood create a trilogy about a character that is anything less than a superhero responsible for saving the universe?
+Pitch Black is science-fiction horror film, starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for viewing pleasure of the audience. But above all this, one element stands out in the film: the character of Richard B. Riddick.
 
-Popular films leave their audiences with a deep seated affection for their heroes. A sequel is the natural way to capitalise on this. But a character needs a bigger challenge on their second visit to the silver screen, which must once again be amplified for the third. This continues until the once beloved character bears no longer resemblance to his earlier self (See Jason X aka Jason in Space). 
+But, while Pitch Black may have all the trappings of generic horror movie, it goes far beyond that, breaking the bounds of mediocrity and becoming, in my opinion at least, a near perfect film. 
 
-Die Hard came close. The first three Die Hard films remain within the bounds of reality. However, things swiftly go downhill with Die Hard 4.0 (Live Free or Die Hard), with the character of John McLain being almost unrecognisable, as he is soon blowing up helicopters with cars and surfing jets (seriously not making this up, watch the movie). By the fifth film, the character simply has no limits anymore.
+And with a successful horror movie being loved by audiences everywhere, a sequel cannot be far behind. After all, there are a lot of similarities between Pitch Black and Ridley Scott's horror masterpiece, Alien. And James Cameron's sequel to Alien, Aliens, is an action movie triumph. Take your main character, throw them back into the fray in a larger story with more aliens and bigger explosions, complete with nukes from orbit, and you have motion picture gold.
 
-And it is these limits, that form focus of our discussion.
+Sadly, this was not to be the destiny of the Riddick franchise. The ill conceived Chronicles of Riddick, failed at so base a level that it looked like the it would take the franchise down with it. From the plot, to the dialog, the editing, characters and villains, it is quite hard to say anything good about the film. There are perhaps a few good individual scenes, but I sure can't think of any right now.
+
+Apparently, producers felt the same way, and it seemed like the Riddick franchise was dead in the water for the better part of a decade, as far the silver screen was concerned (although it has supposedly had a favourable run of attached video games, a rare occurance in a world of low budget video game cash ins). But Vin Diesel was not so easily deterred. Becoming an action movie star in the intervening time since Pitch Black, thanks in large part to the Fast and Furious franchise, now going into it's seventh incarnation and in what some may describe as a vanity project, sunk his own money into producing another sequel.
+
+Riddick, the film, sees Vin Diesel reprise his role in what is by and large a remake of the first film. Gone is the convoluted world building and supernatural plot lines. A back to basics Riddick vs the Elements film tries to exploit what made Pitch Black so good, and while it doesn't quite stick the landing, it was a good effort. 
+
+But why? What is it that makes Pitch Black so good, Chronicles so bad and Riddick mediocre at best?
 
 
 Part 1: Hero
@@ -415,17 +421,12 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 
-Pitch Black is science-fiction horror film, starring Vin Diesel. It has all the trappings of classic survival horror. A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors to be killed for viewing pleasure of the audience. But above all this, one element stands out in the film, the character of Richard B. Riddick (yes, his name is Dick Riddick; School must have been hard for him, it's no wonder he became a murderous psychopath).
 
-But, while Pitch Black may have all the trappings of generic horror movie, it goes far beyond that, breaking the bounds of mediocrity and becoming, in my opinion at least, a near perfect film. 
 
-But what do you do with such a film? Why, you make a sequel. After all, there are a lot of similarities between Pitch Black and Ridley Scott's horror masterpiece, Alien. And James Cameron's sequel to Alien, Aliens, is an action movie triumph. Take your main character, throw them back into the fray in a larger story with more aliens and bigger explosions, complete with nukes from orbit, and you have motion picture gold.
 
-Sadly, this was not to be the destiny of the Riddick franchise. The ill conceived Chronicles of Riddick, failed at so base a level, that it is hard to say anything good about it. From the plot, to the dialog, to the editing, characters and villains, it is quite hard to say anything good about the film. There are perhaps a few individual scenes, that I can say something positive about, but I sure can't think of any right now.
 
-Apparently, producers felt the same way, and it seemed like the Riddick franchise was dead in the water for the better part of a decade. But Vin Diesel was not to be stopped. Becoming an action movie star in the intervening time since Pitch Black, thanks in large part to the Fast and Furious franchise, now going into it's seventh incarnation, he used his influence in Hollywood to secure the rights to the Riddick franchise, and in what some may quite rightly describe as a vanity project, sunk his own money into producing another sequel.
 
-Riddick, the film, sees Vin Diesel reprise his role in what is by and large a remake of the first film.
+
 
 
 
@@ -437,6 +438,22 @@ But, while ostensibly Riddick may have escaped the planet at the end of Pitch Bl
 
 
 With his first line of dialog, Riddick steals the movie right from under her.
+
+
+
+
+
+
+
+
+Can Hollywood create a trilogy about a character that is anything less than a superhero responsible for saving the universe?
+
+Popular films leave their audiences with a deep seated affection for their heroes. A sequel is the natural way to capitalise on this. But a character needs a bigger challenge on their second visit to the silver screen, which must once again be amplified for the third. This continues until the once beloved character bears no longer resemblance to his earlier self (See Jason X aka Jason in Space). 
+
+Die Hard came close. The first three Die Hard films remain within the bounds of reality. However, things swiftly go downhill with Die Hard 4.0 (Live Free or Die Hard), with the character of John McLain being almost unrecognisable, as he is soon blowing up helicopters with cars and surfing jets (seriously not making this up, watch the movie). By the fifth film, the character simply has no limits anymore.
+
+And it is these limits, that form focus of our discussion.
+
 
 
 
