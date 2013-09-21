@@ -5,20 +5,20 @@ layout: main
 Antihero: Why the Riddick franchise doesn't understand itself
 =============================================================
 
-Abstract
-========
+Introduction
+============
 
-Pitch Black is science-fiction horror film, starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for viewing pleasure of the audience. But above all this, one element stands out in the film: the character of Richard B. Riddick.
+Pitch Black is science-fiction horror film starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. But above all this, one element stands out in the film: the character of Richard B. Riddick.
 
 But, while Pitch Black may have all the trappings of generic horror movie, it goes far beyond that, breaking the bounds of mediocrity and becoming, in my opinion at least, a near perfect film. 
 
-And with a successful horror movie being loved by audiences everywhere, a sequel cannot be far behind. After all, there are a lot of similarities between Pitch Black and Ridley Scott's horror masterpiece, Alien. And James Cameron's sequel to Alien, Aliens, is an action movie triumph. Take your main character, throw them back into the fray in a larger story with more aliens and bigger explosions, complete with nukes from orbit, and you have motion picture gold.
+And with a successful horror movie with a strong group of core fans, a sequel cannot be far behind. After all, there are a lot of similarities between Pitch Black and Ridley Scott's horror masterpiece, Alien. And James Cameron's sequel to Alien, Aliens, is an action movie triumph. Take your main character, throw them back into the fray in a larger story with more aliens and bigger explosions, complete with nukes from orbit, and you have motion picture gold. Why can't this work for Pitch Black?
 
 Sadly, this was not to be the destiny of the Riddick franchise. The ill conceived Chronicles of Riddick, failed at so base a level that it looked like the it would take the franchise down with it. From the plot, to the dialog, the editing, characters and villains, it is quite hard to say anything good about the film. There are perhaps a few good individual scenes, but I sure can't think of any right now.
 
-Apparently, producers felt the same way, and it seemed like the Riddick franchise was dead in the water for the better part of a decade, as far the silver screen was concerned (although it has supposedly had a favourable run of attached video games, a rare occurance in a world of low budget video game cash ins). But Vin Diesel was not so easily deterred. Becoming an action movie star in the intervening time since Pitch Black, thanks in large part to the Fast and Furious franchise, now going into it's seventh incarnation and in what some may describe as a vanity project, sunk his own money into producing another sequel.
+Apparently, producers felt the same way, and it seemed like the Riddick franchise was dead in the water for the better part of a decade, as far the silver screen was concerned (although it has supposedly had a favourable run of attached video games, a rare occurance in a world of low budget video game cash ins). But Vin Diesel was not so easily deterred. Becoming an action movie star in the intervening time since Pitch Black, thanks in large part to the Fast and Furious franchise now going into it's seventh incarnation, Vin Diesel sunk his own money into producing another sequel.
 
-Riddick, the film, sees Vin Diesel reprise his role in what is by and large a remake of the first film. Gone is the convoluted world building and supernatural plot lines. A back to basics Riddick vs the Elements film tries to exploit what made Pitch Black so good, and while it doesn't quite stick the landing, it was a good effort. 
+In the third film, simply called "Riddick", Vin Diesel reprises his role in what is by and large a remake of Pitch Black. Gone is the convoluted world building and supernatural plot lines. A back to basics Riddick vs the Elements film tries to exploit what made Pitch Black so good, and while it doesn't quite stick the landing, it was a good effort. 
 
 But why? What is it that makes Pitch Black so good, Chronicles so bad and Riddick mediocre at best?
 
@@ -28,21 +28,24 @@ Part 1: Hero
 
 "They say most of your brain shuts down in cryosleep. All but the primitive side. The animal side. No wonder I am still awake"
 
-In the first twenty four words, Pitch Black tells you more about the character of its protagonist than most films do in their entire three acts. These immortal lines hook the audiences attention immediately. Who is this character that is somehow unaffected by Cryosleep? who refers to himself as a wholly "primitive animal"?
-
 Richard B. Riddick
 ------------------
 
-Badass. There is no better word to describe Riddick. He is a badass. A confessed murder, he is supremely competent and while he is arrogant, he has the strength to back up his arrogance. He has no strong moral core, but he still lives by a code.
+To truly understand the Riddick franchise, we need understand its core, Richard B. Riddick
 
-Some might say that he is the man that every woman wants, and every man wants to be. While not a psychologist, I suspect that his character appeals a lot more to men than women. The Alpha male sensibilities that Riddick exudes provide a great deal of wish fulfilment for men. He is subsequently feared and idolised. When he talks people listen, and when he says jump, people ask how high. 
+In the first twenty four words, Pitch Black tells you more about the character of its protagonist than most films do in their entire three acts. These immortal lines hook the audiences attention immediately. Who is this character that is somehow unaffected by Cryosleep? who refers to himself as a wholly "primitive animal"?
 
+A confessed murder, Riddick is a total badass. Muscled, bald, supremely competent and arrogant, he is the very definition of an action movie hero.
 
-And yet, it  this is the very downfall of Riddick franchise. The first film, Pitch Black, is a film about survival, about many characters working together to survive the elements. In many ways, Riddick is just just one of those characters. 
+The alpha male sensibilities that Riddick exudes provide a great deal of wish fulfilment for men. He is simultaneously feared and idolised. When he talks people listen, and when he says jump, people ask how high. The audience watches his every move, and his "bad guy with a heart of gold", persona makes him almost impossible to predict, and we are constantly guessing what he is going to do next.
 
-Yet by the end of the film, we, like Jack in the movie, have fallen into a sort of hero worship of a character who never became much more than human. It is often difficult to consider Pitch Black as it's own film, so intertwined is the Riddick legend with sequels and video games. But even a person who has only watched Pitch Black will likely come out of the movie with the impression of "Badass", on their minds, which is likely only going to grow over time.
+Most traditional protagonists will move heaven and earth, usually by some deus ex machina, to protect those in their care (usually a female love interest). A typical example of this "white knight cliche" would be an antagonist capturing the love interest, at which point the hero will drop their weapons, and allow themselves to get captured to save the one they love. Shortly after they will escape and save the day.
 
-But is this an accurate representation of Riddick, and is it the reason that Pitch Black is a good movie and Riddick a great character?
+The Riddick portrayed in Pitch Black is not one of these protagonists. He does what he can to save the other crew members, but he is pragmatic, never expecting a deus ex machina to help him save everyone in the face of impossible odds. This realism combined with his bleak outlook on life, and of course standard action movie trappings of witty one liners and a never say die attitude, makes him a very interesting character. 
+
+And so we, like Jack in the movie, fall into a sort of hero worship of Riddick. And yet, this hero worship is the very downfall of Riddick franchise, for the writers of the Chronicles of Riddick, likewise fell in love with their character. And not unlike the internet's Chuck Norris Facts, his actions became grander with every retelling. 
+
+But before we start to talk about Chronicles, let us have a analyse the character of Riddick in Pitch Black
 
 Alpha Male
 ----------
@@ -421,6 +424,20 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 
+
+
+
+
+
+The first film, Pitch Black, is a film about survival, about many characters working together to survive the elements. In many ways, Riddick is just just one of those characters.
+
+a character who never became much more than human. 
+
+It is often difficult to consider Pitch Black as it's own film, so intertwined is the Riddick legend with sequels and video games. But even a person who has only watched Pitch Black will likely come out of the movie with the impression of "badass", on their minds, which is likely only going to grow over time.
+
+
+
+But is this an accurate representation of Riddick, and is it the reason that Pitch Black is a good movie and Riddick a great character?
 
 
 
