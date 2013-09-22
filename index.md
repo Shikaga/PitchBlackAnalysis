@@ -112,13 +112,15 @@ The question of whether it is ever worth killing one life to save many others is
 
 But there is no question, that in typical film logic, this makes Riddick seem like a hypocrite. So why is it that the audience forgives him for this? 
 
+That is a difficult question. And I think the core of it rests upon the character of Fry, to which the film switches to at that point in the film. The audience is too busy dealing with her story to truly analyse Riddick's behaviour in the context of his previous actions.
 
+But even when analysing them objectively, it is difficult for us to criticise his actions. The fact is, we never quite lose the viewpoint of him being a villain. 
 
+With all the things that he has done throughout the film, we never forget, that at the centre of everything, Riddick is a survivor. He has his own, perhaps selfish, code, that states that he is going to survive, no matter what he has to do to do it.
 
+And the fact is, he never apologises for that fact, and the audience can't help but respect that. He tells Johns that he will come to regret not "ghosting", Riddick when he had the chance. And when Fry asks him to help him, he unapologetically states that "You don't know anything about me. I will leave you here".
 
-On one hand, it is because he is a survivor, and we respect that.
-
-
+There is one thing that we can't stand, and that is betrayal. By being upfront and honest throughout about his villainy, we simply accept his actions. In a sense, the survivors bring it on themselves. He warned them that he would betray them, and still they let him live, because they needed to. Riddick is blameless for his actions.
 
 
 
