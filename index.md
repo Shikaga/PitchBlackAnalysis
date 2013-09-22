@@ -8,17 +8,19 @@ Antihero: Why the Riddick franchise doesn't understand itself
 Introduction
 ============
 
-*Pitch Black* is science-fiction horror film starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. But above all this, one element stands out in the film: the character of Richard B. Riddick.
+*Pitch Black* is science-fiction horror film starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. And, of course, above all this one element stands out in the film: the character of Richard B. Riddick.
 
 But, while *Pitch Black* may have all the trappings of generic horror movie, it goes far beyond that, breaking the bounds of mediocrity and becoming, in my opinion at least, a near perfect film. 
 
-And with a successful horror movie with a strong group of core fans, a sequel cannot be far behind. After all, there are a lot of similarities between *Pitch Black* and Ridley Scott's horror masterpiece, *Alien*. And James Cameron's sequel to *Alien*, *Aliens*, is an action movie triumph. Take your main character, throw them back into the fray in a larger story with more aliens and bigger explosions, complete with nukes from orbit, and you have motion picture gold. Why can't this work for *Pitch Black*?
+And with a successful horror movie with a strong group of core fans, a sequel cannot be far behind. After all, there are a lot of similarities between *Pitch Black* and Ridley Scott's horror masterpiece, *Alien*. And James Cameron's sequel to *Alien*, *Aliens*, is an action movie triumph. Take your main character, throw them back into the fray in a larger story with more aliens and bigger explosions, complete with nukes from orbit, and you have motion picture gold. Surely the same will work for *Pitch Black*?
 
-Sadly, this was not to be the destiny of the Riddick franchise. The ill conceived *Chronicles of Riddick*, failed so completely that it looked like it would tank the entire franchise. From the plot to the dialog, the editing and the special effects, characters and villains, it is quite hard to say anything good about the film. There are perhaps a few good individual scenes, but I sure can't think of any right now.
+Sadly, this was not to be the destiny of the Riddick franchise. The ill conceived *Chronicles of Riddick*, failed so completely that it looked like it would tank the entire franchise. From the plot to the dialog, the editing and the special effects, not to mention the characters and villains, it is quite hard to say anything good about the film. There are perhaps a few good individual scenes, but I sure can't think of any right now.
 
-Apparently, producers felt the same way, and it seemed like the Riddick franchise was dead in the water for the better part of a decade, as far the silver screen was concerned (although it has supposedly had a favourable run of attached video games, a rare occurance in a world of low budget video game cash ins). But Vin Diesel was not so easily deterred. Becoming an action movie star in the intervening time since *Pitch Black*, thanks in large part to *The Fast and the Furious* sequels now going into their seventh incarnation, Vin Diesel sunk his own money into producing another sequel.
+Apparently the producers felt the same way, and it seemed like the Riddick franchise was dead in the water for the better part of a decade, at least as far the silver screen was concerned (it supposedly had a favourable run of attached video games, a rare occurance in a world of low budget video game cash ins). 
 
-In the third film, simply called *Riddick*, Vin Diesel reprises his role in what is by and large a remake of *Pitch Black*. Gone is the convoluted world building and supernatural plot lines. The back to basics Riddick vs the Elements film tries to exploit what made *Pitch Black* so good, and while it doesn't quite stick the landing, it was a good effort. 
+But Vin Diesel was not so easily deterred. Becoming an action movie star in the time since *Pitch Black*, thanks in large part to *The Fast and the Furious* sequels now going into their seventh incarnation, Vin Diesel sunk his own money into producing another sequel.
+
+In the third film (fourth if you count the ???, an animated direct to DVD sequel set between the events of *Pitch Black* and *Chronicles*), simply called *Riddick*, Vin Diesel reprises his role in what is by and large a remake of first film. Gone is the convoluted world building and supernatural plot lines. The back to basics Riddick vs the Elements film tries to exploit what made *Pitch Black* so good, and while it doesn't quite stick the landing, it was a good effort. 
 
 But why? What is it that makes *Pitch Black* so good, *Chronicles* so bad and *Riddick* mediocre at best?
 
@@ -33,28 +35,28 @@ Richard B. Riddick
 
 To truly understand the Riddick franchise, we need understand its narrative core, namely, Richard B. Riddick
 
-In the first twenty four words of the film, *Pitch Black* tells you more about its protagonist than most films do in their entire three acts. These lines hook the audiences attention immediately. Who is this character that is somehow unaffected by Cryosleep? Who refers to himself as a wholly "primitive animal"?
+In the first twenty four words of the film, *Pitch Black* tells you more about its protagonist than most films do in their entire three acts. These lines hook the audiences attention immediately. Who is this character that is somehow unaffected by Cryosleep, who refers to himself as a wholly "primitive animal"?
 
 A confessed murder, Riddick is a total badass. Muscled, bald, supremely competent and arrogant, he is the very definition of an action movie hero.
 
 The alpha male sensibilities that Riddick exudes provide a great deal of wish fulfilment for men. He is simultaneously feared and idolised. When he talks people listen, and when he says jump, people ask how high. The audience watches his every move, and his "bad guy with a heart of gold", persona makes him almost impossible to predict, and we are constantly guessing what he is going to do next.
 
-Most traditional protagonists will move heaven and earth, usually by some deus ex machina, to protect those in their care (usually a female love interest). A typical example of this "white knight cliche" would be an antagonist capturing the love interest, at which point the hero will drop their weapons, and allow themselves to get captured to save the one they love. Shortly after they will escape and save the day.
+Most traditional protagonists will move heaven and earth, usually by some deus ex machina, to protect those in their care (usually a female love interest). A typical example of this "white knight cliche" would be an antagonist capturing the love interest, at which point the hero will drop their weapons, and allow themselves to get captured to save the one they love. Shortly after they will escape and save the day. We have all seen it a million times.
 
-The Riddick portrayed in *Pitch Black* is not one of these protagonists. He does what he can to save the other crew members, but he is pragmatic, never expecting a deus ex machina to help him save everyone in the face of impossible odds. This realism combined with his bleak outlook on life, and of course standard action movie trappings of witty one liners and a never say die attitude, makes him a very interesting character. 
+Riddick is not one of these protagonists. He does what he can to save the other crew members, but he is pragmatic, never expecting a deus ex machina to help him save everyone in the face of impossible odds. This realism combined with his bleak outlook on life, and of course standard action movie trappings of witty one liners and a never say die attitude, makes him interesting.
 
-And so, we, like Jack in the movie, fall into a sort of hero worship of Riddick. And yet, this hero worship is the very downfall of Riddick franchise, for the writers of the *Chronicles of Riddick* likewise fell in love with their character. And not unlike the internet's Chuck Norris Facts, his actions became grander with every retelling. 
+And so we, like Jack in the movie, fall into a sort of hero worship of Riddick. And yet this hero worship is the very downfall of Riddick franchise, for the writers of the *Chronicles of Riddick* likewise fell in love with their character. And not unlike the internet's Chuck Norris Facts, his actions became grander with every retelling. 
 
 But before we start to talk about *Chronicles*, let us have a analyse the character of Riddick in *Pitch Black*.
 
 Alpha Male
 ----------
 
-At the start of *Pitch Black*, Riddick i presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to “skullfuck you in your sleep”.
+At the start of *Pitch Black*, Riddick is presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to “skullfuck you in your sleep”.
 
-In the wake of the crash, while the crew search for water, Riddick stalks in the shadows. While he never takes any of the crew members down, his actions imply that he is invulnerabe, as though there is nothing that these mere mortals can do to harm him. 
+In the wake of the crash, while the crew search for water, Riddick stalks in the shadows. While he never "ghosts" any of the crew members, his actions imply that he is invulnerable, as though there is nothing that these mere mortals can do to harm him. 
 
-He sneaks up behind Fry and secretly steals some of her hair and then later happily sneaks back onto the ship and starts drinking their booze, while they stand just meters away.
+He sneaks up behind Fry and secretly steals some of her hair and then later happily returns to the ship and starts drinking their booze, while they stand just meters away.
 
 A short time later, the passengers find Riddick standing over the missing body of one of their murdered acquaintances. Presuming that Riddick has started his killing spree, they tackle him to the ground and after a brief skirmish, capture him.
 
@@ -239,44 +241,41 @@ In addition, Riddick tells us that he spent half his life in his previous "slam"
 Cannon Fodder
 -------------
 
+Before we continue looking at Richard B. Riddick, let us take some time to consider the other characters in *Pitch Black*. 
 
-There are many comparisons to be made with Alien. Both film's feature largely on female protagonists. Both movies involve getting stalked in the dark by aliens. Both movies feature largely civilian crew members. 
+Now, I have previously mentioned the similarities between *Alien* and *Pitch Black*. let us focus on that a bit closer. 
 
-For any movie about killer space monsters, parallels must be drawn to Alien. Consider:
+Both film's feature largely on female protagonists. Both movies involve getting stalked in the dark by aliens. Both movies feature largely civilian crew members. 
+
+Consider:
 
 In Alien, a [greedy crew member] brings a dangerous alien on board in an attempt to get rich. The Alien escapes, and then slowly hunts down each of the crew members in turn while the crew, headed by Ripley, try to track it down.
 
 By contrast, in the first half of *Pitch Black*, John's brings a dangerous being on board in an attempt to get rich. Riddick escapes, and then (we are lead to believe) slowly hunts down each of the crew members in turn while the crew, led by Fry, try to track him down.
 
-A forced analogy? Maybe. But there is no question that in the first half of *Pitch Black*, before we truly understand the danger posed by the flying creatures, the audience is forced to see Riddick as the salient threat of the film.
+A forced analogy? Maybe. But as I have previously stated, in the first half of *Pitch Black*, before we truly understand the danger posed by the flying creatures, the audience is forced to see Riddick as the salient threat of the film.
 
-It is interesting, if you were to rewrite the movie, thirty minutes in, how different it could have gone.
+Now, I have said that *Pitch Black* features a female protagonist. What, but I thought Riddick was the protagonist, I hear you say. Well yes, but let us take a minute and consider *Pitch Black* based on only the first 30 minutes.
 
-Who is the protagonist of *Pitch Black*? What do we expect from our protagonists? Courage, strength, intelligence? Quick one-liners?
 
-Perhaps, all we need for someone to be a protagonist is for the audience to identify with them, to see the world from their point of view. Indeed, there are plenty of stories out there about anti-heroes, who we identify with and are undoubtedly the protagonists of their own films.
 
-But can Riddick, who does not utter a single line of dialog for the first twenty seven minutes of the film, possibly be considered the film's protagonist? Is he the character that the audience most sympathise with?
 
-It would not have been hard, for a writer to pick up the film after forty five minutes and turn it into a standard Freddy or Jason style slasher, with perhaps just one of the crew members escaping with the escape ship (with a cut of Riddick hiding in the engine bay for the stinger).
 
-But this is not the direction the film chooses to take. It instead becomes much more interesting. Johns makes a deal with Riddick: help them, guide them, and he will get his freedom.
 
-But before we discuss the rest of the film, let us look where we are after twenty seven minutes.
+
+
 
 The first act is unquestionably Carolyn Fry's movie. 
 
-The film starts, with her waking up from cryosleep in the midst of a disaster. While the her co-pilot Owens is still reeling from his sudden awakening, she is immediately into action, trying to land the ship.
+The film starts, with her waking up from cryosleep in the midst of a disaster. While her co-pilot Owens is still reeling from his sudden awakening, she is immediately into action, trying to land the ship.
 
 She is then immediately confronted with an "action movie choice". With the ship crashing, she prepares to purge the passenger cabin. Owens talks her down, telling her that he has every confidence in her to be able to land the ship.
 
 However, with ship still spinning out of control she attempts to purge the cabin anyway, but Owens has sabotaged the system, so that she is forced to try and land the ship intact.
 
-It is at this point that we see the character Fry is, both in herself, and how she is reflected in Owens. 
+It is at this point that we see the character Fry is, both in herself, and how she is reflected in Owens. She had the ability to land the ship, and Owens believes in her enough to entrust his own life into her hands. But she does not.
 
-She had the ability to land the ship, and Owens believes in her enough to entrust his own life into her hands. But she does not.
-
-Is she merely being selfish, being willing to abandon people she doesn't know in a bid to save herself and her colleague? Perhaps, but she is also clearly pragmatic. In her mind, they are all going to die, and she is willing to make the sacrifices to save those she can.
+Is she merely being selfish, being willing to abandon people she doesn't know in a bid to save herself and her colleague? Perhaps, but she is also clearly pragmatic. In her mind, they are all going to die, and she is willing to make the sacrifices to save those she can. Hmm, now where have I heard this before?
 
 This is often the kind of opening scene a movie would use to set up their main character. Perhaps this was a flashback, and she has since been rescued is now currently unable to forgive herself for trying to sacrifice all those people. One logical thing to do now, would be to cut to her waking up screaming in bed, before suddenly realising that she was just reliving her nightmare. Pan over to the futuristic alarm clock, showing that it is 3:34 in the morning, but never mind going back to sleep, Carolyn is going to wake up and brood. 
 
@@ -286,41 +285,87 @@ Instead, *Pitch Black* continues. Fry quickly assesses the damage, gathers to su
 
 She clearly doesn't have much motivation to do anything, but she still soldiers on, perhaps her military training kicking in. She organises the search for water and talks to Johns about the best way to deal with Riddick. She doesn't become overly demanding, or try and pull rank, and we genuinely like her.
 
-At the same time, the movie pauses long enough on the rest of the characters for us to get to like them. At this point in the movie, we are setting up for Friday 13th style slasher, and it is already clear that not everyone is going to make it off this planet.
+In these ways she reminds me a lot of Ripley. Ripley is not the captain, nor is she a typical action hero. She is just someone who is trying to make their best of a bad situation.
 
-But unlike most Friday 13th style movies, most of these characters are quite likeable and believable. Rather than thin stereotypes (???, The Jock, The Whore, The Clown and The Virgin as so eloquently stated in Cabin in the Woods), we get well rounded characters, each with their own motivations and abilities. 
+Now, by this logic, opening narration aside, at the twenty seven minute mark, we could easily make the case that Fry is the protagonist of the film so far. And while Riddick takes over in the middle of the film, in a very real sense, it is Fry's arc that carries the most weight in the film.
 
-This is in many ways, what *Pitch Black* does best. You actually want all these characters to survive. Sure, you came to the movie to see the awesome kills, and you want your money's worth, but humanising these people only helps the movie.
+In fact Riddick has so small a character arc that it is almost non-existent. By comparison, let us go back to climax that I mentioned earlier.
 
-Abu, the Imam, is one of the most interesting of these. In addition to being one of the few survivors, his paternal care of his acolytes brings a sense of a family to the film, without needing the inevitable "father's vengeance". 
+After Riddick's betrayal, Fry takes their last remaining light, and sprints into the night after him. Finally she confronts Riddick, and he tries to coax her onboard, to abandon the others and fly off with him.
+
+Here, she is finally given her chance at redemption. Once again she has the option of either abandoning the others and saving her own life, or trusting in her own strength, and try to save them.
+
+Throughout the movie, this has been main tension of the film. The conversation that she has with Johns earlier in the movie, where she explains that Owens was trying to prevent her from killing the passengers, is overheard by Riddick.
+
+Her decision weighs on her, killing her inside with every second she spends with those that she tried to sacrifice to save her own life. She is clearly conflicted with her own demons, and it manifests in the way that she tries to take charge and get everyone to safety, in an attempt to receive absolution.
+
+Riddick asking her to once again abandon them hits her like a hammer. The tension growing, beat by beat, with Riddick's smiling evilly as he sees her break down. But then, finally gathers her strength and throws it in his face, declaring that they are going back for the others, whether he likes it or not.
+
+In fact, this reminds me a lot of the end of Die Hard. The Cop (???), midway through the film explains how after a shooting gone wrong, he had never been able to draw his gun again, and had been desk bound ever since.
+
+Finally at the very end of the film, after the climax and celebrations have begun, he is finally able to shoot the one final terrorist. He is provided with an opportunity to put his mistake behind him, and reclaim his destiny.
+
+Of course, by not living to the end of the movie, the sum total of the Fry storyline can only be so long. There is no way for her to be a part of any sequel, which is disappointing, because I think that her character would be very interesting to have seen in them.
+
+She is a character that could have lead the entire movie, and perhaps even had her own franchise in a post *Alien* world, had the last five minutes gone a bit differently.
+
+But, on the other hand, movies to seldom have the guts to deliver a truly devastating death, and I don't want to ever criticise one for doing so.
+
+But Fry is not the only character of this piece. After the crash, the movie pauses long enough on the rest of the characters for us to get to like them. At this point in the movie, we are setting up for Friday 13th style slasher, and it is already clear that not everyone is going to make it off this planet.
+
+But unlike most Friday 13th style movies, most of these characters are quite likeable and believable. Rather than thin stereotypes (???, The Jock, The Whore, The Clown and The Virgin, as so eloquently stated in *Cabin in the Woods*), we get well rounded characters, each with their own motivations and abilities. 
+
+This is in many ways, what makes *Pitch Black* such a good movie. You actually want all these characters to survive. Sure, you came to the movie to see the awesome kills, and you want your money's worth, but humanising these people only helps the film.
+
+Abu, the Imam, is one of the most interesting of the secondary characters. In addition to being one of the few people to survive to the end, his paternal care of his acolytes brings a sense of a family to the film, without needing the inevitable "father's vengeance". 
 
 He clearly cares a lot for his kids, but trusts in his God as they slowly and mercilessly get killed one by one. Perhaps he sees himself as a Job figure, seeking meaning in his punishment. Perhaps not.
 
 But it is also this religious aspect that adds a good deal of depth to the film. The Imam finds himself in the company of atheists, who gently discount his faith (???, Is this true?). 
 
-But it is when he is discussing God with Riddick that the film becomes most interesting. Indeed, Riddick claims to believe in some kind of God figure, laying much of his trouble at his feet. Whether this is a true belief or merely social construct that Riddick uses to explain the bad things that happen in this world, is known only to him however.
+But discussions of God with Riddick are some of the more interesting parts of the films. Indeed, Riddick claims to believe in some kind of God figure, laying much of his own troubles at his feet. Whether this is a true belief or merely social construct that Riddick uses to explain the bad things that happen in this world, is known only to him however.
 
-But the Imam's constant Faith is something that Riddick starts to admire. When the rain starts to fall, Riddick asks "So where the hell's your God now?". But shortly after, when Carolyn convinces Riddick to save them, the Imam finally says, "There is my my God, Mr Riddick", to which Riddick simply smiles in acknowledgement.
+But the Imam's constant faith is something that Riddick starts to disdain. For a character like Riddick to go as far as to disdain something, speaks volumes about his thought on the topic. As we have seen so many times before, Riddick hides behind his mask.
+
+He insults the Imam, but as with his conversations with Fry, I believe that this is probably to do with his envy. He wishes that he could have the Imam's faith, but when he finds that it is not inside him, he lashes out, as we have seen him to so many times before.
+
+
+
+
+
+
+ When the rain starts to fall, Riddick asks "So where the hell's your God now?". But shortly after, when Carolyn convinces Riddick to save them, the Imam finally says, "There is my my God, Mr Riddick", to which Riddick simply smiles in acknowledgement.
 
 Yes, that sentence can be interpreted two ways, but I think it can simply be taken as the Imam trying to say that God has a plan for Riddick.
 
-As they finally fly into the sunset, the Imam acknowledges, that he "There is so much prayer to make up for, I scarcely know where to begin", Jack replies, "I know where I would start".
+As they finally fly into the sunset, the Imam acknowledges, that "There is so much prayer to make up for, I scarcely know where to begin", Jack replies, "I know where I would start".
 
-I never did really understand what Jack meant in this scene. The best I can guess is that she meant that she would than God for Riddick, but if anyone has a better idea I would love to hear it.
+I never did really understand what Jack meant in this scene. The best I can guess is that she meant that she would thank God for Riddick, but if anyone has a better idea I would love to hear it.
 
-This brings up the character of Jack. A young girl travelling alone, masquerading as a boy, she has a hero worship of Riddick. 
 
-Jack quickly fashions replicas of Riddick's trademark goggles, and runs around the ship terrorising the rest of the crew, in ways on children can, until one passenger finally quips, "Did you run away from your parents or did they run away from you?"
+
+
+
+
+
+This brings up the character of Jack. A young girl travelling alone, masquerading as a boy, she has apparently run away and is wandering through the galaxy.
+
+Jack falls for Riddick's mystique almost immediately, quickly fashioning replicas of Riddick's trademark goggles, and running around the ship terrorising the rest of the crew, in the way on children can, until one passenger finally quips, "Did you run away from your parents or did they run away from you?"
 
 Jack is very believable and never annoying as young characters in these movies so often are. 
 
-In the scene where Riddick and Fry are talking about (??? Name's) disappearance, Jack enters and starts asking about Riddick's eyes. This is a wonderful bit of exposition, and a chance for Jack to show her fascination with Riddick, and the secret of his surgical sine job which is so poorly executed on in the following film.
+In the scene where Riddick and Fry are talking about Zeke's disappearance, Jack enters and starts asking about Riddick's eyes. This is a wonderful bit of exposition, and a chance for Jack to show her fascination with Riddick, and the secret of his surgical shine job which is so poorly executed on in the following film.
 
 Jack's gender is a secret kept from both the characters and the audience well into the film. When the crew must pass the most dangerous point in their journey Riddick halts the group, stating that it will be impossible to go any further, "Especially with the girl bleeding."
 
+
+
+
+
+
 Jack also has a crucial role to play later in the film, where Johns decides to ask Riddick to "triage" Jack to save the rest of the group. Why precisely Johns would make this offer isn't exactly clear. Perhaps he doesn't understand Riddick very well. But Riddick quite clearly states that there is a line that he won't cross and Johns flew way over it.
 
-After dispatching Johns, Riddick returns to the group, informing them of what happens. When Jack starts to get upset about losing him, Riddick simply says, "Don't you cry for Johns. Don't you dare".
+After dispatching Johns, Riddick returns to the group, informing them of what happened. When Jack starts to get upset about losing him, Riddick simply says, "Don't you cry for Johns. Don't you dare".
 
 The other characters, while minor roles, are still very likeable. None of them really conform to typical stereotype roles, and they all have a little bit to contribute to the film. While inevitable, you do feel a little sorry for each of them as they are dispatched, albeit normally at their own hands for not doing as they are told.
 
@@ -389,46 +434,6 @@ Part 2: Villain
 ---
 
 A discussion about how the Riddick in *Pitch Black* is just as much a force of nature in the first film as the aliens that he dispatches. He is good because he is not in focus too much of the time, letting other characters largely carry the plot.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Part 3: Cannon Fodder
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -526,6 +531,49 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 <!---
+
+Who is the protagonist of this version?
+
+
+
+
+
+
+
+
+
+
+
+
+Perhaps, all we need for someone to be a protagonist is for the audience to identify with them, to see the world from their point of view. Indeed, there are plenty of stories out there about anti-heroes, who we identify with and are undoubtedly the protagonists of their own films.
+
+But can Riddick, who does not utter a single line of dialog for the first twenty seven minutes of the film, possibly be considered the film's protagonist? Is he the character that the audience most sympathise with?
+
+
+
+
+
+
+
+
+
+
+It would not have been hard, for a writer to pick up the film after forty five minutes and turn it into a standard Freddy or Jason style slasher, with perhaps just one of the crew members escaping with the escape ship (with a cut of Riddick hiding in the engine bay for the stinger).
+
+
+
+
+
+
+
+
+
+But this is not the direction the film chooses to take. It instead becomes much more interesting. Johns makes a deal with Riddick: help them, guide them, and he will get his freedom.
+
+But before we discuss the rest of the film, let us look where we are after twenty seven minutes.
+
+
+
 
 
 Indeed, despite the science fiction setting, flesh eating monsters and so forth, the action in Riddick actually is far more believable than almost any movie.
