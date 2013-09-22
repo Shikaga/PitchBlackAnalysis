@@ -166,13 +166,17 @@ But Riddick is afraid. He doesn't think that he can do it. He already abandoned 
 When Fry tries to convince him to save the others, he simply counters with offering to take her with him, knowing it would be suicide, and that Fry is too clever to do otherwise.
 
 > RIDDICK: "You don't know anything about me. I will leave you here"
+
 > FRY: "I can't. I can't" CRYING
+
 > RIDDICK: "Sure you can, here I will make it easy on you
 
 Riddick stretches out his hand
 
 > RIDDICK: "Take my hand, Come on, Come one"
+
 > RIDDICK: "Look, no one is going to blame you Carolyn"
+
 > RIDDICK: "Come on, Come on, That's it, That's it. Good Girl"
 
 In this scene, Riddick is trying to get Carolyn to also take the cowards way out. He clearly thinks that if she too, abandons the others, then he is no more guilty that any other pragmatic individual.
@@ -184,8 +188,11 @@ But then Fry's personal journey finally resolves. She determines that she would 
 > FRY: "Now, you! You listen to me! I am the captain of this ship. And I am not leaving anyone on this rock"
 
 > RIDDICK: "You would die for them?"
+
 > FRY: "I would try for them"
+
 > RIDDICK: "You didn't answer me"
+
 > RIDDICK: "Yes I would Riddick, I would. I would die for them"
 
 Riddick takes off his goggles. A beat
