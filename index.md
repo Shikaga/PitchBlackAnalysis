@@ -65,12 +65,6 @@ We begin under the impression that we are watching a standard slasher film. Yet 
 He quickly sets about devising a plan to get them all off the planet before the alien creatures rip them all to shreds. As though the aliens weren't bad enough, the group of survivors quickly start tearing themselves apart, with Riddick uncaringly pulling them along in his wake on his way to the escape ship.
 
 
-
-
-
-
-
-
 Let us go back to the twist in the movie where his character turned from antagonist to protagonist. Even in chains in his opening dialogue exchange with Fry he is clearly in control. Of course, he has somehow been captured, a grave error. But we have all been here before. The villain getting captured as part of his grand plan was a little less hackneyed in 2000, but has always been a classic trope of genre films.
 
 And yet this twist never seems to come to pass. Did he know that Johns would release him? Did he know that the only way that he would be able to get off the planet would be to travel with the rest of the passengers, allowing them to get picked off one by one, thus requiring him to get captured?
@@ -122,23 +116,17 @@ And the fact is, he never apologises for that fact, and the audience can't help 
 
 There is one thing that we can't stand, and that is betrayal. By being upfront and honest throughout about his villainy, we simply accept his actions. In a sense, the survivors bring it on themselves. He warned them that he would betray them, and still they let him live, because they needed to. Riddick is blameless for his actions.
 
+The slipping mask
+-----------------
 
+So, Riddick is a villain, a ruthless killer, who cares only about his own survival. A stone cold badass, who leaves no one in doubt of who is in charge.
 
+Not quite. While a cursory glance of Riddick's character in may lead you to this conclusion, but it is more complicated than that.
 
+For one thing, while Riddick tries at all times to play the part of a merciless convict, he is patently not, at least not in *Pitch Black*. 
 
-
-
-
-
-
-
-
-
-???
----
-
-Riddick is not without emotion, at least not in *Pitch Black*. 
-
+Throughout the film, this mask slips, showing the weak, self doubting character beneath. While he tries not to let other see him in these moments of weaknesses, he doesn't always succeed, and the audience can tell.
+ 
 He is prone to fits of anger. When Johns frees Riddick, he tells Riddick to "remember this moment. The way it could have gone and didn't". Riddick is visibly annoyed, and lashes out. He snatches Johns' rifle from his hand, "Fuck you!", he says threatening Johns, "I want you to remember this moment".
 
 Riddick should have kept his cool, graciously accepted Johns' phony treaty and waited his time, but instead he tries, unsuccesfully, to restore the balance of power in his favour, posturing that merely earns a grin from Johns.
