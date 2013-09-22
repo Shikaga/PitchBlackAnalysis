@@ -127,7 +127,7 @@ For one thing, while Riddick tries at all times to play the part of a merciless 
 
 Throughout the film, this mask slips, showing the weak, self doubting character beneath. While he tries not to let other see him in these moments of weaknesses, he doesn't always succeed, and the audience can tell.
  
-He is prone to fits of anger. When Johns frees Riddick, he tells Riddick to "remember this moment. The way it could have gone and didn't". Riddick is visibly annoyed, and lashes out. He snatches Johns' rifle from his hand, "Fuck you!", he says threatening Johns, "I want you to remember this moment".
+He is prone to fits of anger. When Johns frees Riddick, he tells Riddick to `"remember this moment. The way it could have gone and didn't"`. Riddick is visibly annoyed, and lashes out. He snatches Johns' rifle from his hand, `"Fuck you!"`, he says threatening Johns, `"I want you to remember this moment"`.
 
 Riddick should have kept his cool, graciously accepted Johns' phony treaty and waited his time, but instead he tries, unsuccesfully, to restore the balance of power in his favour, posturing that merely earns a grin from Johns.
 
