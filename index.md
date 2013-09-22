@@ -8,7 +8,7 @@ Antihero: Why the Riddick franchise doesn't understand itself
 Introduction
 ============
 
-Pitch Black is science-fiction horror film starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. But above all this, one element stands out in the film: the character of Richard B. Riddick.
+*Pitch Black* is science-fiction horror film starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. But above all this, one element stands out in the film: the character of Richard B. Riddick.
 
 But, while Pitch Black may have all the trappings of generic horror movie, it goes far beyond that, breaking the bounds of mediocrity and becoming, in my opinion at least, a near perfect film. 
 
