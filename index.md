@@ -52,30 +52,31 @@ But before we start to talk about *Chronicles*, let us have a analyse the charac
 Alpha Male
 ----------
 
-At the start of *Pitch Black*, Riddick is presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to “skullfuck you in your sleep”.
+At the start of *Pitch Black*, Riddick is presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to “skullfuck you in your sleep”, in Johns most eloquent words.
 
-In the wake of the crash, while the crew search for water, Riddick stalks in the shadows. While he never "ghosts" any of the crew members, his actions imply that he is invulnerable, as though there is nothing that these mere mortals can do to harm him. 
+In the wake of the crash, while the crew search for water, Riddick stalks in the shadows. While he never "ghosts" any of the crew members, the way he behaves implies that he is invulnerable, as though there is nothing that these mere mortals can do to harm him. 
 
 He sneaks up behind Fry and secretly steals some of her hair and then later happily returns to the ship and starts drinking their booze, while they stand just meters away.
 
-A short time later, the passengers find Riddick standing over the missing body of one of their murdered acquaintances. Presuming that Riddick has started his killing spree, they tackle him to the ground and after a brief skirmish, capture him.
+However, a short time later, the passengers find Riddick standing over the missing body of one of their murdered acquaintances. Presuming that Riddick has started his killing spree, they tackle him to the ground and after a brief skirmish, capture him.
 
-So it is at this moment in the film, twenty seven minutes into the film, that Riddick utters his first line of on screen dialogue. But this is also, where all of sudden the character changes completely.
+So it is at this moment in the film, twenty seven minutes into the film, that Riddick utters his first line of on screen dialogue. But this is also, where all of sudden his character changes completely.
 
-I mentioned earlier that there are many similarities between *Pitch Black* and *Alien*. And indeed, there are. In this opening act, Riddick very much takes the role of Xenomorph. 
+I mentioned earlier that there are many similarities between *Pitch Black* and *Alien*. And indeed, there are. And if we are going to play with this analogy, then in this opening act, Riddick very much takes the role of the Xenomorph. 
 
-Unquestionably dangerous, hiding in the shadows, attacking the crew members one by one while they hide in fear, Riddick is the Xenomorph of this first act. Yet at this point, the film suddenly turns into a more traditional survival movie. Riddick's role as "Big Bad", is suddenly taken out from under him, with the flock alien creatures that inhabit this planet becoming the crew's main threat.
+Unquestionably dangerous, hiding in the shadows, attacking the crew members one by one while they hide in fear, Riddick is unquestioningly the Xenomorph of this first act. 
+
+Yet at this point, the film suddenly turns into a more traditional survival movie. Riddick's role as "Big Bad", is suddenly taken out from under him, with the flock alien creatures that inhabit this planet becoming the crew's main threat.
 
 And with the antagonist role taken, Riddick turns from the Jason or Freddy style killer to a sort of morally bankrupt guardian angel.
 
-He quickly sets about devising a plan to get them all off the planet before the alien creatures rip them all to shreds. As though the aliens weren't bad enough, the group of survivors quickly start tearing themselves apart, with Riddick uncaringly pulling them along in his wake on his way to the escape ship.
+He quickly sets about devising a plan to get them all off the planet before the alien creatures rip them all to shreds. And, as though the aliens weren't bad enough, the group of survivors quickly start tearing themselves apart, with Riddick uncaringly pulling them along in his wake on his way to the escape ship.
 
-
-But first, let us have a look the twist in the movie where his character turned from antagonist to protagonist. 
+But before we discuss the rest of the movie, let us have a look the twist in the movie where his character turned from antagonist to protagonist. 
 
 Even in chains in Riddicks opening dialogue exchange with Fry he is clearly in control. Of course, he has somehow been captured, a grave error. But we have all been here before. The villain getting captured as part of his grand plan was a little less hackneyed in 2000, but has always been a classic trope of genre films, so we know that he will soon escape and start killing again.
 
-And yet this twist never seems to come to pass. Getting captured never seems to have been part of Riddick's plan. Did he know that Johns would release him? Did he know that the only way that he would be able to get off the planet would be to travel with the rest of the passengers, allowing them to get picked off one by one, thus requiring him to get captured?
+And yet this twist never occurs. Getting captured never seems to have been part of Riddick's plan. Did he know that Johns would release him? Did he know that the only way that he would be able to get off the planet would be to travel with the rest of the passengers, allowing them to get picked off one by one, thus requiring him to get captured?
 
 Indeed, it would not have been hard for to add a line of dialog for it to be so.
 
@@ -87,13 +88,17 @@ And yet, this never comes to pass. Riddicks role as antagonist truly does not ou
 
 His stalking of Fry seems to have been simply out of curiosity. He did not kill Zeke, which he was accused of. The film definitely tries to give you the sense of his danger in the first act, but upon a objective analysis, he never does.
 
-In fact it is Johns who posses a far more salient threat to the survivors. Johns is selfish, with a morphine addiction to boot.  He was more than willing to kill Jack to save his own life, and he is fixing to betray Riddick from the moment that he frees him.
+We are informed by Johns that Riddick killed the pilot of his prison transport ship to escape. But we have no reason to believe that this is true. Johns, an already unreliable character, would have every reason in the world to lie about this to Fry.
+
+Sure, Riddick admits to killing some people, but we have all seen *ConAir*, sometimes killing is justified, but the price must still be served.
 
 But while Riddick may not be the villain of the piece, that is not to say that he is a saint. He tries to help the other passengers, but only to a degree. When one of the Imam’s boys gets cornered by one of the alien creatures, Riddick does not try to save him. He tells the boy to stay still, but when the boy runs, Riddick does nothing to intervene, clearly sensing the futility of trying to save boy.
 
-This is not the behaviour of a normal protagonist. We need them to put their life on the line to protect the weak, it is part of their hero's burden.
+This is not the behaviour of a normal protagonist. We need them to put their life on the line to protect the weak, we accept it as part of their hero's burden.
 
 Yet despite the fact that Riddick often displaying cowardice and weakness, he still ends up being incredibly likeable. 
+
+??? Tie these two paras together
 
 It is because he performs acts that are unconscionable for a protagonist, that the audience finds him so interesting. He is able to make those choices that a hero cannot. 
 
@@ -104,11 +109,13 @@ However, there are times when, behind all the bravado and big words, the hypocri
 
 For example, when Johns decides to sacrifice Jack to get the rest of the group to the ship, Riddick dispatches him. 
 
-It is odd that Riddick so vehemently disagrees with Johns on this point. In a sense, as Johns explains, he is performing triage, letting one die so that the rest might live.
+It is odd that Riddick so vehemently disagrees with Johns on this point. In a sense, as Johns explains, he *is* performing triage, letting one die so that the rest might live.
 
 Yet shortly after this moral grandstanding, Riddick abandons all the survivors to escape by himself. Johns had told Riddick there was no way they could all get through, that they must sacrifice one of their number, and Riddick had clearly taken this as a unacceptable compromise.
 
-But it is literally only a few minutes later that Riddick abandons them to their fate and heads to safety. Perhaps he saw that their deaths were inevitable due to their own weakness, and that wasn't his problem, whereas Johns wanted him to kill an innocent girl to save his own life.
+But it is literally only a few minutes later that Riddick abandons them all to their fates and heads to safety. Perhaps he sees a difference between his decision and Johns.
+
+One could conceive that their deaths were inevitable due to their own weakness, and that wasn't his problem, whereas Johns wanted him to kill an innocent girl to save his own life.
 
 The question about the moral differences between causing a death by action and causing a death by inaction is one for a philosophy class, and I will not go into it here. Let's just say there are many viewpoints.
 
@@ -116,11 +123,11 @@ But as far as film logic goes, Riddick abandoning the survivors to their fate an
 
 And so this just ends up making Riddick seem like a hypocrite. So why is it that the audience forgives him for this? 
 
-That is a difficult question to answer. But I think it largely due to the fact that we get distracted by the fact that the film switches to the character of Fry at that point in the film. The audience is too busy dealing with her story to truly analyse Riddick's behaviour in the context of his previous actions.
+That is a difficult question to answer. And in reality, I think it largely due to the fact that we get distracted by the fact that the film switches to the character of Fry at that point in the film. The audience is too busy dealing with her story to truly analyse Riddick's behaviour in the context of his previous actions.
 
 But even when analysing Riddick's actions objectively, it is difficult for us to criticise them. The fact is, we never quite lose the viewpoint of him being a villain. 
 
-With all the things that he has done throughout the film, we never forget, that at the centre of everything, Riddick is a survivor. He has his own, perhaps selfish, code, that states that he is going to survive, no matter what he has to do to do it.
+With all the things that he has done throughout the film, we never forget, that at the centre of everything, Riddick is a survivor. He has his own, perhaps selfish, code, that states that he will do whatever it takes to survive.
 
 And the fact that he never apologises for that, provides him with the thinest of "moral codes", and the audience can't help but respect that. He tells Johns that he will come to regret not "ghosting", Riddick when he had the chance. And when Fry asks him to help him, he unapologetically states that "You don't know anything about me. I will leave you here".
 
@@ -129,11 +136,11 @@ There is one thing that we can't stand, and that is betrayal. By being upfront a
 The slipping mask
 -----------------
 
-So, Riddick is a villain, a ruthless killer, who cares only about his own survival. A stone cold badass, who leaves no one in doubt of who is in charge.
+So, Riddick is a villain, a ruthless killer, who cares only about his own survival. A stone cold badass, who leaves everyone in no doubt of his own selfishness.
 
-Not quite. While a cursory glance of Riddick's character in may lead you to this conclusion it is a lot more complicated than that.
+Not quite. While a cursory glance of Riddick's character in may lead you to this conclusion, things are a lot more complicated than that.
 
-For one thing, while Riddick tries at all times to play the part of a merciless convict, he is not, at least not in *Pitch Black*. 
+For one thing, while Riddick tries at all times to play the part of a merciless convict, he isn't, at least not in *Pitch Black*. 
 
 Throughout the film, this mask slips, showing the weak, self doubting character beneath. While he tries not to let other see him in these moments of weaknesses, he doesn't always succeed, and the audience can tell.
  
@@ -531,6 +538,13 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 <!---
+
+So it is not clear quite how dangerous Riddick is. In fact it is Johns who posses a far more salient threat to the survivors. 
+
+Johns is selfish, with a morphine addiction to boot.  He was more than willing to kill Jack to save his own life, and he is fixing to betray Riddick from the moment that he frees him.
+
+
+
 
 Who is the protagonist of this version?
 
