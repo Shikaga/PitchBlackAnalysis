@@ -28,7 +28,7 @@ But why? What is it that makes *Pitch Black* so good, *Chronicles* so bad and *R
 Part 1: Hero
 ============
 
-"They say most of your brain shuts down in cryosleep. All but the primitive side. The animal side. No wonder I am still awake"
+`"They say most of your brain shuts down in cryosleep. All but the primitive side. The animal side. No wonder I am still awake"`
 
 Richard B. Riddick
 ------------------
@@ -129,7 +129,7 @@ But even when analysing Riddick's actions objectively, it is difficult for us to
 
 With all the things that he has done throughout the film, we never forget, that at the centre of everything, Riddick is a survivor. He has his own, perhaps selfish, code, that states that he will do whatever it takes to survive.
 
-And the fact that he never apologises for that, provides him with the thinest of "moral codes", and the audience can't help but respect that. He tells Johns that he will come to regret not "ghosting", Riddick when he had the chance. And when Fry asks him to help him, he unapologetically states that "You don't know anything about me. I will leave you here".
+And the fact that he never apologises for that, provides him with the thinest of "moral codes", and the audience can't help but respect that. He tells Johns that he will come to regret not "ghosting", Riddick when he had the chance. And when Fry asks him to help him, he unapologetically states that `"You don't know anything about me. I will leave you here"`.
 
 There is one thing that we can't stand, and that is betrayal. By being upfront and honest throughout about his villainy, we simply accept his actions. No matter how heinous a character might be, if they live by a code, we can forgive them. And so, in a sense, the survivors bring it on themselves. He warned them that he would betray them, and still they let him live and so Riddick is blameless for his actions.
 
@@ -142,7 +142,7 @@ Not quite. While a cursory glance of Riddick's character in may lead you to this
 
 For one thing, while Riddick tries at all times to play the part of a merciless convict, he isn't, at least not in *Pitch Black*. 
 
-Throughout the film, this mask slips, showing the weak, self doubting character beneath. While he tries not to let other see him in these moments of weaknesses, he doesn't always succeed, and the audience can tell.
+Throughout the film this mask slips, showing the weak, self doubting character beneath. While he tries not to let other see him in these moments of weaknesses, he doesn't always succeed, and the audience can tell.
  
 He is prone to fits of anger. When Johns frees Riddick, he tells Riddick to `"remember this moment. The way it could have gone and didn't"`. Riddick is visibly annoyed, and lashes out. He snatches Johns' rifle from his hand, `"Fuck you!"`, he says threatening Johns, `"I want you to remember this moment"`.
 
@@ -154,7 +154,7 @@ He harbours an emotional separation from the other characters, not empathising w
 
 Riddick shows variable loyalty the rest of the crew. He clearly fancies himself as a unapologetic badass, and tries to portray himself as such before the other characters. He delight's in their naiveté, and laughs at their collective misfortune.
 
-His ire fall's most heavily on Abu, The Holy Man, with whom he has complicated relationship. Riddick sees his belief as a weakness. "So where the hell's your God now?", he asks mockingly as the sudden rainfall starts to extinguish their last remaining torches.
+His ire fall's most heavily on Abu, The Holy Man, with whom he has complicated relationship. Riddick sees his belief as a weakness. `"So where the hell's your God now?"`, he asks mockingly as the sudden rainfall starts to extinguish their last remaining torches.
 
 But Riddick is not a sadist, nor without reason. He does try to get the entire crew to safety. He defends Jack against Johns, when Johns tries to betray her, and he continues to shepard them to safety.
 
@@ -162,33 +162,33 @@ The scene in which Fry arrives at the ship just in time to prevent Riddick from 
 
 The scene sees each of them having made it to safety against incredible odds, and the prospect of going back for the remaining survivors suddenly seeming like an impossible task.
 
-> RIDDICK: "Strong survival instinct. I admire that in a woman"
+> `RIDDICK: "Strong survival instinct. I admire that in a woman"`
 
-> FRY: "I promised them, that we would go back with more light"
+> `FRY: "I promised them, that we would go back with more light"`
 
-> RIDDICK: "Did you? Hmmm"
+> `RIDDICK: "Did you? Hmmm"`
 
-> FRY: "What? Are you afraid?"
+> `FRY: "What? Are you afraid?"`
 
-> RIDDICK: "Me afraid?" LAUGHING
+> `RIDDICK: "Me afraid?" LAUGHING`
 
 But Riddick is afraid. He doesn't think that he can do it. He already abandoned them once, when he decided to leave them at the last mile. Riddick is not a villian, he did not string his fellow passengers only to abandon them out of some kind of sadistic game. He truly believed he was too weak to save them, and his own survival instinct made him take the pragmatic approach.
 
 When Fry tries to convince him to save the others, he simply counters with offering to take her with him, knowing it would be suicide, and that Fry is too clever to do otherwise.
 
-> RIDDICK: "You don't know anything about me. I will leave you here"
+> `RIDDICK: "You don't know anything about me. I will leave you here"`
 
-> FRY: "I can't. I can't" CRYING
+> `FRY: "I can't. I can't" CRYING`
 
-> RIDDICK: "Sure you can, here I will make it easy on you
+> `RIDDICK: "Sure you can, here I will make it easy on you`
 
-> Riddick stretches out his hand
+> `Riddick stretches out his hand`
 
-> RIDDICK: "Take my hand, Come on, Come one"
+> `RIDDICK: "Take my hand, Come on, Come one"`
 
-> RIDDICK: "Look, no one is going to blame you Carolyn"
+> `RIDDICK: "Look, no one is going to blame you Carolyn"`
 
-> RIDDICK: "Come on, Come on, That's it, That's it. Good Girl"
+> `RIDDICK: "Come on, Come on, That's it, That's it. Good Girl"`
 
 In this scene, Riddick is trying to get Carolyn to also take the cowards way out. He clearly thinks that if she too, abandons the others, then he is no more guilty than her.
 
@@ -196,19 +196,19 @@ He asks her to come aboard, offering his hand, and coaxing her onboard with gent
 
 But at the last minute, Fry resolves to save others, even if it suicide.
 
-> FRY: "Now, you! You listen to me! I am the captain of this ship. And I am not leaving anyone on this rock"
+> `FRY: "Now, you! You listen to me! I am the captain of this ship. And I am not leaving anyone on this rock"`
 
-> RIDDICK: "You would die for them?"
+> `RIDDICK: "You would die for them?"`
 
-> FRY: "I would try for them"
+> `FRY: "I would try for them"`
 
-> RIDDICK: "You didn't answer me"
+> `RIDDICK: "You didn't answer me"`
 
-> RIDDICK: "Yes I would Riddick, I would. I would die for them"
+> `RIDDICK: "Yes I would Riddick, I would. I would die for them"`
 
-Riddick takes off his goggles. A beat
+> `Riddick takes off his goggles. A beat`
 
-> RIDDICK: "How interesting"
+> `RIDDICK: "How interesting"`
 
 It is in this moment that Riddick is most interesting. He has seen something that he can't explain. For Fry to selflessly go back for the others, even without Riddick's help, intrigues him.
 
@@ -216,7 +216,7 @@ But their journey is not yet over. They return and save the other crew members, 
 
 After their brief fight, Riddick is grievously hurt and alone, and Fry returns from the ship to save him.
 
-FRY: "I said I would die for them. Not you"
+> `FRY: "I said I would die for them. Not you"`
 
 Fry helps Riddick back to his feet, but while helping him back to the ship, she dies herself.
 
@@ -341,11 +341,11 @@ He insults the Imam, but as with his conversations with Fry, I believe that this
 
 
 
- When the rain starts to fall, Riddick asks "So where the hell's your God now?". But shortly after, when Carolyn convinces Riddick to save them, the Imam finally says, "There is my my God, Mr Riddick", to which Riddick simply smiles in acknowledgement.
+ When the rain starts to fall, Riddick asks `"So where the hell's your God now?"`. But shortly after, when Carolyn convinces Riddick to save them, the Imam finally says, `"There is my my God, Mr Riddick"`, to which Riddick simply smiles in acknowledgement.
 
 Yes, that sentence can be interpreted two ways, but I think it can simply be taken as the Imam trying to say that God has a plan for Riddick.
 
-As they finally fly into the sunset, the Imam acknowledges, that "There is so much prayer to make up for, I scarcely know where to begin", Jack replies, "I know where I would start".
+As they finally fly into the sunset, the Imam acknowledges, that `"There is so much prayer to make up for, I scarcely know where to begin"`, Jack replies, `"I know where I would start"`.
 
 I never did really understand what Jack meant in this scene. The best I can guess is that she meant that she would thank God for Riddick, but if anyone has a better idea I would love to hear it.
 
@@ -357,14 +357,13 @@ I never did really understand what Jack meant in this scene. The best I can gues
 
 This brings up the character of Jack. A young girl travelling alone, masquerading as a boy, she has apparently run away and is wandering through the galaxy.
 
-Jack falls for Riddick's mystique almost immediately, quickly fashioning replicas of Riddick's trademark goggles, and running around the ship terrorising the rest of the crew, in the way on children can, until one passenger finally quips, "Did you run away from your parents or did they run away from you?"
+Jack falls for Riddick's mystique almost immediately, quickly fashioning replicas of Riddick's trademark goggles, and running around the ship terrorising the rest of the crew, in the way on children can, until one passenger finally quips, `"Did you run away from your parents or did they run away from you?"`
 
 Jack is very believable and never annoying as young characters in these movies so often are. 
 
 In the scene where Riddick and Fry are talking about Zeke's disappearance, Jack enters and starts asking about Riddick's eyes. This is a wonderful bit of exposition, and a chance for Jack to show her fascination with Riddick, and the secret of his surgical shine job which is so poorly executed on in the following film.
 
-Jack's gender is a secret kept from both the characters and the audience well into the film. When the crew must pass the most dangerous point in their journey Riddick halts the group, stating that it will be impossible to go any further, "Especially with the girl bleeding."
-
+Jack's gender is a secret kept from both the characters and the audience well into the film. When the crew must pass the most dangerous point in their journey Riddick halts the group, stating that it will be impossible to go any further, `"Especially with the girl bleeding."`
 
 
 
@@ -372,11 +371,11 @@ Jack's gender is a secret kept from both the characters and the audience well in
 
 Jack also has a crucial role to play later in the film, where Johns decides to ask Riddick to "triage" Jack to save the rest of the group. Why precisely Johns would make this offer isn't exactly clear. Perhaps he doesn't understand Riddick very well. But Riddick quite clearly states that there is a line that he won't cross and Johns flew way over it.
 
-After dispatching Johns, Riddick returns to the group, informing them of what happened. When Jack starts to get upset about losing him, Riddick simply says, "Don't you cry for Johns. Don't you dare".
+After dispatching Johns, Riddick returns to the group, informing them of what happened. When Jack starts to get upset about losing him, Riddick simply says, `"Don't you cry for Johns. Don't you dare"`.
 
 The other characters, while minor roles, are still very likeable. None of them really conform to typical stereotype roles, and they all have a little bit to contribute to the film. While inevitable, you do feel a little sorry for each of them as they are dispatched, albeit normally at their own hands for not doing as they are told.
 
-
+ALL BELOW HERE IS ROUGH DRAFT
 
 
 
