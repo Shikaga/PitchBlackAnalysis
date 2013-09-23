@@ -536,7 +536,7 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 
-<!---
+CUT CONTENT BELOW
 
 So it is not clear quite how dangerous Riddick is. In fact it is Johns who posses a far more salient threat to the survivors. 
 
@@ -669,6 +669,3 @@ Any will do, with a flick of a red pen John McLain quickly becomes a protagonist
 
 
 Our story begins aboard the Hunter Gratzner, where Richard B. Riddick is being transported in cryosleep back to the prison by bounty hunter William Johns. After a midflight incident, the pilot Carolyn Fry crash lands the ship on a planet. Their ship is badly damaged, but the soon find another ship with which they can escape the planet. But their troubles are not yet over, as the planet is infested with dangerous flying creatures and it is up to Riddick, Fry, Johns and the rest of the passengers to escape.
- 
-
---->
