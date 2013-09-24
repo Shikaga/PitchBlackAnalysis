@@ -365,44 +365,58 @@ In the scene where Riddick and Fry are talking about Zeke's disappearance, Jack 
 
 Jack's gender is a secret kept from both the characters and the audience well into the film. When the crew must pass the most dangerous point in their journey Riddick halts the group, stating that it will be impossible to go any further, `"Especially with the girl bleeding."`
 
+I actually like this scene quite a lot. There is quite a subtle body language between Jack and Fry which reminds me of the maternal relationship between Ripley and Newt in *Aliens*. It isn't focused on, but as the two remaining female survivors, something flashes between them, and just the way that Fry stands, it seems as though she is trying to protect Jack.
 
+Jack also has a crucial role to play moments later, when Johns asks Riddick to "triage" Jack to save the rest of the group. Why precisely Johns would make this request isn't exactly clear. 
 
+Perhaps he too has fallen for the tough guy disguise that Riddick is harbouring, but he clearly misjudges Riddick. Riddick quite clearly states that there is a line that he won't cross and Johns flew way over it.
 
+Without any real warning, Riddick dispatching Johns and returns to the group, informing them that Johns is dead, although not why. When Jack starts to get upset about losing him, Riddick simply says, `"Don't you cry for Johns. Don't you dare"`.
 
-Jack also has a crucial role to play later in the film, where Johns decides to ask Riddick to "triage" Jack to save the rest of the group. Why precisely Johns would make this offer isn't exactly clear. Perhaps he doesn't understand Riddick very well. But Riddick quite clearly states that there is a line that he won't cross and Johns flew way over it.
-
-After dispatching Johns, Riddick returns to the group, informing them of what happened. When Jack starts to get upset about losing him, Riddick simply says, `"Don't you cry for Johns. Don't you dare"`.
-
-The other characters, while minor roles, are still very likeable. None of them really conform to typical stereotype roles, and they all have a little bit to contribute to the film. While inevitable, you do feel a little sorry for each of them as they are dispatched, albeit normally at their own hands for not doing as they are told.
-
-ALL BELOW HERE IS ROUGH DRAFT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+But even the other characters, while minor roles, are still very likeable. None of them really conform to typical stereotype roles, and they all have a little bit to contribute to the film. While inevitable, you do feel a little sorry for each of them as they are dispatched, albeit normally at their own hands for not doing as they are told.
 
 Part 2: Villain
 ===============
 
 And so, here we are, at the end of film. Riddick, Jack and Abu all fly into the sunset, to their next adventure (technically, (???), but, while I do like this movie quite a bit, the fact it is only 20 minutes long and animated, means I will not consider it canonical for this analysis).
 
- 
+The film, in my opinion at least, is a great success. What succeeds solely as a entertaining horror movie, simply on the cool sci-fi setting, monsters, and kills, is excellent movie by Fry's solid character arc and Riddick's compelling and mysterious character.
+
+But where do you go from here?
+
+In *Alien*, Ellen Ripley ends up in cryo on the way back to earth. In *Aliens*, she completes her journey ??? years later, and upon arrival, no one believes her story about aliens. But when an accident appears to have occurred on ???, she  is requested to travel back, as her insight will be vital to defeating the alien menace.
+
+When she arrives, she is greeted with more Aliens, and a heart warming subplot involving Newt.
+
+*Aliens* puts aside its Sci-fi Horror roots, and takes on a more Sci-fi Action role, which does the movie credit. The plot is bigger, and a few hints are thrown in. The previously mentioned "Company", is revealed to be Yutani Weyland, and their conspiracy subplot adds a good deal of interest to the movie, including a real antagonist for the protagonist to fight against.
+
+There are many reasons why *Aliens* succeeds as a movie. Sadly none of them translate to *Pitch Black*'s sequel, *The Chronicles of Riddick*.
+
+There are so many problems with *Chronicles* that is difficult to know where to begin.
+
+Discussion of all the plot, editing, character problems etc goes here.
+
+But above all of this, the biggest sin that *Chronicles* commits, is their utter destruction of the Riddick character. 
+
+I have already discussed in depth, all the things that make Riddick so much more than a typical action hero in *Pitch Black*.
+
+Clearly, believing that these movies need to start out with narration, Judi Dench (???), introduces us to the antagonists of *Chronicles*, the Necromongers, a kind of mega space cult, similar to the Borg, travelling around and assimilating all those in their path into their death religion.
+
+After this melodramatic opening scene, things get intersecting, with movie cutting to Riddick taking down a group of mercenaries on a remote ice planet.
+
+Gone is the weak character that previously chose to rather flee than fight, Riddick dispatches these mercenaries with a cheerful glee, and to the audiences joy. I actually really like this opening scene. It is fast paced and exciting, and a great way to reintroduce us to our hero.
+
+But it also eerily foreshadows the one of the biggest problems to come, Riddicks omnipotence.
+
+Riddick quickly finds out that it was the Imam who sent the mercenaries after him? Why? Judi Dench, quickly shows up to inform audience, that Riddick is the final survival of Furya (A planet of Furious people one presumes), and that there was a prophecy that only a Furian can stop the evil Necromongers.
+
+It is subsequentally revealed that Riddicks story to Abu about how he started out `in some trash bin with an umbilical cord wrapped around his neck`, wasn't simply the fact that he was an unwanted child, but actually the fact that one of the Necromongers trying to strangle him with own umbilical cord, during their invasion of Furya to try and prevent the prophecy.
+
+What The Fuck? 
+
+This is one of the weirdest decisions I think in movie making history. To go from such a simple story, about a group of survivors, straight into a giant space opera, is just weird.
+
+In addition, out previously simple character, who already had plenty of interesting backstory, (who did he kill and why, how do his eyes really work, what was that "shine job" all about?), and convert him into an alien and space Jesus simultaneously. 
 
 
 
@@ -411,20 +425,6 @@ And so, here we are, at the end of film. Riddick, Jack and Abu all fly into the 
 
 
 
-
-
-Not only that, but he is beaten to the point of near unconciousness by a mere two creatures, who have already shown themselves to not be particularly dangerous, relatively speaking. He needs Fry to save him after his battle, and is so weak, that he is not even capable of saving her.
-
-By contrast, the Riddick presented to us in *Chronicles*, is an unstoppable killing machine, who is able to take down crew after crew of highly skilled mercenaries unarmed, dangerous convicts with nothing more tin cup and necromancer Gods with a simple dagger.
-
-He infiltrates Crematoria without any apparent doubt that not only he, but also Jack, will be able to subsequently break out.
-
-
-This is sadly one of the common mistakes that all sequels seem to be prone to. Once your hero has defeated one enemy, they need to be given a bigger test. This is why a New York City cop who's initial actions are initially to call the police, is only three movies later blowing up a helicopter with a car and surfing a jet.
-
-It seems impossible for films to let a character be anything less than a superhero by the time their second movie comes around. Even Alien is not completely immune to this, with with the Ripley from Aliens being significantly more badass than her previous incarnation.
-
-That is not to say that the Riddick presented in *Pitch Black* is weak. He shows himself to be supremely competent, but he never quite stops being human. 
 
 
 
@@ -471,13 +471,13 @@ Not really. Riddick is a good film, all things considered. It quickly jettison's
 
 The film is heavy handed in its use of repetition, both of plot points and shots. In many ways it is these scenes that are the best in the movie.
 
-What about the "superhero effect"? Yes, it is there. The Riddicck in Riddick is significantly more powerful than his counterpart in *Pitch Black*. But it is not quite to the same degree that *Chronicles* go to. 
+What about the "superhero effect"? Yes, it is there. The Riddicck in *Riddick* is significantly more powerful than his counterpart in *Pitch Black*. But it is not quite to the same degree that *Chronicles* go to. 
 
 This Riddick can be hurt. He makes mistakes. He gets captured. And in the final "climax" of the film, he even needs too be saved by his enemies.
 
-There are many problems with the "Riddick". For starters, the film really needs to have it's dialog almost completely rewritten from scratch.
+There are many problems with the *Riddick*. For starters, the film really needs to have it's dialog almost completely rewritten from scratch.
 
-In addition, non of the character's motivations make any sense. Every single one of the bounty hunters is supposedly here to kill Riddick, and yet they never do it, despite the many opportunities that they have.
+In addition, none of the character's motivations make any sense. Every single one of the bounty hunters is supposedly here to kill Riddick, and yet they never do it, despite the many opportunities that they have.
 
 The addition of the "cells" plotline goes a long way to fixing this issue. Obviously they cannot kill him once he has hidden the cells somewhere in the desert, but why does Johns save him at the end? He only moments before abandoned Riddick to take both power cells back to the ship, and yet something in the last half and hour or so has made him change his mind so that he now needs to save Riddick?
 
@@ -490,7 +490,7 @@ Why does thug number 1 suddenly attack Johns when Riddick is digging? Surely you
 
 Also, unlike *Pitch Black*, nearly every single one of the characters is completely unlikable. One of *Pitch Black*'s strong points was the fact that most of the characters were actually quite likeable. None of the characters were over the top cliches. Even Johns, as flawed as he is, acted more like a scared chid than a action villain stereotype.
 
-You genuinely want all the characters in *Pitch Black* to make it through. The same can not be said of Riddick. Every single one of the characters is completely unlikable.
+You genuinely want all the characters in *Pitch Black* to make it through. The same can not be said of *Riddick*. Every single one of the characters is completely unlikable.
 
 You have absolutely no empathy for any of the characters that die, and no joy for those who live. In *Pitch Black*, when Jack and Abu escape the planet with Riddick, you feel genuinely relieved for them, and feel a very real sense of pain that Fry didn't make it.
 
@@ -537,6 +537,25 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 CUT CONTENT BELOW
+
+
+
+Not only that, but he is beaten to the point of near unconciousness by a mere two creatures, who have already shown themselves to not be particularly dangerous, relatively speaking. He needs Fry to save him after his battle, and is so weak, that he is not even capable of saving her.
+
+By contrast, the Riddick presented to us in *Chronicles*, is an unstoppable killing machine, who is able to take down crew after crew of highly skilled mercenaries unarmed, dangerous convicts with nothing more tin cup and necromancer Gods with a simple dagger.
+
+He infiltrates Crematoria without any apparent doubt that not only he, but also Jack, will be able to subsequently break out.
+
+
+This is sadly one of the common mistakes that all sequels seem to be prone to. Once your hero has defeated one enemy, they need to be given a bigger test. This is why a New York City cop who's initial actions are initially to call the police, is only three movies later blowing up a helicopter with a car and surfing a jet.
+
+It seems impossible for films to let a character be anything less than a superhero by the time their second movie comes around. Even Alien is not completely immune to this, with with the Ripley from Aliens being significantly more badass than her previous incarnation.
+
+That is not to say that the Riddick presented in *Pitch Black* is weak. He shows himself to be supremely competent, but he never quite stops being human. 
+
+
+
+
 
 So it is not clear quite how dangerous Riddick is. In fact it is Johns who posses a far more salient threat to the survivors. 
 
