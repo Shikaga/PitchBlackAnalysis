@@ -2,13 +2,13 @@
 layout: main
 ---
 
-Antihero: Why the Riddick franchise doesn't understand itself
+Survival Instinct: Why the Riddick franchise doesn't understand itself
 =============================================================
 
 Introduction
 ============
 
-*Pitch Black* is science-fiction horror film starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. And, of course, above all this one element stands out in the film: the character of Richard B. Riddick.
+*Pitch Black* is science-fiction horror film starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. But above all this, one element stands out in the film: the character of Richard B. Riddick.
 
 But, while *Pitch Black* may have all the trappings of generic horror movie, it goes far beyond that, breaking the bounds of mediocrity and becoming, in my opinion at least, a near perfect film. 
 
@@ -20,7 +20,7 @@ Apparently the producers felt the same way, and it seemed like the Riddick franc
 
 But Vin Diesel was not so easily deterred. Becoming an action movie star in the time since *Pitch Black*, thanks in large part to *The Fast and the Furious* sequels now going into their seventh incarnation, Vin Diesel sunk his own money into producing another sequel.
 
-In the third film (fourth if you count the ???, an animated direct to DVD sequel set between the events of *Pitch Black* and *Chronicles*), simply called *Riddick*, Vin Diesel reprises his role in what is by and large a remake of first film. Gone is the convoluted world building and supernatural plot lines. The back to basics Riddick vs the Elements film tries to exploit what made *Pitch Black* so good, and while it doesn't quite stick the landing, it was a good effort. 
+In the third film (fourth if you count the *The Chronicles of Riddick: Dark Fury*, an animated direct to DVD sequel set between the events of *Pitch Black* and *Chronicles*), simply called *Riddick*, Vin Diesel reprises his role in what is by and large a remake of first film. Gone is the convoluted world building and supernatural plot lines. The back to basics Riddick vs the Elements film tries to exploit what made *Pitch Black* so good, and while it doesn't quite stick the landing, it was a good effort. 
 
 But why? What is it that makes *Pitch Black* so good, *Chronicles* so bad and *Riddick* mediocre at best?
 
@@ -41,7 +41,7 @@ A confessed murder, Riddick is a total badass. Muscled, bald, supremely competen
 
 The alpha male sensibilities that Riddick exudes provide a great deal of wish fulfilment for men. He is simultaneously feared and idolised. When he talks people listen, and when he says jump, people ask how high. The audience watches his every move, and his "bad guy with a heart of gold", persona makes him almost impossible to predict, and we are constantly guessing what he is going to do next.
 
-Most traditional protagonists will move heaven and earth, usually by some deus ex machina, to protect those in their care (usually a female love interest). A typical example of this "white knight cliche" would be an antagonist capturing the love interest, at which point the hero will drop their weapons, and allow themselves to get captured to save the one they love. Shortly after they will escape and save the day. We have all seen it a million times.
+Most traditional protagonists will move heaven and earth, usually by some deus ex machina, to protect those in their care (usually a female love interest). A typical example of this "white knight cliche" would be an antagonist capturing the love interest, at which point the hero will drop their weapons, and allow themselves to get captured to save them. Shortly after they will escape again and save the day. We have all seen it a million times.
 
 Riddick is not one of these protagonists. He does what he can to save the other crew members, but he is pragmatic, never expecting a deus ex machina to help him save everyone in the face of impossible odds. This realism combined with his bleak outlook on life, and of course standard action movie trappings of witty one liners and a never say die attitude, makes him interesting.
 
@@ -60,7 +60,7 @@ He sneaks up behind Fry and secretly steals some of her hair and then later happ
 
 However, a short time later, the passengers find Riddick standing over the missing body of one of their murdered acquaintances. Presuming that Riddick has started his killing spree, they tackle him to the ground and after a brief skirmish, capture him.
 
-So it is at this moment in the film, twenty seven minutes into the film, that Riddick utters his first line of on screen dialogue. But this is also, where all of sudden his character changes completely.
+So it is at this moment in the film, twenty seven minutes into the film, that Riddick utters his first line of on screen dialogue. And with his first words, his character changes completely.
 
 I mentioned earlier that there are many similarities between *Pitch Black* and *Alien*. And indeed, there are. And if we are going to play with this analogy, then in this opening act, Riddick very much takes the role of the Xenomorph. 
 
@@ -74,15 +74,15 @@ He quickly sets about devising a plan to get them all off the planet before the 
 
 But before we discuss the rest of the movie, let us have a look the twist in the movie where his character turned from antagonist to protagonist. 
 
-Even in chains in Riddicks opening dialogue exchange with Fry he is clearly in control. Of course, he has somehow been captured, a grave error. But we have all been here before. The villain getting captured as part of his grand plan was a little less hackneyed in 2000, but has always been a classic trope of genre films, so we know that he will soon escape and start killing again.
+Even in chains in his opening dialogue exchange with Fry, Riddick is clearly in control. Of course, he has somehow been captured, a grave error. But we have all been here before. The villain getting captured as part of his grand plan was a little less hackneyed in 2000, but has always been a classic trope of genre films, so we know that he will soon escape and start killing again.
 
 And yet this twist never occurs. Getting captured never seems to have been part of Riddick's plan. Did he know that Johns would release him? Did he know that the only way that he would be able to get off the planet would be to travel with the rest of the passengers, allowing them to get picked off one by one, thus requiring him to get captured?
 
 Indeed, it would not have been hard for to add a line of dialog for it to be so.
 
-> RIDDICK: “Come on Carolyn. You think I helped you out of the goodness of my heart?” LAUGHS Fry shakes her head, visibly upset. 
+> `RIDDICK: “Come on Carolyn. You think I helped you out of the goodness of my heart?” LAUGHS Fry shakes her head, visibly upset.` 
 
-> RIDDICK: “I couldn’t make it all the way myself, I needed a distraction. That’s all you were to me Fry. Big, fat, juicy distractions” SMILES EVILY
+> `RIDDICK: “I couldn’t make it all the way myself, I needed a distraction. That’s all you were to me Fry. Big, fat, juicy distractions” SMILES EVILY`
 
 And yet, this never comes to pass. Riddicks role as antagonist truly does not outlive the first act. In fact, upon reflection, his actions of the first act are not conducive to an antagonist role when taken in context. Sure, he tried to incapacitate Johns in a bid to escape. But beyond that he doesn’t seem to bear any ill will to any of the crew members, even Johns.
 
@@ -156,7 +156,7 @@ Riddick shows variable loyalty the rest of the crew. He clearly fancies himself 
 
 His ire fall's most heavily on Abu, The Holy Man, with whom he has complicated relationship. Riddick sees his belief as a weakness. `"So where the hell's your God now?"`, he asks mockingly as the sudden rainfall starts to extinguish their last remaining torches.
 
-But Riddick is not a sadist, nor without reason. He does try to get the entire crew to safety. He defends Jack against Johns, when Johns tries to betray her, and he continues to shepard them to safety.
+But Riddick is not a sadist, nor without reason. He does try to get the entire crew to safety. He defends Jack against Johns, when Johns tries to betray her, and he continues to shepherd them to safety.
 
 The scene in which Fry arrives at the ship just in time to prevent Riddick from leaving without them is the emotional climax of the film. It is where, we finally see not only what Riddick is made of, buy also Fry, who I will talk about more later.
 
@@ -192,7 +192,7 @@ When Fry tries to convince him to save the others, he simply counters with offer
 
 In this scene, Riddick is trying to get Carolyn to also take the cowards way out. He clearly thinks that if she too, abandons the others, then he is no more guilty than her.
 
-He asks her to come aboard, offering his hand, and coaxing her onboard with gentle words and nudges, to overcome her emotional paralysis. This scene is truly incredible, Fry finally breaking down, weeping in the rain as she slowly resolves to leave the other to her face, while Riddick comforts her.
+He asks her to come aboard, offering his hand, and coaxing her onboard with gentle words and nudges, to overcome her emotional paralysis. This scene is truly incredible, Fry finally breaking down, weeping in the rain as she slowly resolves to leave the other to their fate, while Riddick comforts her.
 
 But at the last minute, Fry resolves to save others, even if it suicide.
 
@@ -302,13 +302,13 @@ After Riddick's betrayal, Fry takes their last remaining light, and sprints into
 
 Here, she is finally given her chance at redemption. Once again she has the option of either abandoning the others and saving her own life, or trusting in her own strength, and try to save them.
 
-Throughout the movie, this has been main tension of the film. The conversation that she has with Johns earlier in the movie, where she explains that Owens was trying to prevent her from killing the passengers, is overheard by Riddick.
+Throughout the movie, this has been the main tension of the film. The conversation that she has with Johns earlier in the movie, where she explains that Owens was trying to prevent her from killing the passengers, is overheard by Riddick.
 
 Her decision weighs on her, killing her inside with every second she spends with those that she tried to sacrifice to save her own life. She is clearly conflicted with her own demons, and it manifests in the way that she tries to take charge and get everyone to safety, in an attempt to receive absolution.
 
-Riddick asking her to once again abandon them hits her like a hammer. The tension growing, beat by beat, with Riddick's smiling evilly as he sees her break down. But then, finally gathers her strength and throws it in his face, declaring that they are going back for the others, whether he likes it or not.
+Riddick asking her to once again abandon them hits her like a hammer. The tension growing, beat by beat, with Riddick's smiling evilly as he sees her break down. But then, she finally gathers her strength and throws it in his face, declaring that they are going back for the others, whether he likes it or not.
 
-In fact, this reminds me a lot of the end of Die Hard. The Cop (???), midway through the film explains how after a shooting gone wrong, he had never been able to draw his gun again, and had been desk bound ever since.
+In fact, this reminds me a lot of the end of *Die Hard*. The Cop (???), midway through the film explains how after a shooting gone wrong, he had never been able to draw his gun again, and had been desk bound ever since.
 
 Finally at the very end of the film, after the climax and celebrations have begun, he is finally able to shoot the one final terrorist. He is provided with an opportunity to put his mistake behind him, and reclaim his destiny.
 
@@ -316,7 +316,7 @@ Of course, by not living to the end of the movie, the sum total of the Fry story
 
 She is a character that could have lead the entire movie, and perhaps even had her own franchise in a post *Alien* world, had the last five minutes gone a bit differently.
 
-But, on the other hand, movies to seldom have the guts to deliver a truly devastating death, and I don't want to ever criticise one for doing so.
+But, on the other hand, movies so seldom have the guts to deliver a truly devastating death, and I don't want to ever criticise one for doing so.
 
 But Fry is not the only character of this piece. After the crash, the movie pauses long enough on the rest of the characters for us to get to like them. At this point in the movie, we are setting up for Friday 13th style slasher, and it is already clear that not everyone is going to make it off this planet.
 
@@ -361,7 +361,7 @@ Jack falls for Riddick's mystique almost immediately, quickly fashioning replica
 
 Jack is very believable and never annoying as young characters in these movies so often are. 
 
-In the scene where Riddick and Fry are talking about Zeke's disappearance, Jack enters and starts asking about Riddick's eyes. This is a wonderful bit of exposition, and a chance for Jack to show her fascination with Riddick, and the secret of his surgical shine job which is so poorly executed on in the following film.
+In the scene where Riddick and Fry are talking about Zeke's disappearance, Jack enters and starts asking about Riddick's eyes. This is a wonderful bit of exposition, and a chance for Jack to show her fascination with Riddick, and the secret of his surgical shine job which is so poorly executed on in the sequel.
 
 Jack's gender is a secret kept from both the characters and the audience well into the film. When the crew must pass the most dangerous point in their journey Riddick halts the group, stating that it will be impossible to go any further, `"Especially with the girl bleeding."`
 
@@ -378,9 +378,9 @@ But even the other characters, while minor roles, are still very likeable. None 
 Part 2: Villain
 ===============
 
-And so, here we are, at the end of film. Riddick, Jack and Abu all fly into the sunset, to their next adventure (technically, (???), but, while I do like this movie quite a bit, the fact it is only 20 minutes long and animated, means I will not consider it canonical for this analysis).
+And so, here we are, at the end of film. Riddick, Jack and Abu all fly into the sunset, to their next adventure (technically, *The Chronicles of Riddick: Dark Fury*, but, while I do like this movie quite a bit, the fact it is only 30 minutes long and animated, means I will not consider it canonical for this analysis).
 
-The film, in my opinion at least, is a great success. What succeeds solely as a entertaining horror movie, simply on the cool sci-fi setting, monsters, and kills, is excellent movie by Fry's solid character arc and Riddick's compelling and mysterious character.
+*Pitch Black*, in my opinion at least, is a great success. What succeeds solely as a entertaining horror movie, simply on the cool sci-fi setting, monsters, and kills, is excellent movie by Fry's solid character arc and Riddick's compelling and mysterious character.
 
 But where do you go from here?
 
@@ -410,6 +410,8 @@ But it also eerily foreshadows the one of the biggest problems to come, Riddicks
 
 Riddick quickly finds out that it was the Imam who sent the mercenaries after him? Why? Judi Dench, quickly shows up to inform audience, that Riddick is the final survival of Furya (A planet of Furious people one presumes), and that there was a prophecy that only a Furian can stop the evil Necromongers.
 
+There is a nice little line that Riddick uses here, where he talks about who there is no such thing as a friend, and that he should never have trusted the Imam. 
+
 It is subsequentally revealed that Riddicks story to Abu about how he started out `in some trash bin with an umbilical cord wrapped around his neck`, wasn't simply the fact that he was an unwanted child, but actually the fact that one of the Necromongers trying to strangle him with own umbilical cord, during their invasion of Furya to try and prevent the prophecy.
 
 What The Fuck? 
@@ -418,10 +420,38 @@ This is one of the weirdest decisions I think in movie making history. To go fro
 
 In addition, out previously simple character, who already had plenty of interesting backstory, (who did he kill and why, how do his eyes really work, what was that "shine job" all about?), and convert him into an alien and space Jesus simultaneously. 
 
+But, that might almost have been an acceptable compromise to make, if it had remained focused. There are plenty of interesting things that they could have done with this plot.
+
+But the film instead, quickly decides to go to the other strong thing from the original movie, which is the character of Jack. 
+
+Jack has fallen on hard times, and has found herself incarcerated in a max security prison, Crematoria. Upon finding out, Riddick immediately drops everything, and heads out to save her.
+
+This is such a weird thing for Riddick's character to do. He never showed more than a passing affection for Jack, a loose friendship, but nothing like the connection he had with Fry.
+
+It seems odd that Riddick, who wants people to succeed and fail by their own strength, would suddenly feel that Jack needs to be rescued.
+
+Perhaps he blames himself for what has happened to her. After all, she was instantaneously infatuated with Riddick, and when she asked about the surgical shine job, Riddick told her just enough to get her in trouble.
+
+But the very fact that this character has supposedly killed people to be sent to prison, so that she can get this surgery done is completely bonkers. Seriously, there is no market  on the outside to get this performed?
+
+Surely, just about anything is easier than getting convicted of a crime, sneaking your payment into the prison, bribing the surgeon to perform the surgery and then break out of the prison again.
+
+Yet this is what the movie wants us to believe that this character has done. I mean, how can Riddick not admonish her for being incredibly stupid?
+
+If I remember, there is a lovely little line, "Stay out of the light", which is obviously a little callback to the previous film. 
+
+We are in this sub plot just long enough to forget about the silly Necromongers, but sadly they return in a 
 
 
 
+The real problem with *Chronicles*, is that the story is just too big for Riddick to handle. Getting survivors to their escape ship, is within Riddicks power, and makes it an interesting story. To single handedly defeat an entire invading army that have left countless destroyed planets in their wake, seems a little out of his wheelhouse.
 
+As previously stated.
+
+
+`I am sure God has his tricks. But getting out of places that nobody else can, that's one of mine`.
+
+This is actually a great line. It reminds of their religious animosity towards each other, while cementing what Riddick's super power is: Survival instinct.
 
 
 
