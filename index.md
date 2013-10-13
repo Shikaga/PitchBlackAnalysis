@@ -380,29 +380,87 @@ Part 2: Villain
 
 And so, here we are, at the end of film. Riddick, Jack and Abu all fly into the sunset, to their next adventure (technically, *The Chronicles of Riddick: Dark Fury*, but, while I do like this movie quite a bit, the fact it is only 30 minutes long and animated, means I will not consider it canonical for this analysis).
 
-*Pitch Black*, in my opinion at least, is a great success. What succeeds solely as a entertaining horror movie, simply on the cool sci-fi setting, monsters, and kills, is excellent movie by Fry's solid character arc and Riddick's compelling and mysterious character.
+*Pitch Black*, in my opinion at least, is a great film. What could have succeeded solely as a entertaining horror movie, simply on the cool sci-fi setting, monsters, and kills, is exalted by Fry's solid character arc and Riddick's enigmatic self.
 
 But where do you go from here?
 
 In *Alien*, Ellen Ripley ends up in cryo on the way back to earth. In *Aliens*, she completes her journey ??? years later, and upon arrival, no one believes her story about aliens. But when an accident appears to have occurred on ???, she  is requested to travel back, as her insight will be vital to defeating the alien menace.
 
-When she arrives, she is greeted with more Aliens, and a heart warming subplot involving Newt.
+When she arrives, she is greeted with more Aliens, and an excellent subplot involving Newt.
 
 *Aliens* puts aside its Sci-fi Horror roots, and takes on a more Sci-fi Action role, which does the movie credit. The plot is bigger, and a few hints are thrown in. The previously mentioned "Company", is revealed to be Yutani Weyland, and their conspiracy subplot adds a good deal of interest to the movie, including a real antagonist for the protagonist to fight against.
 
-There are many reasons why *Aliens* succeeds as a movie. Sadly none of them translate to *Pitch Black*'s sequel, *The Chronicles of Riddick*.
+There are many reasons why *Aliens* succeeds as a movie. Sadly none of them can be found  in *Pitch Black*'s sequel, *The Chronicles of Riddick*.
 
-There are so many problems with *Chronicles* that is difficult to know where to begin.
+There are so many problems with *Chronicles* that is difficult to know where to begin. And while, I will spend some time enumerating these mistakes, they are largely irrelevant, in the wake of the films biggest flaw: The complete destruction of the character of Riddick.
+
+As far as plot mistakes go, the main issue with *Chronicles*, is that it is complicated.
+
+Let us compare and contrast the first forty minutes of each film.
+
+*Pitch Black*, a spaceship crashes on a planet. A dangerous criminal Riddick escapes. The survivors search for water, before capturing Riddick. They suspect Riddick of killing one of the passengers, but discover a race of aliens, at which point they ask Riddick to help protect them.
+
+In *Chronicles*, an army of religious are found to be marauding through space killing all in their path. Riddick is shown to be hiding on a ice planet. A group of mercenaries are out to catch him, but he dispatches them. They tell him that the Imam sent the to capture him. He takes their ship and goes to get revenge on the Imam for betraying him. Once he meets the Imam, he is told that he wasn't betrayed, but that they need him to save the universe from the Necromongers, due to a prophesy. But before he can decide whether to help them or not, he is attacked by the local militia. After dispatching them, they are suddenly attacked by the Necromongers. Riddick tries to save the Imam and his family, but sadly the Imam dies. Riddick then seeks out the person who killed the Imam. But after getting his revenge, he is captured by the Necromongers and taken in front of the prophetic "Quasideads", who instruct the Necromongers to kill him. But Riddick soon escapes the clutches of the Necromongers, only to be recaptured by the mercenaries from the beginning of the film. Riddick quickly tricks them into sending him to Crematoria, the prison in which Jack has been detained, in an attempt to free her.
+
+If your head is already spinning, watch the film. And it is actually a real shame, because the movie was going pretty well for the first twenty minutes. but with barrage after barrage of twists and reveals, the film soon looses all focus, and the audience is left with no idea what the goals of any of the characters are anymore.
+
+In *Pitch Black*, there is a constant reminder of what the characters goal is: Stay in the light, get to the skiff, escape the planet. These goals are repeated over and over in the film, keeping the audience focused.
+
+In Aliens, the plot is as simple as investigate the base, try and escape. Everything else is a detail, and you never forget what the characters objectives are.
+
+But the goals of Riddick, not to mention the rest of the cast, seem to change on a scene by scene basis. And in some movies, this is fine. If this were a political thriller, or a murder mystery, it would be totally normal to expect the audience to keep multiple distinct plots and motives in order. 
+
+But this is a simple science fiction movie, and Riddicks motivations seem to change from moment to moment.
+
+We start with his motivation being to stay hidden, hence his self banishment on the ice planet. Then, he wants to punish the Imam for ratting  him out. Then he wants to escape the planet which is being invaded. Then he wants to get revenge for the Imams death. Then he wants to save Jack. And then he wants to become Emperor of the Universe. Not bad for an ex con.
+
+And none of these changes seem to really have any weight to them. They literally come out of nowhere, with no explanation. And the audience can't help but be confused, swept up in a torrent of bad dialog and special effects.
+
+This completely bewildering lack of direction is not helped by the supporting characters, every single one of whom, with the small exception of the Imam, is completely unlikable.
+
+As I have previously stated, one of *Pitch Black*'s strongest suits is that the survivors are all interesting, or at the very least very likeable, right down to the would be  antagonist role of Johns.
+
+*Chronicles* is so completely void of such characters, it's almost impressive. Toombs, the   bounty hunter that would take the roll of Johns, misses the mark completely. 
+
+While Johns is cool and collected (although the morphine probably helps with that) altogether human character, Toombs is a giant cartoon character, who wouldn't be able to get a crew together if he payed them in solid gold bars.
+
+He is totally unhinged, has no empathy for anyone else in the film, and spouts such terrible one liners, it is a miracle that anyone can stand him for more than about twenty seconds.
+
+There is no way that his character would have lasted ten seconds in *Pitch Black*. He would have been so out of place in that movie, he would have burst straight through the fourth wall.
+
+And this is one of the things that is so sad about the film. I almost cannot believe that these two films were written by the same author. Where was the subtly, the quietness that made *Pitch Black* what it was. And why was it necessary to eschew to throw in the crazy bounty hunter trope.
+
+
+
+
+
+
+
 
 Discussion of all the plot, editing, character problems etc goes here.
 
+
+
+
+
+
+
+
 But above all of this, the biggest sin that *Chronicles* commits, is their utter destruction of the Riddick character. 
+
+
+
+
+
+
+
+
 
 I have already discussed in depth, all the things that make Riddick so much more than a typical action hero in *Pitch Black*.
 
 Clearly, believing that these movies need to start out with narration, Judi Dench (???), introduces us to the antagonists of *Chronicles*, the Necromongers, a kind of mega space cult, similar to the Borg, travelling around and assimilating all those in their path into their death religion.
 
-After this melodramatic opening scene, things get intersecting, with movie cutting to Riddick taking down a group of mercenaries on a remote ice planet.
+After this melodramatic opening scene, things get interesting, with the movie cutting to Riddick taking down a group of mercenaries on a remote ice planet.
 
 Gone is the weak character that previously chose to rather flee than fight, Riddick dispatches these mercenaries with a cheerful glee, and to the audiences joy. I actually really like this opening scene. It is fast paced and exciting, and a great way to reintroduce us to our hero.
 
