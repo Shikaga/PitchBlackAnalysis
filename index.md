@@ -418,7 +418,7 @@ What The Fuck?
 
 This is one of the weirdest decisions I think in movie making history. To go from such a simple story, about a group of survivors, straight into a giant space opera, is just weird.
 
-In addition, out previously simple character, who already had plenty of interesting backstory, (who did he kill and why, how do his eyes really work, what was that "shine job" all about?), and convert him into an alien and space Jesus simultaneously. 
+In addition, out previously simple character, who already had plenty of interesting backstory, (who did he kill and why, how do his eyes really work, what was that "shine job" all about?), and convert him into an alien and Space Jesus simultaneously. 
 
 But, that might almost have been an acceptable compromise to make, if it had remained focused. There are plenty of interesting things that they could have done with this plot.
 
@@ -454,6 +454,21 @@ As previously stated.
 This is actually a great line. It reminds of their religious animosity towards each other, while cementing what Riddick's super power is: Survival instinct.
 
 
+But now, we are suddenly incredibly confused.
+
+We have gone from Judi Dench telling him that he is the key to the universes survival, to him fighting the local militia (for completely unclear reasons), to an invasion of Necromongers, and him trying to help the Imam and his family escape, in a matter of five minutes.
+
+The audience is suddenly left with a sudden lack of target. What precisely is Riddick trying to accomplish? And why is it his motivation changing every 5 minutes?
+
+At first, he was hiding on a ice planet, for a reason that is never fully explained other that to say "??? You should all stay away from me", to him travelling to the Imam to kill him for betraying him, to trying to escape the invasion, to trying to extract revenge for the Imams death, to trying to save Jack, to trying to assassinate the Lord Marhsall of the Necromancers to take their place.
+
+You cannot blame atone for feeling nauseous after all these head spinning plot turns that the film is taking.
+
+Quasi-deads?
+
+Suddenly, our bounty hunter friends are back, and despite there being a war on, and the planet being overrun by the most powerful army the universe has ever seen, they seem to have no problem with killing hundreds perhaps thousands of enemy soldiers in an attempt to capture Riddick.
+
+This is so ridiculous, it is almost impossible to comprehend. 
 
 
 
