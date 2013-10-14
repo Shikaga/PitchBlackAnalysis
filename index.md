@@ -394,6 +394,9 @@ There are many reasons why *Aliens* succeeds as a movie. Sadly none of them can 
 
 There are so many problems with *Chronicles* that is difficult to know where to begin. And while, I will spend some time enumerating these mistakes, they are largely irrelevant, in the wake of the films biggest flaw: The complete destruction of the character of Riddick.
 
+The Rude Goldberg Machine
+-------------------------
+
 As far as plot mistakes go, the main issue with *Chronicles*, is that it is complicated.
 
 Let us compare and contrast the first forty minutes of each film.
@@ -416,6 +419,9 @@ We start with his motivation being to stay hidden, hence his self banishment on 
 
 And none of these changes seem to really have any weight to them. They literally come out of nowhere, with no explanation. And the audience can't help but be confused, swept up in a torrent of bad dialog and special effects.
 
+I'm surrounded by Assholes
+--------------------------
+
 This completely bewildering lack of direction is not helped by the supporting characters, every single one of whom, with the small exception of the Imam, is completely unlikable.
 
 As I have previously stated, one of *Pitch Black*'s strongest suits is that the survivors are all interesting, or at the very least very likeable, right down to the would be  antagonist role of Johns.
@@ -428,27 +434,45 @@ He is totally unhinged, has no empathy for anyone else in the film, and spouts s
 
 There is no way that his character would have lasted ten seconds in *Pitch Black*. He would have been so out of place in that movie, he would have burst straight through the fourth wall.
 
-And this is one of the things that is so sad about the film. I almost cannot believe that these two films were written by the same author. Where was the subtly, the quietness that made *Pitch Black* what it was. And why was it necessary to eschew to throw in the crazy bounty hunter trope.
+And this is one of the things that is so sad about the film. I almost cannot believe that these two films were written by the same author. Where was the subtlty, the quietness that made *Pitch Black* what it was. And why was it necessary to eschew that, to throw in the crazy bounty hunter trope?
 
+And this continues throughout all the facets of the films supporting cast. Not one character, besides the Imam, is anything less than an arrogant stereotype. The prison guards and prisoners in Crematoria, are so completely unlikable, not to mention entirely illogical. 
 
+Not a single one of their actions makes sense. ???
 
+My eyes!
+--------
 
+I don't want to spend too much time on the visual problems in *Chronicles*. The fact is, they are relatively  minor in comparison to all the other things the movie had wrong.
 
+But, it seems like every single time a director that a director who works wonders on a shoestring budget with practical effects and sets, get a big budget for a sequel, they spend it on terrible looking CG.
 
+And the CG isn't even the worst parts of the film. A lot of the actions scenes are terribly edited. The scene with Riddick against the Militia or against the Necromongers the city, is filmed in almost complete darkness, with just enough muzzle flash to make sure it is completely impossible to follow what is going on.
 
+There are more action scenes in the first twenty minutes of *Chronicles* than in the whole of *Pitch Black*, and they are terrible! So many directors seem to fall into this trap. Where before they would use their budget sparingly, focusing on executing just a few scenes well, once given sufficient budget, the daub great swaths of mediocre  scenes all over the place.
 
-Discussion of all the plot, editing, character problems etc goes here.
+Of course, it does make you wonder whether the director was actually any good to begin with. Hollywood is filled with accidental success stories, of how low budgets and bad props made films exceed their expectations. *Jaws* is obviously one of the most famous, but *Catpeople* ??? is another famous example of props being so terrible, and the lack of budget preventing better ones, that director was forced to be creative, and focus on the negative space, generating suspense. 
 
+Had the director had their way, and nothing had gone wrong, would the films have been such a success? We will never know.
 
+But in light of *Chronicles*, one is forced to analyse whether perhaps *Pitch Black* was just a happy accident, whether all that great subtlety and suspense, was simply because the director did not have enough rope to hang himself. For me, whether the film succeeded or failed on purpose or by accident is largely irrelevant, and I won't dwell on it, but to me it seems clear that the Twohy fell, like so many other directors, for the budget trap, and that is sad.
 
+Attack of the Body Snatchers
+----------------------------
 
+But, above all this, above any editing or special effects, above the unlikable supporting cast or bewildering plot, their greatest mistake, was the destruction of Richard B. Riddick.
 
+Throughout the whole of *Pitch Black* Riddick is simply an ex-con trying to escape the planet with his life nothing more.
 
+By the end of *Chronicles*, he is Space Jesus foretold of in the prophesy, and the leader of an army of religious zealots hell bent on the destruction of the universe.
 
+But before we go there, let's start to with the basics.
 
-But above all of this, the biggest sin that *Chronicles* commits, is their utter destruction of the Riddick character. 
+The character of Riddick in *Pitch Black* is a simple human. He is strong and resourceful, a good guy to have on your side in a tight spot. But he is human nonetheless. 
 
+As I have already pointed out before, both Johns and the crew are both a match for him when push comes to shove, and Riddick struggles to fight a mere two of the creatures, he is not Superman.
 
+And yet, in a film that takes place less than ten years later, he has turned into a cross between Jason Bourne, Rambo and Conan
 
 
 
@@ -457,6 +481,15 @@ But above all of this, the biggest sin that *Chronicles* commits, is their utter
 
 
 I have already discussed in depth, all the things that make Riddick so much more than a typical action hero in *Pitch Black*.
+
+
+
+
+
+
+
+
+
 
 Clearly, believing that these movies need to start out with narration, Judi Dench (???), introduces us to the antagonists of *Chronicles*, the Necromongers, a kind of mega space cult, similar to the Borg, travelling around and assimilating all those in their path into their death religion.
 
@@ -476,7 +509,7 @@ What The Fuck?
 
 This is one of the weirdest decisions I think in movie making history. To go from such a simple story, about a group of survivors, straight into a giant space opera, is just weird.
 
-In addition, out previously simple character, who already had plenty of interesting backstory, (who did he kill and why, how do his eyes really work, what was that "shine job" all about?), and convert him into an alien and Space Jesus simultaneously. 
+In addition, our previously simple character, who already had plenty of interesting backstory, (who did he kill and why, how do his eyes really work, what was that "shine job" all about?), and convert him into an alien and Space Jesus simultaneously. 
 
 But, that might almost have been an acceptable compromise to make, if it had remained focused. There are plenty of interesting things that they could have done with this plot.
 
@@ -496,9 +529,13 @@ Surely, just about anything is easier than getting convicted of a crime, sneakin
 
 Yet this is what the movie wants us to believe that this character has done. I mean, how can Riddick not admonish her for being incredibly stupid?
 
-If I remember, there is a lovely little line, "Stay out of the light", which is obviously a little callback to the previous film. 
-
 We are in this sub plot just long enough to forget about the silly Necromongers, but sadly they return in a 
+
+
+
+
+
+
 
 
 
@@ -506,11 +543,9 @@ The real problem with *Chronicles*, is that the story is just too big for Riddic
 
 As previously stated.
 
-
 `I am sure God has his tricks. But getting out of places that nobody else can, that's one of mine`.
 
 This is actually a great line. It reminds of their religious animosity towards each other, while cementing what Riddick's super power is: Survival instinct.
-
 
 But now, we are suddenly incredibly confused.
 
@@ -520,7 +555,7 @@ The audience is suddenly left with a sudden lack of target. What precisely is Ri
 
 At first, he was hiding on a ice planet, for a reason that is never fully explained other that to say "??? You should all stay away from me", to him travelling to the Imam to kill him for betraying him, to trying to escape the invasion, to trying to extract revenge for the Imams death, to trying to save Jack, to trying to assassinate the Lord Marhsall of the Necromancers to take their place.
 
-You cannot blame atone for feeling nauseous after all these head spinning plot turns that the film is taking.
+You cannot blame anyone for feeling nauseous after all these head spinning plot turns that the film is taking.
 
 Quasi-deads?
 
@@ -538,11 +573,6 @@ This is so ridiculous, it is almost impossible to comprehend.
 
 
 
-
-Part 2: Villain
----
-
-A discussion about how the Riddick in *Pitch Black* is just as much a force of nature in the first film as the aliens that he dispatches. He is good because he is not in focus too much of the time, letting other characters largely carry the plot.
 
 
 
