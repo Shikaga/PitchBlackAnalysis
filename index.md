@@ -308,7 +308,7 @@ Her decision weighs on her, killing her inside with every second she spends with
 
 Riddick asking her to once again abandon them hits her like a hammer. The tension growing, beat by beat, with Riddick's smiling evilly as he sees her break down. But then, she finally gathers her strength and throws it in his face, declaring that they are going back for the others, whether he likes it or not.
 
-In fact, this reminds me a lot of the end of *Die Hard*. The Cop (???), midway through the film explains how after a shooting gone wrong, he had never been able to draw his gun again, and had been desk bound ever since.
+In fact, this reminds me a lot of the end of *Die Hard*. Midway through the film Sgt. Powell explains how after a shooting gone wrong he had never been able to draw his gun again and had been desk bound ever since.
 
 Finally at the very end of the film, after the climax and celebrations have begun, he is finally able to shoot the one final terrorist. He is provided with an opportunity to put his mistake behind him, and reclaim his destiny.
 
@@ -320,7 +320,7 @@ But, on the other hand, movies so seldom have the guts to deliver a truly devast
 
 But Fry is not the only character of this piece. After the crash, the movie pauses long enough on the rest of the characters for us to get to like them. At this point in the movie, we are setting up for Friday 13th style slasher, and it is already clear that not everyone is going to make it off this planet.
 
-But unlike most Friday 13th style movies, most of these characters are quite likeable and believable. Rather than thin stereotypes (???, The Jock, The Whore, The Clown and The Virgin, as so eloquently stated in *Cabin in the Woods*), we get well rounded characters, each with their own motivations and abilities. 
+But unlike most Friday 13th style movies, most of these characters are quite likeable and believable. Rather than thin stereotypes (The Scholar, The Athlete, The Whore, The Fool and The Virgin, as so eloquently stated in *Cabin in the Woods*), we get well rounded characters, each with their own motivations and abilities. 
 
 This is in many ways, what makes *Pitch Black* such a good movie. You actually want all these characters to survive. Sure, you came to the movie to see the awesome kills, and you want your money's worth, but humanising these people only helps the film.
 
@@ -384,7 +384,7 @@ And so, here we are, at the end of film. Riddick, Jack and Abu all fly into the 
 
 But where do you go from here?
 
-In *Alien*, Ellen Ripley ends up in cryo on the way back to earth. In *Aliens*, she completes her journey ??? years later, and upon arrival, no one believes her story about aliens. But when an accident appears to have occurred on ???, she  is requested to travel back, as her insight will be vital to defeating the alien menace.
+In *Alien*, Ellen Ripley ends the film in cryo on the way back to earth. In *Aliens*, she completes her journey 57 years later, and upon arrival, no one believes her story about aliens. But when an accident appears to have occurred on LV-426, she  is requested to travel back, as her insight will be vital to defeating the alien menace.
 
 When she arrives, she is greeted with more Aliens, and an excellent subplot involving Newt.
 
@@ -397,23 +397,23 @@ There are so many problems with *Chronicles* that is difficult to know where to 
 The Rude Goldberg Machine
 -------------------------
 
-As far as plot mistakes go, the main issue with *Chronicles*, is that it is complicated.
+As far as plot mistakes go, the main issue with *Chronicles*, is that it is too complicated.
 
 Let us compare and contrast the first forty minutes of each film.
 
-*Pitch Black*, a spaceship crashes on a planet. A dangerous criminal Riddick escapes. The survivors search for water, before capturing Riddick. They suspect Riddick of killing one of the passengers, but discover a race of aliens, at which point they ask Riddick to help protect them.
+*Pitch Black*, a spaceship crashes on a planet. A dangerous criminal Riddick escapes. The survivors search for water, before capturing Riddick. They suspect Riddick of killing one of the passengers, but discover a race of aliens is responsible, at which point they ask Riddick to help protect them.
 
-In *Chronicles*, an army of religious are found to be marauding through space killing all in their path. Riddick is shown to be hiding on a ice planet. A group of mercenaries are out to catch him, but he dispatches them. They tell him that the Imam sent the to capture him. He takes their ship and goes to get revenge on the Imam for betraying him. Once he meets the Imam, he is told that he wasn't betrayed, but that they need him to save the universe from the Necromongers, due to a prophesy. But before he can decide whether to help them or not, he is attacked by the local militia. After dispatching them, they are suddenly attacked by the Necromongers. Riddick tries to save the Imam and his family, but sadly the Imam dies. Riddick then seeks out the person who killed the Imam. But after getting his revenge, he is captured by the Necromongers and taken in front of the prophetic "Quasideads", who instruct the Necromongers to kill him. But Riddick soon escapes the clutches of the Necromongers, only to be recaptured by the mercenaries from the beginning of the film. Riddick quickly tricks them into sending him to Crematoria, the prison in which Jack has been detained, in an attempt to free her.
+In *Chronicles*, an army of religious zealots are found to be marauding through space killing all in their path. Riddick is shown to be hiding on a ice planet. A group of mercenaries are out to catch him, but he dispatches them. They tell him that the Imam sent the to capture him. He takes their ship and goes to get revenge on the Imam for betraying him. Once he meets the Imam, he is told that he wasn't betrayed, but that they need him to save the universe from the Necromongers, due to a prophesy. But before he can decide whether to help them or not, he is attacked by the local militia. After dispatching them, they are suddenly attacked by the Necromongers, whom he dispatches. Riddick tries to save the Imam and his family, but sadly the Imam dies. Riddick then seeks out the person who killed the Imam. But after getting his revenge, he is captured by the Necromongers and taken in front of the prophetic "Quasideads", who instruct the Necromongers to kill him. But Riddick soon escapes the clutches of the Necromongers, only to be recaptured by the mercenaries from the beginning of the film. Riddick quickly tricks them into sending him to Crematoria, the prison in which Jack has been detained, in an attempt to free her.
 
-If your head is already spinning, watch the film. And it is actually a real shame, because the movie was going pretty well for the first twenty minutes. but with barrage after barrage of twists and reveals, the film soon looses all focus, and the audience is left with no idea what the goals of any of the characters are anymore.
+If your head is already spinning, try watching the film. It is really a shame that so many mind boggling plot points are thrown-in in such an ad-hoc fashion, because the movie was going pretty well for the first twenty minutes. But with barrage after barrage of twists and reveals, the film soon looses all focus, and the audience is left with no idea what the goals of any of the characters are anymore.
 
 In *Pitch Black*, there is a constant reminder of what the characters goal is: Stay in the light, get to the skiff, escape the planet. These goals are repeated over and over in the film, keeping the audience focused.
 
 In Aliens, the plot is as simple as investigate the base, try and escape. Everything else is a detail, and you never forget what the characters objectives are.
 
-But the goals of Riddick, not to mention the rest of the cast, seem to change on a scene by scene basis. And in some movies, this is fine. If this were a political thriller, or a murder mystery, it would be totally normal to expect the audience to keep multiple distinct plots and motives in order. 
+But the goals of Riddick, not to mention the rest of the cast, seem to change on a scene by scene basis. He may be flying full pelt in one direction before turning on the spot to head with equal urgency in the complete opposite. And yet when he finally arrives there he is inexplicably somehow back where he started.
 
-But this is a simple science fiction movie, and Riddicks motivations seem to change from moment to moment.
+And in some movies, this is fine. If this were a political thriller, or a murder mystery, it would be totally normal to expect the audience to keep multiple distinct plots and motives in order. But *Chronicles* is not that kind of movie.
 
 We start with his motivation being to stay hidden, hence his self banishment on the ice planet. Then, he wants to punish the Imam for ratting  him out. Then he wants to escape the planet which is being invaded. Then he wants to get revenge for the Imams death. Then he wants to save Jack. And then he wants to become Emperor of the Universe. Not bad for an ex con.
 
@@ -426,15 +426,17 @@ This completely bewildering lack of direction is not helped by the supporting ch
 
 As I have previously stated, one of *Pitch Black*'s strongest suits is that the survivors are all interesting, or at the very least very likeable, right down to the would be  antagonist role of Johns.
 
-*Chronicles* is so completely void of such characters, it's almost impressive. Toombs, the   bounty hunter that would take the roll of Johns, misses the mark completely. 
+*Chronicles* is so completely void of such characters, it is almost impressive. Toombs, the   bounty hunter that would take the roll of Johns, misses the mark completely. 
 
-While Johns is cool and collected (although the morphine probably helps with that) altogether human character, Toombs is a giant cartoon character, who wouldn't be able to get a crew together if he payed them in solid gold bars.
+While Johns is cool and collected, (although the morphine probably helps with that) altogether human character. Despite it's science fiction setting, *Pitch Black* feels very real and believable, and Johns fits this to a tea. He is not loud or obnoxious. He is a serious man, who wants to do his job and get paid.
+
+By contrast Toombs is a giant cartoon character who wouldn't be able to get a crew together if he payed them in solid gold bars. He is an almost mustache twirling villain, no doubt the script must have said something along the lines of "Kid Catcher from Chitty Chitty Bang Bang", in the character notes.
 
 He is totally unhinged, has no empathy for anyone else in the film, and spouts such terrible one liners, it is a miracle that anyone can stand him for more than about twenty seconds.
 
-There is no way that his character would have lasted ten seconds in *Pitch Black*. He would have been so out of place in that movie, he would have burst straight through the fourth wall.
+Toombs would have been so out of place in *Pitch Black*, he would have burst straight through the fourth wall, so unlikely is his character.
 
-And this is one of the things that is so sad about the film. I almost cannot believe that these two films were written by the same author. Where was the subtlty, the quietness that made *Pitch Black* what it was. And why was it necessary to eschew that, to throw in the crazy bounty hunter trope?
+And this is just one small example of a problem that is endemic in the entire film. I almost cannot believe that these two films were written by the same author. Where was the subtlty, the quietness that made *Pitch Black* what it was. And why was it necessary to eschew that, to throw in the crazy bounty hunter trope?
 
 And this continues throughout all the facets of the films supporting cast. Not one character, besides the Imam, is anything less than an arrogant stereotype. The prison guards and prisoners in Crematoria, are so completely unlikable, not to mention entirely illogical. 
 
@@ -447,34 +449,145 @@ I don't want to spend too much time on the visual problems in *Chronicles*. The 
 
 But, it seems like every single time a director that a director who works wonders on a shoestring budget with practical effects and sets, get a big budget for a sequel, they spend it on terrible looking CG.
 
-And the CG isn't even the worst parts of the film. A lot of the actions scenes are terribly edited. The scene with Riddick against the Militia or against the Necromongers the city, is filmed in almost complete darkness, with just enough muzzle flash to make sure it is completely impossible to follow what is going on.
+And the CG isn't even the worst parts of the film. Many of the action scenes are terribly edited. The scene with Riddick against the Militia or against the Necromongers the city, is filmed in almost complete darkness, with just enough muzzle flash to make sure it is completely impossible to follow what is going on.
 
-There are more action scenes in the first twenty minutes of *Chronicles* than in the whole of *Pitch Black*, and they are terrible! So many directors seem to fall into this trap. Where before they would use their budget sparingly, focusing on executing just a few scenes well, once given sufficient budget, the daub great swaths of mediocre  scenes all over the place.
+There are more action scenes in the first twenty minutes of *Chronicles* than in the whole of *Pitch Black*, and they are terrible! So many directors seem to fall into this trap. Where before they would use their budget sparingly, focusing on executing just a few scenes well, once given sufficient budget, the daub great swaths of mediocrity all over the place.
 
-Of course, it does make you wonder whether the director was actually any good to begin with. Hollywood is filled with accidental success stories, of how low budgets and bad props made films exceed their expectations. *Jaws* is obviously one of the most famous, but *Catpeople* ??? is another famous example of props being so terrible, and the lack of budget preventing better ones, that director was forced to be creative, and focus on the negative space, generating suspense. 
+Of course, it does make you wonder whether the director was actually any good to begin with. Hollywood is filled with accidental success stories, of how low budgets and bad props made films exceed their expectations. *Jaws* is obviously one of the most famous, but *Cat People (1942)* is another famous example of props being so terrible, and the lack of budget preventing better ones, that director was forced to be creative, and focus on the negative space, generating suspense. 
 
 Had the director had their way, and nothing had gone wrong, would the films have been such a success? We will never know.
 
-But in light of *Chronicles*, one is forced to analyse whether perhaps *Pitch Black* was just a happy accident, whether all that great subtlety and suspense, was simply because the director did not have enough rope to hang himself. For me, whether the film succeeded or failed on purpose or by accident is largely irrelevant, and I won't dwell on it, but to me it seems clear that the Twohy fell, like so many other directors, for the budget trap, and that is sad.
+But in light of *Chronicles*, one is forced to analyse whether perhaps *Pitch Black* was just a happy accident, whether all that great subtlety and suspense, was simply because the director did not have enough rope to hang himself. For me, whether the film succeeded or failed on purpose or by accident is largely irrelevant, and I won't dwell on it, but to me it seems clear that the Twohy fell, like so many other directors, for the budget trap, and it is hard to blame him for it.
 
 Attack of the Body Snatchers
 ----------------------------
 
 But, above all this, above any editing or special effects, above the unlikable supporting cast or bewildering plot, their greatest mistake, was the destruction of Richard B. Riddick.
 
-Throughout the whole of *Pitch Black* Riddick is simply an ex-con trying to escape the planet with his life nothing more.
+Throughout the whole of *Pitch Black* Riddick is simply an ex-con trying to escape the planet with his life, nothing more.
 
-By the end of *Chronicles*, he is Space Jesus foretold of in the prophesy, and the leader of an army of religious zealots hell bent on the destruction of the universe.
+By the end of *Chronicles*, he is the prophesied Space Jesus, and the leader of an army of religious zealots hell bent on the destruction of the universe.
 
 But before we go there, let's start to with the basics.
 
 The character of Riddick in *Pitch Black* is a simple human. He is strong and resourceful, a good guy to have on your side in a tight spot. But he is human nonetheless. 
 
-As I have already pointed out before, both Johns and the crew are both a match for him when push comes to shove, and Riddick struggles to fight a mere two of the creatures, he is not Superman.
+As I have already pointed out before, both Johns and the crew are both roughly equal level in power when push comes to shove. When they catch him in the light they are able to overpower him in a one on one battle and Riddick struggles to fight a mere two of the creatures. He is not Superman.
 
-And yet, in a film that takes place less than ten years later, he has turned into a cross between Jason Bourne, Rambo and Conan
+And yet, in a film that takes place less than ten years later, he has turned into a cross between Jason Bourne, Rambo and Conan.
+
+The film starts on pretty solid ground, with Riddick's opening fight with the mercenaries on the ice planet, which remains firmly within the bounds of reality.
+
+Riddick is outnumbered and outgunned. So what does he do? He goes to familiar ground, where he has the advantage and the mercenaries make easy pickings. Once safely in his cave where their vision and movement is hampered, Riddick takes them out one by one, "ghosting" them off screen. Finally, once all the henchmen are taken care of, Riddick takes on Toombs mano-a-mano to find out the required information.
+
+This is actually a great scene. It is shot well, and the way that the camera is looking everywhere that Riddick is not, reminds the audience of how effective a stealth killer Riddick is.
+
+The Riddick we know *Pitch Black* would definitely have it in his power to take down these mercs, and the audience can't help but revel in it. We sit up in our seats waiting for more.
+
+But the problems start to occur when Riddick takes on the local militia on Helion Prime. Firstly, the militia's motivation is never fully explained. They just kind of show up, accuse Riddick of being a spy, and start shooting the place up. And once they are dispatched, nothing more comes of it.
+
+The only reason for this scene that I can think is that the writer thought that there had been too much exposition in the last five minutes (tell me about it) and that the audience must be getting bored.
+
+The fight scene is shockingly filmed and edited, but that isn't even really the problem. Riddick has never shown himself to be someone who would fearlessly take on twenty armed men, with no real fear of getting hurt.
+
+Sure, he starts by extinguishing the candles, once more reemphasising that he works best in the shadows, but I can't help but think that Riddick would have simply dived out of the window against such overwhelming odds.
+
+No one ever knows where a bullet is going to go, and while it is totally conceivable for other movie heroes to take on twenty men at once, it seems somewhat out of place.
+
+Sadly, this is a theme that would continue for the entire film. Riddick is suddenly fearless.
+
+??? - Fill in more here about the rest of the film
 
 
+
+
+
+
+
+But while Riddick's brawn is put into overdrive, his brains have clearly been lobotomised. In *Pitch Black* Riddick was always a thinker. He had a slow, pensive attitude to things, contemplating all the possible actions, weighing one against the other, before making his decisions. 
+
+Nothing ever felt rushed or sudden with Riddick. He didn't suddenly decide to do things on a whim, every action was calculated to the final detail.
+
+In *Chronicles*, this character is no where to be seen. Riddick's decisions seem to have not the least bit of thought put into them. As previously stated, his motivations seem to swing on a dime, and his actions with them.
+
+Riddick has previously been shown to not be especially prescient, not capable of seeing ten or even three moves ahead of everyone else. Yet, he performs actions that would have every single time resulted in his death, had he not been incredibly lucky. 
+
+When he went to get revenge for the Imams death, was he committing suicide? Surely he knew that he wouldn't just be allowed to kill a ranking member of the occupying force and be allowed to leave?
+
+He would definitely have been killed, and he would have known this. Perhaps he no longer cared, but this just doesn't fit with Riddick's main character attribute: Survival Instinct.
+
+Riddick would definitely not sacrifice his life to kill a soldier, who was, in a sense, simply doing his job. THere certainly are certain characters who it is believable would do so, the father in *Taken* for example, but Riddick absolutely would not.
+
+And not only because he has a remarkable penchant for self preservation, but he had just recently been told that Jack was incarcerated in Crematoria. Earlier he seemed, somewhat inexplicably, as though he blamed himself for her imprisonment, surely he would need to settle that score.
+
+Or what about the Imam's family, that he was just a few hours ago trying to save. Would he just abandon them to their fates, rather than taking them off planet like he promised the Abu he would?
+
+And while we never see the holy man's family again, when he is captured by the mercenaries again just a short time later, he tricks them into taking him to Crematoria. Was this part of his plan all along? Did he really feel bad about Jack, and want to save her? In that case, why would he put himself in a position where he would almost certainly be killed? He clearly could not have expected to survive his encounter with the necromancers, and he had no clear plan of getting to Crematoria either.
+
+The escape from the necromongers itself is laughable. The number of ridiculous mistakes that happen at every turn to allow him to escape is absolutely comical, not to mention incomplete. The film is quite happy for Riddick to be stuck in the inner sanctum of the film one minute, inexplicably outside in the very next scene, being chased by a massive cg spaceship to boot.
+
+As though things weren't implausible enough already, this warship is suddenly brought down by our bounty hunter friends, who with the aid of a small rocket launcher are able to take the spaceship down. Is there any point even complaining at this point? It genuinely feels as though no one even cares anymore, why should I?
+
+Nevertheless, at this point, despite taking down these bounty-hunters already, a militia, scores of necromongers, a necromonger lieutenant, more necromancer soldiers and escaping their incredibly secure castle, Riddick is suddenly captured by these bounty-hunters.
+
+Even trying to interpret Toombs' motivation at this point hurts my head. The Imam and the Elemental have clearly dropped the bounty of Riddick's head, so there is no reason for them to capture Riddick anymore.
+
+And the risk reward ratio can only have gotten worse, with Toombs increased knowledge of how dangerous Riddick is, and the fact that he is stuck on an occupied planet, and the bounty offered by Crematoria must be much lower, than before.
+
+Yet, Riddick seems to have no problem with any of this. He quite happily hands himself over to be captured, and tricks the mercenaries into being transported to Crematoria.
+
+Now we come to trying to decipher Riddick's completely bewildering actions. Did he know Toombs was coming for him? Did he know that Toombs wouldn't just shoot him on-site? Did he know that he would be able to get Toombs to take him to Crematoria? 
+
+Did he in fact even have breaking Jack out of Crematoria on his todo list at all before that very moment in time, because none of his previous actions seem to even hint towards this possibility. This seems to be yet another one of the complete one-eighty that the film pulls.
+
+And we come once again to the complete lack of focus that the film has. But, if it were just the film that had no focus, it would be almost forgivable. If it decided to randomly start to focus on random characters or get into obscure backstory, there would be only so much that I could complain about.
+
+But the fact is that Riddick himself is unfocused, and it feels like a complete betrayal of his character.
+
+Out of his depth
+----------------
+
+But why, what is the root cause of this problem?
+
+One of the things is that the story is just too big for Riddick to handle. Getting survivors to their escape ship, is within Riddicks power, and makes it an interesting story. To single handedly defeat an entire invading army that have left countless destroyed planets in their wake, seems a little out of his wheelhouse.
+
+As previously stated.
+
+`I am sure God has his tricks. But getting out of places that nobody else can, that's one of mine`.
+
+This is actually a great line. It reminds of their religious animosity towards each other, while cementing what Riddick's super power is: Survival instinct.
+
+And yet, Riddick is suddenly required to literally solve the entire universe's problems. Why could we not simply have had the story be that he needed to save Jack?
+
+In fact, the first ten to twenty minutes would remain almost entirely unchanged, apart from removing the prologue about the Necromongers.
+
+We could once again have Riddick being tracked by the Bounty Hunters, but when he arrives on Hellion Prime, Abu explains that Jack has finally got herself in more trouble than she can handle.
+
+After their escape, Abu had adopted her as a sort of surrogate daughter, a prodigal daughter at that. She was never able to accept his way of life, but there was something that they admired in each other, something that had always kept them together.
+
+But as Jack reached her adolescence, she started to rebel, the birth of the Imam's daughter not helping their relationship. At first the Imam treated it with light humour. But as she fell deeper and deeper into the criminal underworld, he started doing everything he could to return her to the straight path.
+
+Finally, one night he was forced to bail her out of jail. They had a falling out that night, and after an argument, she walked out of his life.
+
+But the Imam has just got the news that she finally bit off more than she can chew, and is now incarcerated in Crematoria. He has done everything that he can do, talked to every one of his friends in government, even tried to bribe some of them. His faith has truly been tested.
+
+But after everything has failed, he had no choice but to send for Riddick. And here we are, the start of a great Ocean's Eleven style caper. Break into Crematoria, find Jack, Break her out, with plenty of fights and explosions on the way.
+
+In fact, I suspect even I could write a screenplay based on this premise, that would be better than the one *Chronicles* had to offer.
+
+And it works so well. This is absolutely the kind of task that Riddick has it within his power to solve. Remaining undetected, working in dark dangerous corners of the universe, and escaping with his life, and bringing those less fortunate with him to safety.
+
+
+
+
+
+
+
+
+
+Indeed, he genuinely seems to think it up on the spot, that hey, these guys are going to give me a free trip somewhere, may as help Jack while I am out here.
+
+This seems like such an odd move for a character who has time and again shown that he is cautious and calculated, not hoping for deus-ex-machinas to save him from his danger. And yet here we seem to see him doing just this.
 
 
 
@@ -539,13 +652,7 @@ We are in this sub plot just long enough to forget about the silly Necromongers,
 
 
 
-The real problem with *Chronicles*, is that the story is just too big for Riddick to handle. Getting survivors to their escape ship, is within Riddicks power, and makes it an interesting story. To single handedly defeat an entire invading army that have left countless destroyed planets in their wake, seems a little out of his wheelhouse.
 
-As previously stated.
-
-`I am sure God has his tricks. But getting out of places that nobody else can, that's one of mine`.
-
-This is actually a great line. It reminds of their religious animosity towards each other, while cementing what Riddick's super power is: Survival instinct.
 
 But now, we are suddenly incredibly confused.
 
