@@ -648,6 +648,18 @@ We are in this sub plot just long enough to forget about the silly Necromongers,
 
 
 
+NOTES:
+
+CARA ???
+
+Good conversation in the prison…
+
+
+
+
+
+
+
 
 
 
@@ -693,7 +705,14 @@ This is so ridiculous, it is almost impossible to comprehend.
 
 
 
+Part 3: Survivor
+================
 
+Perhaps it is fitting that the franchise, like its protagonist, seems to have some kind of incredible survival instinct.
+
+After panning of *The Chronicles of Riddick* by critics, fans and general audiences alike, it seemed as though Riddick was headed to the graveyard of failed franchises. 
+
+It's baggage was unwieldy and direction unclear. And while this would have been fine had the film made money, the box office receipts were unimpressive, and it seemed as though Riddick would not be returning to the silver screen.
 
 
 Solution
