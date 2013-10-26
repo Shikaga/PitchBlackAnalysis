@@ -415,45 +415,47 @@ In *Aliens*, the plot is as simple as investigate the base, try and escape. Ever
 
 But the goals of Riddick, not to mention the rest of the cast, seem to change on a scene by scene basis. He may be flying full pelt in one direction before turning on the spot to head with equal urgency in the opposite. And yet when he finally arrives there, he is inexplicably back where he started.
 
-And in some movies, this is fine. If this were a political thriller, or a murder mystery, it would be totally normal to expect the audience to keep multiple distinct plots and motives in order. But *Chronicles* is not that kind of movie.
-
-We start with his motivation being to stay hidden, hence his self banishment on the ice planet. Then he wants to punish the Imam for ratting  him out. Then he wants to escape the planet which is being invaded. Then he wants to get revenge for the Imams death. Then he wants to save Jack. And then he wants to become Emperor of the Universe. Make up your mind already!
+<!--- ??? Riddick starts with his motivation being to stay hidden, hence his self banishment on the ice planet. Then he wants to punish the Imam for ratting  him out. Then he wants to escape the planet which is being invaded. Then he wants to get revenge for the Imams death. Then he wants to save Jack. And then he wants to become Emperor of the Universe. Make up your mind already!
 
 And none of these changes seem to really have any weight to them. They literally come out of nowhere, with no explanation. And the audience can't help but be confused, swept up in a torrent of bad dialog and special effects.
+
+And in some movies, this is fine. If this were a political thriller, or a murder mystery, it would be totally normal to expect the audience to keep multiple distinct plots and motives in order. But *Chronicles* is not this kind of movie. --->
 
 I'm surrounded by Assholes
 --------------------------
 
-This completely bewildering lack of direction is not helped by the supporting characters, every single one of whom, with the small exception of the Imam, is completely unlikable.
+This completely bewildering lack of focus is not helped by the supporting characters, every single one of whom, with the small exception of the Imam, are completely unlikable.
 
-As I have previously stated, one of *Pitch Black*'s strongest suits is that the survivors are all interesting, or at the very least very likeable, right down to the would be  antagonist role of Johns.
+As I have previously stated, one of *Pitch Black*'s strongest features is that the entire roster of characters are all interesting, or at the very least very likeable, right down to the would be  antagonist role of Johns.
 
-*Chronicles* is so completely void of such characters it is almost impressive. Toombs, the   bounty hunter that would take the roll of Johns, misses the mark completely. 
+*Chronicles* is so completely void of such characters that it is almost impressive. Nowhere is this more clear that with the character of Toombs, the   bounty hunter taking the roll of a would-be Johns.
 
-While Johns is cool and collected, altogether human character. Despite its science fiction setting, *Pitch Black* feels very real and believable, and Johns fits perfectly in this universe. He is not loud or obnoxious. He is a serious man, who just wants to do his job and get paid.
+But while Johns is cool and collected and an altogether human character, Toombs is quite the opposite. Despite its science fiction setting, *Pitch Black* feels real and believable, and Johns fits perfectly in this universe. He is not loud or obnoxious. He is a serious man, who just wants to do his job and get paid.
 
 By contrast Toombs is a giant cartoon character, an almost mustache twirling villain. No doubt the script must have said something along the lines of "Kid Catcher from Chitty Chitty Bang Bang", in the character notes.
 
 He is totally unhinged, has no empathy for anyone else in the film, and spouts such terrible one liners, it is a miracle that anyone can stand him for more than about twenty seconds.
 
-Toombs would have been so out of place in *Pitch Black*, he would have burst straight through the fourth wall, so over top is his character.
+Toombs would have been so out of place in *Pitch Black*, he would have burst straight through the fourth wall, so over top is his character, and yet somehow he fits into the world of *Chronicles*.
 
-And this is just one specific example of a problem that is endemic in the entire film. I almost cannot believe that these two films were written by the same author. Where was the subtlty, the quietness that made *Pitch Black* what it was?
+And this is because he is just one specific example of a problem that is endemic in the entire film. The characters throughout the film are so unlikable, I almost cannot believe that these two films were written by the same author. Where was the subtlty, the quietness that made *Pitch Black* what it was?
 
 And this continues throughout all the facets of the films supporting cast. Not one character, besides the Imam, is anything less than a horrible two dimensional stereotype. The prison guards and prisoners in Crematoria, are so completely unlikable, not to mention entirely illogical. 
 
-Not a single one of their actions makes sense. ???
+Indeed, it seems as though Abu is the only character to have escaped unscathed in this sequel, but I can't help but wonder if an early draft of the script had him as some kind of "action-preacher", fighting off bad guys side by side with Riddick, until the actor refused to do so, whether out of physical inability or a modicum of self respect.
 
 My eyes!
 --------
 
-I don't want to spend too much time on the visual problems in *Chronicles*. The fact is, they are relatively  minor in comparison to all the other things the movie had wrong.
+I don't want to spend too much time on the visual problems in *Chronicles*. In retrospect, they are largely irrelevant.
 
-But, it seems like every single time a director that a director who works wonders on a shoestring budget with practical effects and sets, get a big budget for a sequel, they spend it on terrible looking CG.
+But I would like to point out, that for the last twenty years, it seems like every single time that a director who works wonders on a shoestring budget with practical effects and sets, get a big budget for a sequel, they spend it on terrible looking CG.
 
-And the CG isn't even the worst parts of the film. Many of the action scenes are terribly edited. The scene with Riddick against the militia or against the Necromongers the city, is filmed in almost complete darkness, with just enough muzzle flash to make sure it is completely impossible to follow what is going on.
+And the CG isn't even the worst parts of the film. Many of the action scenes are terribly edited. The scene with Riddick against the militia or against the Necromongers the city, is filmed in almost complete darkness, with just enough muzzle flash to make sure it is completely impossible to follow what is going on. 
 
-There are more action scenes in the first twenty minutes of *Chronicles* than in the whole of *Pitch Black*, and they are terrible! So many directors seem to fall into this trap. Where before they would use their budget sparingly, focusing on executing just a few scenes well, once given sufficient budget, the daub great swaths of mediocrity all over the place.
+I am sure that the Director was trying to make some kind of homage to *Equilibrium*, but it doesn't work in *Chronicles* in every way that it does work in *Equilibrium*.
+
+There are more action scenes in the first twenty minutes of *Chronicles* than in the whole of *Pitch Black*, and they are terrible! Where before the director used his budget sparingly, focusing on executing just a few scenes well, once given sufficient budget, he daubed great swaths of mediocrity all over the place.
 
 Of course, it does make you wonder whether the director was actually any good to begin with. Hollywood is filled with accidental success stories, of how low budgets and bad props made films exceed their expectations. *Jaws* is obviously one of the most famous, but *Cat People (1942)* is another famous example of props being so terrible, and the lack of budget preventing better ones, that director was forced to be creative, and focus on the negative space, generating suspense. 
 
@@ -464,7 +466,7 @@ But in light of *Chronicles*, one is forced to analyse whether perhaps *Pitch Bl
 Attack of the Body Snatchers
 ----------------------------
 
-But, above all this, above any editing or special effects, above the unlikable supporting cast or bewildering plot, their greatest mistake, was the destruction of Richard B. Riddick.
+But, above all this, above any editing or special effects, above the unlikable supporting cast or bewildering plot, the one unforgivable downfall, was the destruction of the character of Richard B. Riddick.
 
 Throughout the whole of *Pitch Black* Riddick is simply an ex-con trying to escape the planet with his life, nothing more.
 
@@ -474,7 +476,7 @@ But before we go there, let's start to with the basics.
 
 The character of Riddick in *Pitch Black* is a simple human. He is strong and resourceful, a good guy to have on your side in a tight spot. But he is human nonetheless. 
 
-As I have already pointed out before, both Johns and the crew are both roughly equal level in athletic power when push comes to shove. While he is rightly respected for his prowess in the darkness, when they catch him in the light they are able to overpower him in a one on one battle. He is not Superman.
+As I have already pointed out before, both Johns and the crew are both roughly equal to Riddick, in terms of athletic power when push comes to shove. While he is rightly respected for his prowess in the darkness, when the crew catch him in the daylight they are able to overpower him in a one on one battle. He is not Superman.
 
 And yet, in a film that takes place less than ten years later, he has somehow turned into a cross between Jason Bourne, Rambo and Conan.
 
@@ -486,23 +488,25 @@ This is actually a great scene. It is shot well, and the way that the camera is 
 
 Here we see the Riddick that know and love from *Pitch Black*. He is smart and calculating, using his quarries arrogance against them, before taking them down with a glee that the audience can't help but revel in it. We sit up in our seats waiting for more.
 
-But the problems start to occur when Riddick takes on the local militia on Helion Prime. Firstly, the militia's motivation is never fully explained. They just kind of show up, accuse Riddick of being a spy, and start shooting the place up. And once they are dispatched, nothing more comes of it.
+But the problems soon start when Riddick takes on the local militia on Helion Prime. Firstly, the militia's motivation is never fully explained. They just kind of show up, accuse Riddick of being a spy, and start shooting the place up. And once they are dispatched, nothing more comes of it.
 
 The only reason for this scene that I can think is that the writer thought that there had been too much exposition in the last five minutes (tell me about it) and that the audience must be getting bored.
 
-As I have already mentioned, the fight scene is shockingly filmed and edited, but that isn't even really the problem. The character or Riddick himself is also shockingly distorted. The Riddick from *Pitch Black* has never shown himself to be someone who would fearlessly take on twenty armed men, with no real fear of getting hurt.
+??? - Image of Judi Dench talking, sub: Wow, I have been talking a lot, when is the next action scene?
+
+As I have already mentioned, the fight scene is shockingly filmed and edited, but that isn't even really the problem. The character of Riddick himself is also shockingly distorted. The Riddick from *Pitch Black* has never shown himself to be someone who would take on twenty armed men, with no real fear of getting hurt.
 
 Sure, he starts by extinguishing the candles, once more reemphasising that he works best in the shadows, but I can't help but think that Riddick would have simply dived out of the window against such overwhelming odds.
 
 No one ever knows where a bullet is going to go, and while it is totally conceivable for other movie heroes to take on twenty men at once, it seems somewhat out of place for Riddick.
 
-Sadly, this is a theme that would continue for the entire film. Riddick is suddenly fearless.
+Sadly, this is a theme that would continue for the entire film. Riddick is suddenly entirely fearless.
 
 Riddick continues to take on legion upon legion of bad guys, from scores of Necromongers to the convicts of Crematoria. There are is even a boss fight at the end, which in all fairness, is a near universal trope of the genre, but feels so awkward by its conspicuous absence in *Pitch Black*.
 
 In every one of these fights, Riddick never seems to show the slightest bit of fear, or restraint. He charges in, all guns boazing, assured of success, because, hey, its the middle of the movie, he can't die yet right?
 
-And this is such a shame. *Pitch Black* set up such a unique hero, who has to make use of his brains to make up for his lack of brawn, and they carelessly discard this in favour of more "cooler" action scenes.
+And this is such a shame. *Pitch Black* set up such a unique hero, who has to make use of his brains to make up for his lack of brawn, and they carelessly discard this in favour of bigger action scenes.
 
 And while Riddick's brawn had been clearly put into overdrive, his brains have likewise been lobotomised. In *Pitch Black* Riddick was always a thinker. He had a slow, pensive attitude to things, contemplating all the possible actions, weighing one against the other, before making his decisions. 
 
@@ -510,7 +514,7 @@ Nothing ever felt rushed or sudden with Riddick. He didn't suddenly decide to do
 
 In *Chronicles*, this character is no where to be seen. Riddick's decisions seem to have not the least bit of thought put into them. As previously stated, his motivations seem to swing on a dime, and his actions with them.
 
-Riddick has previously been shown to not be especially prescient, not capable of seeing ten or even three moves ahead of everyone else. Yet, he performs actions that would have every single time resulted in his death, had he not been incredibly lucky. 
+Riddick has previously been shown to not be especially prescient, not capable of seeing ten or even three moves ahead of everyone else. Yet, he is suddenly performing actions that would have every single time resulted in his death, had he not been incredibly lucky. 
 
 When he went to get revenge for the Imams death, was he committing suicide? Surely he knew that he wouldn't just be allowed to kill a ranking member of the occupying force and be allowed to leave?
 
@@ -522,17 +526,17 @@ And not only because he has a remarkable penchant for self preservation, but he 
 
 Or what about the Imam's family, that he was just a few hours ago trying to save. Would he just abandon them to their fates, rather than taking them off planet like he promised the Abu he would?
 
-And while we never see the holy man's family again, when he is captured by the mercenaries again just a short time later, he tricks them into taking him to Crematoria. Was this part of his plan all along? Did he really feel bad about Jack, and want to save her? In that case, why had he just put himself in a position where he would almost certainly be killed? He clearly could not have expected to survive his encounter with the necromancers, and he had no clear plan of getting to Crematoria either.
+And while we never see the holy man's family again, when he is captured by the mercenaries again just a short time later, he tricks them into taking him to Crematoria. Was this part of his plan all along? Did he really feel bad about Jack, and want to save her? In that case, why had he just put himself in a position where he would almost certainly be killed? He clearly could not have expected to survive his encounter with the Necromongers, and he had no clear plan of getting to Crematoria either.
 
-The escape from the necromongers itself is laughable. The number of ridiculous mistakes that happen at every turn to allow him to escape is comical, not to mention incomplete. The film is quite happy for Riddick to be stuck in the inner sanctum of their space castle one minute, inexplicably outside in the very next scene, being chased by a massive cg spaceship to boot.
+The escape from the Necromongers itself is laughable. The number of ridiculous mistakes that happen at every turn to allow him to escape is comical, not to mention incomplete. The film is quite happy for Riddick to be stuck in the inner sanctum of their space castle one minute, inexplicably outside in the very next scene, being chased by a massive cg spaceship to boot.
 
 As though things weren't implausible enough already, this warship is suddenly brought down by our bounty hunter friends, who with the aid of a small rocket launcher are able to take the spaceship down. Is there any point even complaining at this point? It genuinely feels as though no one even cares anymore; why should I?
 
-Nevertheless, at this point, despite taking down these bounty-hunters already, a militia, scores of necromongers, a necromonger lieutenant, more necromancer soldiers and escaping their incredibly secure castle, Riddick is suddenly captured by these bounty-hunters.
+Nevertheless, at this point, despite taking down these bounty-hunters already, a militia, scores of Necromongers, a Necromonger lieutenant, more necromancer soldiers and escaping their melodramatically protected castle, Riddick is suddenly captured by these bounty-hunters.
 
 Even trying to interpret Toombs' motivation at this point hurts my head. The Imam and the Elemental have clearly dropped the bounty of Riddick's head, so there is no reason for them to capture Riddick anymore.
 
-And the risk reward ratio can only have gotten worse, with Toombs increased knowledge of how dangerous Riddick is, and the fact that he is stuck on an occupied planet, and the bounty offered by Crematoria must be much lower, than before.
+And the risk reward ratio can only have gotten worse, with Toombs increased knowledge of how dangerous Riddick is, and the fact that he is stuck on an occupied planet, and the bounty offered by Crematoria must be much lower than before.
 
 Yet, Riddick seems to have no problem with any of this. He quite happily hands himself over to be captured, and tricks the mercenaries into being transported to Crematoria.
 
