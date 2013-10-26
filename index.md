@@ -551,11 +551,11 @@ But the fact is that Riddick himself is unfocused, and it feels like a complete 
 Out of his depth
 ----------------
 
-But why, what is the root cause of this problem?
+But the supercharging of Riddick's character isn't completely illogical. The fact is, it needed to occur for him to be able to fit into the universe that *Chronicles* has suddenly created.
 
-One of the things is that the story is just too big for Riddick to handle. Getting survivors to their escape ship, is within Riddicks power, and makes it an interesting story. To single handedly defeat an entire invading army that have left countless destroyed planets in their wake, seems a little out of his wheelhouse.
+The story is suddenly just too big for Riddick to handle. Getting survivors to their escape ship is within Riddicks power, and makes for an interesting story. To single handedly defeat an entire invading army that have left countless destroyed planets in their wake, seems a little out of his wheelhouse.
 
-As previously stated.
+When Riddick landed on Helion Prime, he reminds the Imam, and the audience, what his speciality is:
 
 `I am sure God has his tricks. But getting out of places that nobody else can, that's one of mine`.
 
@@ -569,7 +569,7 @@ We could once again have Riddick being tracked by the Bounty Hunters, but when h
 
 After their escape, Abu had adopted her as a sort of surrogate daughter, a prodigal daughter at that. She was never able to accept his way of life, but there was something that they admired in each other, something that had always kept them together.
 
-But as Jack reached her adolescence, she started to rebel, the birth of the Imam's daughter not helping their relationship. At first the Imam treated it with light humour. But as she fell deeper and deeper into the criminal underworld, he started doing everything he could to return her to the straight path.
+But as Jack reached her adolescence, she started to rebel, the birth of the Imam's daughter not helping their relationship. At first the Imam treated it with light humour. But as she fell deeper and deeper into the criminal underworld, he started doing everything he could to return her to the straight and narrow path.
 
 Finally, one night he was forced to bail her out of jail. They had a falling out that night, and after an argument, she walked out of his life.
 
@@ -579,12 +579,14 @@ But after everything has failed, he had no choice but to send for Riddick. And h
 
 In fact, I suspect even I could write a screenplay based on this premise, that would be better than the one *Chronicles* had to offer.
 
-And it works so well. This is absolutely the kind of task that Riddick has it within his power to solve. Remaining undetected, working in dark dangerous corners of the universe, and escaping with his life, and bringing those less fortunate with him to safety.
+This is absolutely the kind of task that Riddick has it within his power to solve. Remaining undetected, working in dark dangerous corners of the universe, and escaping with his life, and bringing those less fortunate with him to safety.
+
+And it could have so easily come to pass. The fact is, once you remove the Necromonger subplot, the rest of the film isn't too bad. An edit of *Chonciles* that was an hour and a half long, in which only the bounty hunter and crematoria scenes were left, would have been perfectly reasonable.
 
 The Curate's Egg
 ----------------
 
-Of course, while the film is indeed a disaster, there are undoubtedly some good parts, however fleeting they may be.
+ANd on that note, while the film is indeed a disaster, there are undoubtedly some good parts, however fleeting they may be.
 
 The one small emotional glimmer in the film, is the precious few scenes that Riddick and Jack, now called Kyra, spend together.
 
@@ -594,13 +596,15 @@ And in the same way as Carolyn Fry previously, Kyra sacrifices her life to save 
 
 It seems really unecessary to have changed her name in the film, if there attempt was truly to drive this home; we get it, it doesn't pay to be Riddick's friend.
 
-But there are other scenes in which we can almost glimpse something a little deeper within them. Their scene in Crematoria in which Riddick confronts Jack about her decision to sign up with mercenaries, actually feels deep.
+But there are other scenes in which we can almost glimpse something a little deeper within them. Their scene in Crematoria in which Riddick confronts Jack about her decision to sign up with mercenaries, actually feels like a small pocket of depth under an otherwise shallow surface.
 
 The abandonment that Jack feels, almost seems to resonate with Riddick. He obviously explains that he was doing it for own good, but then again, don't negligent fathers always?
 
 Of course, having seen him living on a ice planet at the beginning of the film, we can only assume that he was doing this for her own good, but you can genuinely understand Kyra's frustration with Riddick.
 
-In fact, large amounts of the Crematoria scenes are good. The shootout is well shot, and the generally what is going on is quite interesting. Even the somewhat mediocre chase scene, in which *Pitch Black*'s premise is flipped on it's head, and they are required to stay *out* of the light on their way to ship, is relatively interesting.
+It is such a shame that this isn't the entire core of the film. The very scenes that the two of them share together fleet with almost being good, heady heights compared to their surrounding.
+
+Although, in actual fact, large amounts of the Crematoria scenes are good. The shootout is well shot, and the generally what is going on is quite interesting. Even the somewhat mediocre chase scene, in which *Pitch Black*'s premise is flipped on it's head, and they are required to stay *out* of the light on their way to ship, is relatively interesting.
 
 It is not until the Necromongers show up, and Riddick suddenly gets a deus-ex-machina in the form of a magical power-up that we suddenly reminded of the ridiculousness of the plot.
 
@@ -617,34 +621,10 @@ Where does he go from here?
 
 
 
-Indeed, he genuinely seems to think it up on the spot, that hey, these guys are going to give me a free trip somewhere, may as help Jack while I am out here.
-
-This seems like such an odd move for a character who has time and again shown that he is cautious and calculated, not hoping for deus-ex-machinas to save him from his danger. And yet here we seem to see him doing just this.
 
 
 
 
-
-I have already discussed in depth, all the things that make Riddick so much more than a typical action hero in *Pitch Black*.
-
-
-
-
-
-
-
-
-
-
-Clearly, believing that these movies need to start out with narration, Judi Dench (???), introduces us to the antagonists of *Chronicles*, the Necromongers, a kind of mega space cult, similar to the Borg, travelling around and assimilating all those in their path into their death religion.
-
-After this melodramatic opening scene, things get interesting, with the movie cutting to Riddick taking down a group of mercenaries on a remote ice planet.
-
-Gone is the weak character that previously chose to rather flee than fight, Riddick dispatches these mercenaries with a cheerful glee, and to the audiences joy. I actually really like this opening scene. It is fast paced and exciting, and a great way to reintroduce us to our hero.
-
-But it also eerily foreshadows the one of the biggest problems to come, Riddicks omnipotence.
-
-Riddick quickly finds out that it was the Imam who sent the mercenaries after him? Why? Judi Dench, quickly shows up to inform audience, that Riddick is the final survival of Furya (A planet of Furious people one presumes), and that there was a prophecy that only a Furian can stop the evil Necromongers.
 
 There is a nice little line that Riddick uses here, where he talks about who there is no such thing as a friend, and that he should never have trusted the Imam. 
 
@@ -656,11 +636,9 @@ This is one of the weirdest decisions I think in movie making history. To go fro
 
 In addition, our previously simple character, who already had plenty of interesting backstory, (who did he kill and why, how do his eyes really work, what was that "shine job" all about?), and convert him into an alien and Space Jesus simultaneously. 
 
-But, that might almost have been an acceptable compromise to make, if it had remained focused. There are plenty of interesting things that they could have done with this plot.
 
-But the film instead, quickly decides to go to the other strong thing from the original movie, which is the character of Jack. 
 
-Jack has fallen on hard times, and has found herself incarcerated in a max security prison, Crematoria. Upon finding out, Riddick immediately drops everything, and heads out to save her.
+
 
 This is such a weird thing for Riddick's character to do. He never showed more than a passing affection for Jack, a loose friendship, but nothing like the connection he had with Fry.
 
@@ -674,19 +652,6 @@ Surely, just about anything is easier than getting convicted of a crime, sneakin
 
 Yet this is what the movie wants us to believe that this character has done. I mean, how can Riddick not admonish her for being incredibly stupid?
 
-We are in this sub plot just long enough to forget about the silly Necromongers, but sadly they return in a 
-
-
-
-
-
-
-
-NOTES:
-
-CARA ???
-
-Good conversation in the prison…
 
 
 
@@ -698,21 +663,8 @@ Good conversation in the prison…
 
 
 
-But now, we are suddenly incredibly confused.
-
-We have gone from Judi Dench telling him that he is the key to the universes survival, to him fighting the local militia (for completely unclear reasons), to an invasion of Necromongers, and him trying to help the Imam and his family escape, in a matter of five minutes.
-
-The audience is suddenly left with a sudden lack of target. What precisely is Riddick trying to accomplish? And why is it his motivation changing every 5 minutes?
 
 At first, he was hiding on a ice planet, for a reason that is never fully explained other that to say "??? You should all stay away from me", to him travelling to the Imam to kill him for betraying him, to trying to escape the invasion, to trying to extract revenge for the Imams death, to trying to save Jack, to trying to assassinate the Lord Marhsall of the Necromancers to take their place.
-
-You cannot blame anyone for feeling nauseous after all these head spinning plot turns that the film is taking.
-
-Quasi-deads?
-
-Suddenly, our bounty hunter friends are back, and despite there being a war on, and the planet being overrun by the most powerful army the universe has ever seen, they seem to have no problem with killing hundreds perhaps thousands of enemy soldiers in an attempt to capture Riddick.
-
-This is so ridiculous, it is almost impossible to comprehend. 
 
 
 
