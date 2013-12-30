@@ -8,19 +8,32 @@ Survival Instinct: Why the Riddick franchise doesn't understand itself
 Introduction
 ============
 
-*Pitch Black* is science-fiction horror film starring Vin Diesel. It has all the elements of a classic survival horror flick: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. But above all this, one element stands out in the film: the character of Richard B. Riddick.
+To a casual observer, *Pitch Black (2000)* seems to be the epitome of generic filmmaking. A science-fiction horror flick starring Vin Diesel, it has all the elements one expects: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. 
 
-But, while *Pitch Black* may have all the trappings of generic horror movie, it goes far beyond that, breaking the bounds of mediocrity and becoming, in my opinion at least, a near perfect film. 
+Not that there is anything necessarily wrong with that. Not every film can reinvent the genre from the ground up. But the very least one can expect is for a film to bring something new to the table. 
 
-And with a successful horror movie with a strong group of core fans, a sequel cannot be far behind. After all, there are a lot of similarities between *Pitch Black* and Ridley Scott's horror masterpiece, *Alien*. And James Cameron's sequel to *Alien*, *Aliens*, is an action movie triumph. Take your main character, throw them back into the fray in a larger story with more aliens and bigger explosions, complete with nukes from orbit, and you have motion picture gold. Surely the same will work for *Pitch Black*?
+For most horror films, this will take the form of more visceral kills, or perhaps cutting edge special effects, or perhaps, a unique visual style.
 
-Sadly, this was not to be the destiny of the Riddick franchise. The ill conceived *Chronicles of Riddick*, failed so completely that it looked like it would tank the entire franchise. From the plot to the dialog, the editing and the special effects, not to mention the characters and villains, it is quite hard to say anything good about the film. There are perhaps a few good individual scenes, but I sure can't think of any right now.
+But, while *Pit Black* is most certainly competently made, it has none of these things. But none of that matters, because of what it does have, the one thing that makes it stand out from all its contemporaries: the character of Richard B. Riddick.
 
-Apparently the producers felt the same way, and it seemed like the Riddick franchise was dead in the water for the better part of a decade, at least as far the silver screen was concerned (it supposedly had a favourable run of attached video games, a rare occurance in a world of low budget video game cash ins). 
 
-But Vin Diesel was not so easily deterred. Becoming an action movie star in the time since *Pitch Black*, thanks in large part to *The Fast and the Furious* sequels now going into their seventh incarnation, Vin Diesel sunk his own money into producing another sequel.
 
-In the third film (fourth if you count the *The Chronicles of Riddick: Dark Fury*, an animated direct to DVD sequel set between the events of *Pitch Black* and *Chronicles*), simply called *Riddick*, Vin Diesel reprises his role in what is by and large a remake of first film. Gone is the convoluted world building and supernatural plot lines. The back to basics Riddick vs the Elements film tries to exploit what made *Pitch Black* so good, and while it doesn't quite stick the landing, it was a good effort. 
+
+
+*Pitch Black* turned out to be what the studios like to call a "sleeper hit", a film that doesn't break any box office records, but gains a sort of cult following and brings in a steady amount of money over its theatrical run and generally does very well on DVD.
+
+
+And with a successful horror movie with a strong group of core fans, a sequel cannot be far behind. After all, there are plenty of similarities between *Pitch Black* and Ridley Scott's horror masterpiece, *Alien (1979)*.
+
+James Cameron's sequel to *Alien*, *Aliens (1986)*, is an action movie triumph. Take your main character, throw them back into the fray in a larger story with more aliens and bigger explosions, complete with nukes from orbit, and you have motion picture gold. Surely the same will work for *Pitch Black*?
+
+Sadly, this was not to be the destiny of the Riddick franchise. The ill conceived *The Chronicles of Riddick (2004)*, failed so completely that it looked like it would tank the entire franchise. From the plot to the dialog, the editing and the special effects, not to mention the characters and villains, it is quite hard to say anything good about the film. 
+
+Apparently the producers felt the same way, and it seemed like the Riddick franchise was dead in the water for the better part of a decade, at least as far the silver screen was concerned, although it supposedly had a favourable run of attached video games, a rare occurance in a world of low budget video game cash ins. 
+
+But Vin Diesel was not so easily deterred. Becoming an action movie star in the time since *Pitch Black*, thanks in large part to *The Fast and the Furious (2001)* sequels now going into their seventh incarnation, Vin Diesel sunk his own money into producing another sequel.
+
+In the third film, simply called *Riddick (2013)*, Vin Diesel reprises his role in what is by and large a remake of first film. Gone is the convoluted world building and supernatural plot lines. *Riddick* tries to exploit what made *Pitch Black* so good by setting Riddick against the Elements once again, and while it doesn't quite stick the landing, it was a good effort. 
 
 But why? What is it that makes *Pitch Black* so good, *Chronicles* so bad and *Riddick* mediocre at best?
 
@@ -35,7 +48,9 @@ Richard B. Riddick
 
 To truly understand the Riddick franchise, we need understand its narrative core, namely, Richard B. Riddick
 
-In the first twenty four words of the film, *Pitch Black* tells you more about its protagonist than most films do in their entire three acts. These lines hook the audiences attention immediately. Who is this character that is somehow unaffected by Cryosleep, who refers to himself as a wholly "primitive animal"?
+In the first twenty four words of the film, *Pitch Black* tells you more about its protagonist than most films do in their entire three acts. These lines hook the audiences attention immediately. 
+
+Who is this character that is somehow unaffected by Cryosleep, who refers to himself as a wholly "primitive animal"?
 
 A confessed murder, Riddick is a total badass. Muscled, bald, supremely competent and arrogant, he is the very definition of an action movie hero.
 
@@ -43,16 +58,16 @@ The alpha male sensibilities that Riddick exudes provide a great deal of wish fu
 
 Most traditional protagonists will move heaven and earth, usually by some deus ex machina, to protect those in their care (usually a female love interest). A typical example of this "white knight cliche" would be an antagonist capturing the love interest, at which point the hero will drop their weapons, and allow themselves to get captured to save them. Shortly after they will escape again and save the day. We have all seen it a million times.
 
-Riddick is not one of these protagonists. He does what he can to save the other crew members, but he is pragmatic, never expecting a deus ex machina to help him save everyone in the face of impossible odds. This realism combined with his bleak outlook on life, and of course standard action movie trappings of witty one liners and a never say die attitude, makes him interesting.
+Riddick is not one of these protagonists. He does what he can to save the other crew members, but he is pragmatic, never expecting to chance to help him save everyone in the face of impossible odds. This realism combined with his bleak outlook on life makes him a somewhat unique character in roster of hollywood heroes.
 
-And so we, like Jack in the movie, fall into a sort of hero worship of Riddick. And yet this hero worship is the very downfall of Riddick franchise, for the writers of the *Chronicles of Riddick* likewise fell in love with their character. And not unlike the internet's Chuck Norris Facts, his actions became grander with every retelling. 
+And so it was that we, like Jack, fell into hero worship of Riddick. And yet it was our hero worship was to be the very downfall of Riddick franchise, for the film makers themselves likewise fell in love with their character. And not unlike the internet's Chuck Norris Facts, his actions became grander with every retelling. 
 
-But before we start to talk about *Chronicles*, let us have a analyse the character of Riddick in *Pitch Black*.
+But first, let us look at what sets Riddick apart.
 
 Alpha Male
 ----------
 
-At the start of *Pitch Black*, Riddick is presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to “skullfuck you in your sleep”, in Johns most eloquent words.
+*Pitch Black* starts with Riddick being presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to “skullfuck you in your sleep”, in Johns most eloquent words.
 
 In the wake of the crash, while the crew search for water, Riddick stalks in the shadows. While he never "ghosts" any of the crew members, the way he behaves implies that he is invulnerable, as though there is nothing that these mere mortals can do to harm him. 
 
@@ -60,13 +75,13 @@ He sneaks up behind Fry and secretly steals some of her hair and then later happ
 
 However, a short time later, the passengers find Riddick standing over the missing body of one of their murdered acquaintances. Presuming that Riddick has started his killing spree, they tackle him to the ground and after a brief skirmish, capture him.
 
-So it is at this moment in the film, twenty seven minutes into the film, that Riddick utters his first line of on screen dialogue. And with his first words, his character changes completely.
+So it is at this moment in the film, twenty seven minutes in, that Riddick utters his first line of on screen dialogue. And with his first words, his character changes completely.
 
 I mentioned earlier that there are many similarities between *Pitch Black* and *Alien*. And indeed, there are. And if we are going to play with this analogy, then in this opening act, Riddick very much takes the role of the Xenomorph. 
 
 Unquestionably dangerous, hiding in the shadows, attacking the crew members one by one while they hide in fear, Riddick is unquestioningly the Xenomorph of this first act. 
 
-Yet at this point, the film suddenly turns into a more traditional survival movie. Riddick's role as "Big Bad", is suddenly taken out from under him, with the flock alien creatures that inhabit this planet becoming the crew's main threat.
+Yet at the moment of his first line of dialog, the film suddenly turns into a more traditional survival movie. Riddick's role as "Big Bad", is suddenly pulled out from under him, with the flock alien creatures that inhabit this planet becoming the crew's main threat.
 
 And with the antagonist role taken, Riddick turns from the Jason or Freddy style killer to a sort of morally bankrupt guardian angel.
 
@@ -780,6 +795,8 @@ finally, it would mean that the actor wouldn't look way to young to be Johns fat
 
 
 CUT CONTENT BELOW
+
+??? - Talk about Riddick, love interests and Woman?
 
 
 
