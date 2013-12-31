@@ -115,27 +115,25 @@ And it is because he performs acts that are unconscionable for a protagonist, th
 Hypocrite
 ---------
 
-However, there are times when, behind all the bravado and big words, the hypocritical side of Riddick can be seen.
+However, there are times when, behind all the bravado and big words, the hypocritical side of Riddick comes to the fore.
 
-For example, when Johns decides to sacrifice Jack to get the rest of the group to the ship, Riddick dispatches him. 
+When Johns decides to sacrifice Jack to get the rest of the group to the ship, Riddick dispatches him. 
 
-It is odd that Riddick so vehemently disagrees with Johns on this point. In a sense, as Johns explains, he *is* performing triage, letting one die so that the rest might live.
+But it is literally only a few minutes later that Riddick abandons them all to their fates and heads to safety. 
 
-Yet shortly after this moral grandstanding, Riddick abandons all the survivors to escape by himself. Johns had told Riddick there was no way they could all get through, that they must sacrifice one of their number, and Riddick had clearly taken this as a unacceptable compromise.
+And yet, it is odd that Riddick so vehemently disagreed with Johns on this point. In a sense, as Johns explains, he *is* performing triage, letting one die so that the rest might live. Johns is making a tough choice, putting the good of the group ahead of the individual, had told Riddick there was no way they could all get through, that they must sacrifice one of their number, and Riddick had clearly taken this as a unacceptable compromise.
 
-But it is literally only a few minutes later that Riddick abandons them all to their fates and heads to safety. Perhaps he sees a difference between his decision and Johns.
+Yet shortly after his moral grandstanding, Riddick abandons all the survivors to escape by himself. Perhaps Riddick sees a difference between his decision and Johns.
 
 One could conceive that their deaths were inevitable due to their own weakness, and that wasn't his problem, whereas Johns wanted him to kill an innocent girl to save his own life.
 
 The question about the moral differences between causing a death by action and causing a death by inaction is one for a philosophy class, and I will not go into it here. Let's just say there are many viewpoints.
 
-But as far as film logic goes, Riddick abandoning the survivors to their fate and Johns suggesting that they use one of the survivors for bait to save the others are equally reprehensible. 
+But as far as film narrative goes, Riddick abandoning the survivors to their fate and Johns suggesting that they use one of the survivors for bait to save the others are equally reprehensible. So why is it that both the film and the audience forgives him for this? 
 
-And so this just ends up making Riddick seem like a hypocrite. So why is it that the audience forgives him for this? 
+That is a difficult question to answer. And in reality, I think it largely due to the fact that we get distracted by the fact that the film switches to the character of Fry at this point in the film. The audience is too busy dealing with her story to truly analyse Riddick's behaviour in the context of his previous actions.
 
-That is a difficult question to answer. And in reality, I think it largely due to the fact that we get distracted by the fact that the film switches to the character of Fry at that point in the film. The audience is too busy dealing with her story to truly analyse Riddick's behaviour in the context of his previous actions.
-
-But even when analysing Riddick's actions objectively, it is difficult for us to criticise them. The fact is, we never quite lose the viewpoint of him being a villain. 
+But even when analysing Riddick's actions objectively, it is difficult for us to criticise them. The fact is, because the fact is, we never quite lose the viewpoint of him being a villain. 
 
 With all the things that he has done throughout the film, we never forget, that at the centre of everything, Riddick is a survivor. He has his own, perhaps selfish, code, that states that he will do whatever it takes to survive.
 
