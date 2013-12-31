@@ -144,13 +144,13 @@ There is one thing that we can't stand, and that is betrayal. By being upfront a
 The slipping mask
 -----------------
 
-So, Riddick is a villain, a ruthless killer, who cares only about his own survival. A stone cold badass, who leaves everyone in no doubt of his own selfishness.
+So, while Riddick may not be a villain, he is a ruthless killer, who cares only about his own survival. A stone cold badass, who leaves everyone in no doubt of his own selfishness.
 
 Not quite. While a cursory glance of Riddick's character in may lead you to this conclusion, things are a lot more complicated than that.
 
-For one thing, while Riddick tries at all times to play the part of a merciless convict, he isn't, at least not in *Pitch Black*. 
+While Riddick tries at all times to play the part of a merciless convict, he isn't, at least not in *Pitch Black*. 
 
-Throughout the film this mask slips, showing the weak, self doubting character beneath. While he tries not to let other see him in these moments of weaknesses, he doesn't always succeed, and the audience can tell.
+Throughout the film his mask slips, showing the weak, self doubting character beneath. While he tries not to let other see him in these moments of weaknesses, he doesn't always succeed, and the audience becomes aware of the duality of his character.
  
 He is prone to fits of anger. When Johns frees Riddick, he tells Riddick to `"remember this moment. The way it could have gone and didn't"`. Riddick is visibly annoyed, and lashes out. He snatches Johns' rifle from his hand, `"Fuck you!"`, he says threatening Johns, `"I want you to remember this moment"`.
 
@@ -158,15 +158,15 @@ Riddick should have kept his cool, graciously accepted Johns' phony treaty and w
 
 He is clearly a troubled individual. He talks about his disdain for God, the long time he spent in prison and the fact that his mother supposedly abandoned him at birth, all pointing to a character who feels betrayed by life.
 
-He harbours an emotional separation from the other characters, not empathising with them the way a normal protagonist would. 
+He harbours an emotional separation from the other characters, not empathising with them the way any normal protagonist would. 
 
-Riddick shows variable loyalty the rest of the crew. He clearly fancies himself as a unapologetic badass, and tries to portray himself as such before the other characters. He delight's in their naiveté, and laughs at their collective misfortune.
+Riddick shows variable loyalty the rest of the crew. He clearly fancies himself as a unapologetic criminal, and tries to portray himself as such in front of the other characters. He delight's in their naiveté, and laughs at their collective misfortune.
 
 His ire fall's most heavily on Abu, The Holy Man, with whom he has complicated relationship. Riddick sees his belief as a weakness. `"So where the hell's your God now?"`, he asks mockingly as the sudden rainfall starts to extinguish their last remaining torches.
 
 But Riddick is not a sadist, nor without reason. He does try to get the entire crew to safety. He defends Jack against Johns, when Johns tries to betray her, and he continues to shepherd them to safety.
 
-The scene in which Fry arrives at the ship just in time to prevent Riddick from leaving without them is the emotional climax of the film. It is where, we finally see not only what Riddick is made of, buy also Fry, who I will talk about more later.
+The scene in which Fry arrives at the ship just in time to prevent Riddick from leaving without them is the emotional climax of the film. It is where, we finally see not only what Riddick is made of, buy also Fry's character come to its conclusion.
 
 The scene sees each of them having made it to safety against incredible odds, and the prospect of going back for the remaining survivors suddenly seeming like an impossible task.
 
@@ -180,7 +180,7 @@ The scene sees each of them having made it to safety against incredible odds, an
 
 > `RIDDICK: "Me afraid?" LAUGHING`
 
-But Riddick is afraid. He doesn't think that he can do it. He already abandoned them once, when he decided to leave them at the last mile. Riddick is not a villian, he did not string his fellow passengers only to abandon them out of some kind of sadistic game. He truly believed he was too weak to save them, and his own survival instinct made him take the pragmatic approach.
+But Riddick is afraid. He doesn't think that he can do it. He already abandoned them once, when he decided to leave them at the last mile. Riddick is not the villian he likes to think he is, he did not string his fellow passengers only to abandon them out of some kind of sadistic pleasure. He truly believed he was too weak to save them, and his own survival instinct made him take the pragmatic approach.
 
 When Fry tries to convince him to save the others, he simply counters with offering to take her with him, knowing it would be suicide, and that Fry is too clever to do otherwise.
 
@@ -202,7 +202,7 @@ In this scene, Riddick is trying to get Carolyn to also take the cowards way out
 
 He asks her to come aboard, offering his hand, and coaxing her onboard with gentle words and nudges, to overcome her emotional paralysis. This scene is truly incredible, Fry finally breaking down, weeping in the rain as she slowly resolves to leave the other to their fate, while Riddick comforts her.
 
-But at the last minute, Fry resolves to save others, even if it suicide.
+But at the last minute, Fry resolves to save others, even if it is suicide.
 
 > `FRY: "Now, you! You listen to me! I am the captain of this ship. And I am not leaving anyone on this rock"`
 
@@ -220,17 +220,17 @@ But at the last minute, Fry resolves to save others, even if it suicide.
 
 It is in this moment that Riddick is most interesting. He has seen something that he can't explain. For Fry to selflessly go back for the others, even without Riddick's help, intrigues him.
 
-But their journey is not yet over. They return and save the other crew members, but Riddick becomes separated from them, and is ambushed by two aliens. 
+But their journey is not yet over. They return and save the other crew members, but during the rescue Riddick becomes separated from them and is ambushed by two aliens. 
 
-After their brief fight, Riddick is grievously hurt and alone, and Fry returns from the ship to save him.
+Riddick engages the aliens and is grievously hurt and alone. Facing almost certain death, Fry returns from the ship to save him.
 
 > `FRY: "I said I would die for them. Not you"`
 
-Fry helps Riddick back to his feet, but while helping him back to the ship, she dies herself.
+Fry helps Riddick back to his feet, but while helping him back to the ship, she dies in his place.
 
 It is difficult to know what the character of Riddick feels at this moment. 
 
-At this point Riddick definitely sees a reflection of himself in Fry. The pragmatism, the cold exterior. And he can only take this as yet more evidence for his own belief that helping others only gets you killed.
+Riddick definitely sees a reflection of himself in Fry. The pragmatism, the cold exterior. And he can only take this as yet more evidence for his own belief that helping others only gets you killed.
 
 And so while he may seem to blame himself, it is quite possible that he would let her take the blame for her own actions. He warned her of the dangers of such a selfless act, and she declared that she was willing to die for them.
 
@@ -258,41 +258,33 @@ Cannon Fodder
 
 Before we continue looking at Richard B. Riddick, let us take some time to consider the other characters in *Pitch Black*. 
 
-Now, I have previously mentioned the similarities between *Alien* and *Pitch Black*. let us focus on that a bit closer. 
+Now, I have previously mentioned the similarities between *Alien* and *Pitch Black*. Let us focus on that a little bit more. 
 
 Both film's feature largely on female protagonists. Both movies involve getting stalked in the dark by aliens. Both movies feature largely civilian crew members. 
 
 Consider:
 
-In Alien, a [greedy crew member] brings a dangerous alien on board in an attempt to get rich. The Alien escapes, and then slowly hunts down each of the crew members in turn while the crew, headed by Ripley, try to track it down.
+In *Alien*, a [greedy crew member] brings a dangerous alien on board in an attempt to get rich. The Xenomorph escapes, and then slowly hunts down each of the crew members in turn while the crew, headed by Ripley, try to track it down.
 
 By contrast, in the first half of *Pitch Black*, John's brings a dangerous being on board in an attempt to get rich. Riddick escapes, and then (we are lead to believe) slowly hunts down each of the crew members in turn while the crew, led by Fry, try to track him down.
 
 A forced analogy? Maybe. But as I have previously stated, in the first half of *Pitch Black*, before we truly understand the danger posed by the flying creatures, the audience is forced to see Riddick as the salient threat of the film.
 
-Now, I have said that *Pitch Black* features a female protagonist. What, but I thought Riddick was the protagonist, I hear you say. Well yes, but let us take a minute and consider *Pitch Black* based on only the first 30 minutes.
-
-
-
-
-
-
-
-
+Now, I have said that *Pitch Black* features a female protagonist. What, but I thought Riddick was the protagonist, I hear you say. Yes, he is, but let us take a minute and consider *Pitch Black* based on only the first 30 minutes.
 
 The first act is unquestionably Carolyn Fry's movie. 
 
 The film starts, with her waking up from cryosleep in the midst of a disaster. While her co-pilot Owens is still reeling from his sudden awakening, she is immediately into action, trying to land the ship.
 
-She is then immediately confronted with an "action movie choice". With the ship crashing, she prepares to purge the passenger cabin. Owens talks her down, telling her that he has every confidence in her to be able to land the ship.
+She is then confronted with an "action movie choice". With the ship crashing, she prepares to purge the passenger cabin. Owens talks her down, telling her that he has every confidence in her to be able to land the ship.
 
 However, with ship still spinning out of control she attempts to purge the cabin anyway, but Owens has sabotaged the system, so that she is forced to try and land the ship intact.
 
-It is at this point that we see the character Fry is, both in herself, and how she is reflected in Owens. She had the ability to land the ship, and Owens believes in her enough to entrust his own life into her hands. But she does not.
+It is at this point that we see the character Fry is, both in how she sees herself, and how she is reflected in Owens. She had the ability to land the ship, and Owens believes in her enough to entrust his own life into her hands. But she does not.
 
-Is she merely being selfish, being willing to abandon people she doesn't know in a bid to save herself and her colleague? Perhaps, but she is also clearly pragmatic. In her mind, they are all going to die, and she is willing to make the sacrifices to save those she can. Hmm, now where have I heard this before?
+Is she merely being selfish, being willing to abandon people she doesn't know in a bid to save herself and her colleague? Perhaps, but she is also clearly pragmatic. In her mind, they are all going to die, and she is willing to make the sacrifices to save those she can. It doesn't take a genius to figure out the 
 
-This is often the kind of opening scene a movie would use to set up their main character. Perhaps this was a flashback, and she has since been rescued is now currently unable to forgive herself for trying to sacrifice all those people. One logical thing to do now, would be to cut to her waking up screaming in bed, before suddenly realising that she was just reliving her nightmare. Pan over to the futuristic alarm clock, showing that it is 3:34 in the morning, but never mind going back to sleep, Carolyn is going to wake up and brood. 
+This is often the kind of opening scene that a larger, more expensive science fiction movie would use to set up their main character. Perhaps this was a flashback, and she has since been rescued is now currently unable to forgive herself for trying to sacrifice all those people. One logical thing to do now, would be to cut to her waking up screaming in bed, before suddenly realising that she was just reliving her nightmare. Pan over to the futuristic alarm clock, showing that it is 3:34 in the morning, but never mind going back to sleep, Carolyn is going to wake up and brood. 
 
 But fear not, soon an old friend calls her. They need a brilliant pilot. She says that she doesn't do that anymore. Ever since… "You can't blame yourself for that Carolyn, you did what you had to do." After a little bit of backstory, and perhaps a hint of past romance, she decides to at least listen to the offer. They get dinner in a shady diner with a shady backer, and after enough exposition, we are off on a good science fiction romp.
 
@@ -302,9 +294,9 @@ She clearly doesn't have much motivation to do anything, but she still soldiers 
 
 In these ways she reminds me a lot of Ripley. Ripley is not the captain, nor is she a typical action hero. She is just someone who is trying to make their best of a bad situation.
 
-Now, by this logic, opening narration aside, at the twenty seven minute mark, we could easily make the case that Fry is the protagonist of the film so far. And while Riddick takes over in the middle of the film, in a very real sense, it is Fry's arc that carries the most weight in the film.
+Now, by this logic, opening narration aside, at the twenty seven minute mark, we could easily make the case that Fry is the protagonist of the film so far. And while Riddick's character takes over in the middle of the film, in a very real sense, it is Fry's arc that carries the most weight in the film.
 
-In fact Riddick has so small a character arc that it is almost non-existent. By comparison, let us go back to climax that I mentioned earlier.
+In fact Riddick has so small a character arc that it is almost non-existent. By comparison, let us go back to the climax that we discussed earlier.
 
 After Riddick's betrayal, Fry takes their last remaining light, and sprints into the night after him. Finally she confronts Riddick, and he tries to coax her onboard, to abandon the others and fly off with him.
 
@@ -318,7 +310,7 @@ Riddick asking her to once again abandon them hits her like a hammer. The tensio
 
 In fact, this reminds me a lot of the end of *Die Hard*. Midway through the film Sgt. Powell explains how after a shooting gone wrong he had never been able to draw his gun again and had been desk bound ever since.
 
-Finally at the very end of the film, after the climax and celebrations have begun, he is finally able to shoot the one final terrorist. He is provided with an opportunity to put his mistake behind him, and reclaim his destiny.
+Finally at the very end of the film, after the climax and celebrations have begun, he is finally provided with an opportunity to put his mistake behind him, shooting the final terrorist and reclaiming his destiny.
 
 Of course, by not living to the end of the movie, the sum total of the Fry storyline can only be so long. There is no way for her to be a part of any sequel, which is disappointing, because I think that her character would be very interesting to have seen in them.
 
