@@ -8,7 +8,7 @@ Survival Instinct: Why the Riddick franchise doesn't understand itself
 Introduction
 ============
 
-To a casual observer, *Pitch Black (2000)* seems to be the epitome of generic filmmaking. A science-fiction horror flick starring Vin Diesel, it has all the elements one expects: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. 
+To a casual observer, *Pitch Black (2000)* may seem to be the epitome of generic filmmaking. A science-fiction horror flick starring Vin Diesel, it has all the elements one expects: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. 
 
 Not that there is anything necessarily wrong with that. Not every film can reinvent the genre from the ground up. But the very least one can expect is for a film to bring something new to the table. 
 
@@ -745,6 +745,9 @@ But, while I would personally have loved a *Castaway (2000)* in space, I appreci
 
 And so, we get to the inevitable core of the films, the arrival of bounty hunters.
 
+Introspection
+-------------
+
 So here we are once again. Deserted Planet, Aliens, Riddick. They writers clearly looked at the *Pitch Black* tried to pick out what made itself so good and tried to execute on those features again.
 
 And they got a lot of things right. They started by jettisoning the previous Necromonger lore, complete with prophesies and elementals, while still wrapping up the plot line neatly, even if it was a bit unnecessary to do so.
@@ -759,9 +762,18 @@ They also remember that Riddick works best when he is playing with others. *Chro
 
 And finally, they remembered that Riddick needs to be human. In *Chromicles* Riddick became truly superhuman. The third film reminds us that Riddick can be hurt, and does occasionally need the help of others. And that what he lacks in physical strength, he can make up for with his intelligence.
 
+I am still surrounded by Assholes!
+----------------------------------
 
+But sadly, *Riddick* misses the most important element, the thing that made *Pitch Black* so good. They once again made the mistake of thinking that Riddick should be the hero of the movie.
 
+This mistake is so tragic, because of how easy it is to make. In a sense, the film was doomed from it's title. One cannot blame Hollywood for taking it as a forgone conclusion that the film should focus on Riddick. But as soon as it did, it was doomed.
 
+Not that a film based entirely around Riddick couldn't work, it is just that they haven't done it yet.
+
+Once again, *Pitch Black* works so well because of the character of Fry, Johns and the other survivors. We love them, with all their flaws and strength.
+
+Who are these people? No audience can feel any sympathy for such two bit characters, who do not show up until forty minutes into the film. When we have no one to root for except Riddick, I find it difficult to care. Especially as it is difficult to decide why Riddick doesn't just kill everyone straight away and save us all a lot of hassle.
 
 
 
