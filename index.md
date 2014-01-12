@@ -14,7 +14,7 @@ Not that there is anything necessarily wrong with that. Not every film can reinv
 
 For most horror films, this will take the form of more visceral kills, or perhaps cutting edge special effects, or perhaps, a unique visual style.
 
-But, while *Pit Black* is most certainly competently made, it has none of these things. But none of that matters, because of what it does have, the one thing that makes it stand out from all its contemporaries: the character of Richard B. Riddick.
+But, while *Pitch Black* is most certainly competently made, it has none of these things. But none of that matters, because of what it does have, the one thing that makes it stand out from all its contemporaries: the character of Richard B. Riddick.
 
 
 
@@ -684,6 +684,112 @@ At first, he was hiding on a ice planet, for a reason that is never fully explai
 
 
 
+RIDDICK
+
+Back to Basics
+
+Characters still suck
+
+Awful dialog
+
+Terrible CG, dog especially
+
+Misogny
+
+Unclear Motivations
+
+No need for flashbacks
+
+Repetition
+
+
+
+One could spend a hours criticising all the technical failings of *Riddick*. The Dialog is appalling, and the special effects are, if possible, worse than *The Chronicles of Riddick*.
+
+But while these are valid points, and most certainly don't help the audience to enjoy the film, focusing on them would be to lost focus on what *Pitch Black* was really about, the characters and their own motivation.
+
+*Riddick* does its best to, return to basics that made *Pitch Black* so good, and Riddick says as much in his opening narration.
+
+> `RIDDICK: "Somewhere along the way I lost a step"`
+> `RIDDICK: "I got sloppy"`
+> `RIDDICK: "dulled my own edge"`
+> `RIDDICK: "maybe I went and did the worst crime of all"`
+> `RIDDICK: "I got civilised"`
+> `RIDDICK: "So now, we zero the clock"`
+> `RIDDICK: "just me and this no name world"`
+> `RIDDICK: "got to find that animal side again"`
+
+We can see where the film is trying to go. And so it hurts all the more when we see it fail.
+
+Riddick starts the film, without any real motivations. He has been betrayed by the Necromongers, but does not seem to hold any real antagonism towards them. *Riddick* is not about his thirst for vengeance upon those who tried to kill him.
+
+In fact, at the start of the film, Riddick seems to have to come to a certain peace with his own existence. He seems perfectly happy with his hermetic life, and animal companion. 
+
+There is a certain rhyme with how *Chronicles* starts, where he is also living an isolated life, communing with nature, as inhospitable as it may be. In fact, when we see him here, we can only assume that this is Riddick's natural state. 
+
+After losing not only Jack and Imam in the previous film, but also being betrayed in his quest for his home planet of Furya, perhaps Riddick has decided that he wants to withdraw from the universe that seems to always have treated him cruelly.
+
+And it seems as though he would have been happy to continue this way, if he could. Riddick finds a well stocked mercenary station, a potential way of the planet. But while he takes some of the food and supplies, he shows no interest in escaping.
+
+But of course, things can never be that simple. Soon enough Riddick sees the brewing clouds, and can sense that it is time for him to move on again. With no other obvious choices available to him, he returns to the mercenary station, and activates the emergency beacon, summoning bounty hunters to arrest him.
+
+In a way, it is a real shame that this is the direction that the film had to go, because it was this "forty days in the desert" that was the most interesting part of *Riddick*, however brief it was.
+
+I suspect that Vin Diesel is a dog person, because it was his moments with a CG dog on a blue screen where he actually seemed most human. It is actually a real pity that they didn't have a real dog or person in a mocap suit on set, because it is very evident when they are both on screen at the same time that Vin Diesel can't actually see what he is meant to be looking at.
+
+But even so, there is a certain level of rapport that Riddick has with this alien dog that surpasses anything that he has with any of the other humans in the film. 
+
+Of course, the dog has been used for the better part of a century as Hollywood shorthand for indicating people are good natured, but even so, I think it is at this point that you can truly appreciate Riddick's character, away from the trappings of all the plot details  that he is usually buried under.
+
+But, while I would personally have loved a *Castaway (2000)* in space, I appreciate that this was not going to appeal to general audiences, at least not the ones that were going to see the third film in the Riddick franchise.
+
+And so, we get to the inevitable core of the films, the arrival of bounty hunters.
+
+So here we are once again. Deserted Planet, Aliens, Riddick. They writers clearly looked at the *Pitch Black* tried to pick out what made itself so good and tried to execute on those features again.
+
+And they got a lot of things right. They started by jettisoning the previous Necromonger lore, complete with prophesies and elementals, while still wrapping up the plot line neatly, even if it was a bit unnecessary to do so.
+
+With Riddick free from prophesies and death cults, he is free to seek out his own destiny, and the writers quickly make sure that he once again finds himself marooned on a planet with only only his wits to survive the elements.
+
+In addition, they massively downed the body count. In *Pitch Black*, Riddick only kills one person, Johns, and one might even argue that Johns was killed by himself or an alien. In  *Chronicles*, Riddick kills no less than 67 people.
+
+By massively scaling back the available cannon fodder, Riddick returns to being an almost  believable character.
+
+They also remember that Riddick works best when he is playing with others. *Chronicles* felt like Riddick versus The World. *Riddick* remembers that our hero works best when he has some uncertain allies on his back, whom can double cross each other at a moments notice.
+
+And finally, they remembered that Riddick needs to be human. In *Chromicles* Riddick became truly superhuman. The third film reminds us that Riddick can be hurt, and does occasionally need the help of others. And that what he lacks in physical strength, he can make up for with his intelligence.
+
+
+
+
+
+
+
+
+
+When the Bounty Hunters arrive, Riddick provides them with a choice, leave one of their ships or die. Bold words, but after having seen his prowess in *Chronicles* there is no doubt in the audiences mind that he would have little difficulty delivering.
+
+This is not out of character for Riddick. His pragmatism has always put him first, and he has clearly already shown little care for lives of mercenaries, as far as he is concerned, they are playing the same game.
+
+
+
+
+
+
+
+
+We are once again introduced to a number of largely forgettable cannon fodder, although at least they are a little better than *The Chronicles of Riddick*.
+
+In *Riddick* a number of the characters are actually memorable, if once again, complete cartoons.
+
+Formost amongst these is Santana, a villain so reprehensible that the film needs to tell you that he captured and raped a woman before showing her being released and gunned down by him. Apparently subtlety is over rated, it is important that the audience understand that this character deserves what is no doubt coming to him.
+
+In addition, we have the captain of another ship, who turns out to be the father of Johns, yes, the character from *Pitch Black*. And under his command, his first officer is none other than Starbuck from *Battlestar Gallactica (2004)*
+
+These three characters form the core of remaining film
+
+
+
 
 
 
@@ -698,25 +804,39 @@ Perhaps it is fitting that the franchise, like its protagonist, seems to have so
 
 After panning of *The Chronicles of Riddick* by critics, fans and general audiences alike, it seemed as though Riddick was headed to the graveyard of failed franchises. 
 
-It's baggage was unwieldy and direction unclear. And while this would have been fine had the film made money, the box office receipts were unimpressive, and it seemed as though Riddick would not be returning to the silver screen.
+It's baggage was unwieldy and direction unclear. And while a solid financial return may have allowed the franchise to struggle on, the box office receipts were unimpressive, and it seemed as though Riddick would not be returning to the silver screen.
 
+But return it did. After nearly a decade, and largely due to Vin Diesel himself, the Riddick franchise returned to cinemas, this time in the guise of the simply named *Riddick*.
 
-Solution
+But how do you resurrect a franchise that was so unapologetically blindsided by the previous film?
 
-A discussion about how a sequel to a movie like *Pitch Black* can best be executed. Can it?
+There were several possible solutions to the problem. Creating a prequel is of course always an option, in particular the story of how Riddicks escape from Butcher Bay is an obvious story to tell.
 
+Or perhaps, simply tell a story in the same universe, and bring Riddick in as *Shane (1953)* like character.
 
+But it seems that Vin Diesel decided that the best way to proceed, was to instead remake *Pitch Black* within its own continuity.
 
-
-How then, do you create a sequel to a movie like *Pitch Black*? Well it seems that Vin Diesel seems to think that you do it by remaking it within it's own continuity. And is he wrong?
-
-Not really. Riddick is a good film, all things considered. It quickly jettison's the extraneous Necromonger plot lines alla Alien 3, and adds a family member bent on revenge for his family member that Riddick killed in the first film, alla Die Hard with a Vengeance.
+Now, is *Riddick* really a remake of *Pitch Black*, I hear you ask. Well, obviously it is not a direct remake, but it is undoubtedly a spiritual remake, and the film itself knows that, and never lets you forget
 
 The film is heavy handed in its use of repetition, both of plot points and shots. In many ways it is these scenes that are the best in the movie.
 
-What about the "superhero effect"? Yes, it is there. The Riddicck in *Riddick* is significantly more powerful than his counterpart in *Pitch Black*. But it is not quite to the same degree that *Chronicles* go to. 
+*Riddick* quickly jettison's the extraneous Necromonger plot lines alla *Alien 3 (1992)*, and adds a family member bent on revenge, alla *Die Hard with a Vengeance (1995)*.
+
+
+
+
+
+
+What about the "superhero effect"? Yes, it is there. The Riddicck in *Riddick* is significantly more powerful than his counterpart in *Pitch Black*. But it is not quite to the same degree that *Chronicles* go to, primarily because the stakes have been lowered to the level that you would expect Riddick to be able to deal with. 
 
 This Riddick can be hurt. He makes mistakes. He gets captured. And in the final "climax" of the film, he even needs too be saved by his enemies.
+
+
+
+
+
+
+
 
 There are many problems with the *Riddick*. For starters, the film really needs to have it's dialog almost completely rewritten from scratch.
 
