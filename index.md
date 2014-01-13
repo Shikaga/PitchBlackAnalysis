@@ -1,6 +1,7 @@
 ---
 layout: main
 ---
+?
 
 Survival Instinct: Why the Riddick franchise doesn't understand itself
 =============================================================
@@ -67,7 +68,7 @@ But first, let us look at what sets Riddick apart.
 Alpha Male
 ----------
 
-*Pitch Black* starts with Riddick being presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to “skullfuck you in your sleep”, in Johns most eloquent words.
+*Pitch Black* starts with Riddick being presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn't hesitate to "skullfuck you in your sleep", in Johns most eloquent words.
 
 In the wake of the crash, while the crew search for water, Riddick stalks in the shadows. While he never "ghosts" any of the crew members, the way he behaves implies that he is invulnerable, as though there is nothing that these mere mortals can do to harm him. 
 
@@ -93,11 +94,11 @@ And yet this twist never occurs. Getting captured never seems to have been part 
 
 Indeed, it would not have been hard for to add a line of dialog for it to be so.
 
-> `RIDDICK: “Come on Carolyn. You think I helped you out of the goodness of my heart?” LAUGHS Fry shakes her head, visibly upset.` 
+> `RIDDICK: "Come on Carolyn. You think I helped you out of the goodness of my heart?" LAUGHS Fry shakes her head, visibly upset.` 
 
-> `RIDDICK: “I couldn’t make it all the way myself, I needed a distraction. That’s all you were to me Fry. Big, fat, juicy distractions” SMILES EVILY`
+> `RIDDICK: "I couldn't make it all the way myself, I needed a distraction. That's all you were to me Fry. Big, fat, juicy distractions" SMILES EVILY`
 
-And yet, this never comes to pass. Riddicks role as antagonist truly does not outlive the first act. In fact, upon reflection, his actions of the first act are not conducive to an antagonist role when taken in context. Sure, he tried to incapacitate Johns in a bid to escape. But beyond that he doesn’t seem to bear any ill will to any of the crew members, even Johns.
+And yet, this never comes to pass. Riddicks role as antagonist truly does not outlive the first act. In fact, upon reflection, his actions of the first act are not conducive to an antagonist role when taken in context. Sure, he tried to incapacitate Johns in a bid to escape. But beyond that he doesn't seem to bear any ill will to any of the crew members, even Johns.
 
 His stalking of Fry seems to have been simply out of curiosity and he is not guilty of killing Zeke. The film cleverly tries to sell Riddick as the villain in the first act, but upon a objective analysis, he never does anything villainous.
 
@@ -105,7 +106,7 @@ We are informed by Johns that Riddick killed the pilot of his prison transport s
 
 Sure, Riddick admits to killing some people, but we have all seen *ConAir (1997)*, sometimes killing is justified, but the price must still be served.
 
-But while Riddick may not be the villain of the piece, that is not to say that he is a saint. He tries to help the other passengers, but only to a degree. When one of the Imam’s boys gets cornered by alien creatures, Riddick does not try to save him. He tells the boy to stay still, but when the boy runs, Riddick does nothing to intervene, clearly sensing the futility of trying to save boy.
+But while Riddick may not be the villain of the piece, that is not to say that he is a saint. He tries to help the other passengers, but only to a degree. When one of the Imam's boys gets cornered by alien creatures, Riddick does not try to save him. He tells the boy to stay still, but when the boy runs, Riddick does nothing to intervene, clearly sensing the futility of trying to save boy.
 
 
 Riddick does no bear the hero's burden. He does not not protect the innocent, he does not sacrifice himself. Riddick displays cowardice and weakness, and a complete lack of empathy to those around him.
@@ -160,7 +161,7 @@ He is clearly a troubled individual. He talks about his disdain for God, the lon
 
 He harbours an emotional separation from the other characters, not empathising with them the way any normal protagonist would. 
 
-Riddick shows variable loyalty the rest of the crew. He clearly fancies himself as a unapologetic criminal, and tries to portray himself as such in front of the other characters. He delight's in their naiveté, and laughs at their collective misfortune.
+Riddick shows variable loyalty the rest of the crew. He clearly fancies himself as a unapologetic criminal, and tries to portray himself as such in front of the other characters. He delight's in their naivete, and laughs at their collective misfortune.
 
 His ire fall's most heavily on Abu, The Holy Man, with whom he has complicated relationship. Riddick sees his belief as a weakness. `"So where the hell's your God now?"`, he asks mockingly as the sudden rainfall starts to extinguish their last remaining torches.
 
@@ -264,7 +265,7 @@ Both film's feature largely on female protagonists. Both movies involve getting 
 
 Consider:
 
-In *Alien*, a [greedy crew member] brings a dangerous alien on board in an attempt to get rich. The Xenomorph escapes, and then slowly hunts down each of the crew members in turn while the crew, headed by Ripley, try to track it down.
+In *Alien*, Ash brings a dangerous alien on board in an attempt to get rich. The Xenomorph escapes, and then slowly hunts down each of the crew members in turn while the crew, headed by Ripley, try to track it down.
 
 By contrast, in the first half of *Pitch Black*, John's brings a dangerous being on board in an attempt to get rich. Riddick escapes, and then (we are lead to believe) slowly hunts down each of the crew members in turn while the crew, led by Fry, try to track him down.
 
@@ -286,7 +287,7 @@ Is she merely being selfish, being willing to abandon people she doesn't know in
 
 This is often the kind of opening scene that a larger, more expensive science fiction movie would use to set up their main character. Perhaps this was a flashback, and she has since been rescued is now currently unable to forgive herself for trying to sacrifice all those people. One logical thing to do now, would be to cut to her waking up screaming in bed, before suddenly realising that she was just reliving her nightmare. Pan over to the futuristic alarm clock, showing that it is 3:34 in the morning, but never mind going back to sleep, Carolyn is going to wake up and brood. 
 
-But fear not, soon an old friend calls her. They need a brilliant pilot. She says that she doesn't do that anymore. Ever since… "You can't blame yourself for that Carolyn, you did what you had to do." After a little bit of backstory, and perhaps a hint of past romance, she decides to at least listen to the offer. They get dinner in a shady diner with a shady backer, and after enough exposition, we are off on a good science fiction romp.
+But fear not, soon an old friend calls her. They need a brilliant pilot. She says that she doesn't do that anymore. Ever since... "You can't blame yourself for that Carolyn, you did what you had to do." After a little bit of backstory, and perhaps a hint of past romance, she decides to at least listen to the offer. They get dinner in a shady diner with a shady backer, and after enough exposition, we are off on a good science fiction romp.
 
 Instead, *Pitch Black* continues. Fry quickly assesses the damage, gathers to survivors and addresses the "Riddick problem". A lot of time is put into her emotion, and feelings at this point in the film. The guilt that she feels for Owens' death, not to mention trying to kill the rest of passengers.
 
@@ -392,7 +393,7 @@ But when an accident appears to have occurred on LV-426, she  is requested to tr
 
 There are many reasons why *Aliens* succeeds as a movie. Sadly none of them can be found  in *Pitch Black*'s sequel, *The Chronicles of Riddick*.
 
-<!--- There are so many problems with *Chronicles* that is difficult to know where to begin. And while, I will spend some time enumerating these mistakes, they are largely irrelevant, in the wake of the films biggest flaw: The complete destruction of the character of Riddick. --->
+<!--- There are so many problems with *Chronicles* that is difficult to know where to begin. And while, I will spend some time enumerating these mistakes, they are largely irrelevant, in the wake of the films biggest flaw: The complete destruction of the character of Riddick. -->
 
 The Rude Goldberg Machine
 -------------------------
@@ -419,7 +420,7 @@ But the goals of Riddick, not to mention the rest of the cast, seem to change on
 
 And none of these changes seem to really have any weight to them. They literally come out of nowhere, with no explanation. And the audience can't help but be confused, swept up in a torrent of bad dialog and special effects.
 
-And in some movies, this is fine. If this were a political thriller, or a murder mystery, it would be totally normal to expect the audience to keep multiple distinct plots and motives in order. But *Chronicles* is not this kind of movie. --->
+And in some movies, this is fine. If this were a political thriller, or a murder mystery, it would be totally normal to expect the audience to keep multiple distinct plots and motives in order. But *Chronicles* is not this kind of movie. -->
 
 I'm surrounded by Assholes
 --------------------------
