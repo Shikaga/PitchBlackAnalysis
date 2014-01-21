@@ -379,22 +379,21 @@ But even the other characters, while minor roles, are still very likeable. None 
 Part 2: Villain
 ===============
 
-And so, here we are, at the end of film. Riddick, Jack and Abu all fly into the sunset, to their next adventure (technically, *The Chronicles of Riddick: Dark Fury*, but, while I do like this movie quite a bit, the fact that it is only 30 minutes long and animated, means I will not consider it canonical for this analysis)
+And so at the end of film Riddick, Jack and Abu all fly into the sunset, to their next adventure. But where do you go from here?
 
-*Pitch Black*, in my opinion at least, is a great film. What could have succeeded solely as a entertaining horror movie, simply on the cool sci-fi setting, monsters, and kills, is exalted by Fry's solid character arc and Riddick's enigmatic self.
+If *Pitch Black* has a lot in common with *Alien*, then we should look to *Aliens* to find inspiration. *Aliens* starts with Ellen Ripley completing her 57 year journey back to earth, and upon arrival no one believes her story about Xenomporph. 
 
-But where do you go from here?
+But when an accident appears to have occurred on LV-426, she throws her self back into the fray where she is greeted with even more Aliens this time.
 
-If *Pitch Black* has a lot in touch with *Alien*, when sure we should look to *Aliens* to find inspiration. *Aliens* starts with Ellen Ripley completing her 57 year journey back to earth, and upon arrival no one believes her story about Xenomporph. 
-
-But when an accident appears to have occurred on LV-426, she  is requested to travel back, as her insight will be vital to defeating the alien menace. When she arrives, she is greeted with more Aliens, and an excellent subplot involving Newt.
-
-*Aliens* puts aside its Sci-fi Horror roots, and takes on a more Sci-fi Action role, which does the movie credit. The plot is bigger, and a few hints are thrown in. The previously mentioned "Company", is revealed to be Yutani Weyland, and their conspiracy subplot adds a good deal of interest to the movie, including a real antagonist for the protagonist to fight against.
+*Aliens* puts aside its Horror roots, and takes on a more Action role, which does the movie credit. The plot is bigger, and a few hints are thrown in. The previously mentioned "Company", is revealed to be Yutani Weyland, and their conspiracy subplot adds a good deal of interest to the movie, including a real antagonist for the protagonist to fight against. And the addition of the Newt character provides something for Ripley to fight for.
 
 There are many reasons why *Aliens* succeeds as a movie. Sadly none of them can be found  in *Pitch Black*'s sequel, *The Chronicles of Riddick*.
 
+<<<<<<< HEAD
 <!--- There are so many problems with *Chronicles* that is difficult to know where to begin. And while, I will spend some time enumerating these mistakes, they are largely irrelevant, in the wake of the films biggest flaw: The complete destruction of the character of Riddick. -->
 
+=======
+>>>>>>> Editing
 The Rude Goldberg Machine
 -------------------------
 
@@ -402,25 +401,29 @@ The Rude Goldberg Machine
 
 After the events of *Pitch Black*, in which we simply get to see one small planet in the middle of nowhere, *Chronicles* wanted to build a world for Riddick to live in. What that resulted in is a tangle of knots, strangling everything that was good about the first film.
 
-But before we get into the details, let us compare and contrast the first forty minutes of each film.
+To illustrate, let us compare and contrast the first forty minutes of each film.
 
 In *Pitch Black*, a spaceship crashes on a planet. A dangerous criminal Riddick escapes. The survivors search for water, before recapturing Riddick. They suspect Riddick of killing one of the passengers, but discover a race of aliens is responsible, at which point they ask Riddick to help protect them.
 
 In *Chronicles*, an army of religious zealots are found to be marauding through space killing all in their path. Riddick is shown to be hiding on a ice planet. A group of mercenaries are out to catch him, but he dispatches them. They tell him that the Imam sent them to capture him. He takes their ship and goes to get revenge on the Imam for betraying him. Once he meets the Imam, he is told that he wasn't betrayed, but that they need him to save the universe from the Necromongers, due to a prophesy. But before he can decide whether to help them or not, he is attacked by the local militia. After dispatching them, they are suddenly attacked by the Necromongers, whom he also dispatches. Riddick tries to save the Imam and his family, but sadly the Imam dies. Riddick then seeks out the person who killed the Imam. But after getting his revenge, he is captured by the Necromongers and taken in front of the prophetic "Quasideads", who instruct the Necromongers to kill him. But Riddick soon escapes the clutches of the Necromongers, only to be recaptured by the mercenaries from the beginning of the film. Riddick quickly tricks them into sending him to Crematoria, the prison in which Jack has been detained, in an attempt to free her.
 
-If your head is already spinning, try watching the film. It is really a shame that so many mind boggling plot points are thrown-in in such an ad-hoc fashion, because the first twenty minutes was pretty tight. But the film soon looses steam, and with barrage after barrage of twists and reveals, the film soon looses all focus, and the audience is left with no idea what is meant to be going on.
+It is really a shame that so many mind boggling plot points were somehow crammed into this film because the first twenty minutes was pretty tight. But the film soon looses steam, and after a never ending barrage of twists and reveals, the film soon looses all focus, and the audience is left with no idea what is meant to be going on.
 
-In *Pitch Black*, there is a constant reminder of what the characters goal is: Stay in the light, get to the skiff, escape the planet. These goals are repeated over and over in the film, keeping the audience focused.
+Films need focus, a compass bearing that audience can follow. *Pitch Black* understood this. There is a constant reminder of what the characters goal is: Stay in the light, get to the skiff, escape the planet. These goals are repeated over and over in the film, keeping the audience focused.
 
-In *Aliens*, the plot is as simple as investigate the base, try and escape. Everything else is a detail, and you never forget what the characters objectives are.
+In *Aliens*, the plot is as simple as investigate the base and then to escape. Everything else is detail.
 
 But the goals of Riddick, not to mention the rest of the cast, seem to change on a scene by scene basis. He may be flying full pelt in one direction before turning on the spot to head with equal urgency in the opposite. And yet when he finally arrives there, he is inexplicably back where he started.
 
-<!--- ??? Riddick starts with his motivation being to stay hidden, hence his self banishment on the ice planet. Then he wants to punish the Imam for ratting  him out. Then he wants to escape the planet which is being invaded. Then he wants to get revenge for the Imams death. Then he wants to save Jack. And then he wants to become Emperor of the Universe. Make up your mind already!
+Riddick starts with his motivation being to stay hidden, hence his self banishment on the ice planet. Then he wants to punish the Imam for ratting  him out. Then he wants to escape the planet which is being invaded. Then he wants to get revenge for the Imams death. Then he wants to save Jack. And then he wants to become Emperor of the Universe.
 
-And none of these changes seem to really have any weight to them. They literally come out of nowhere, with no explanation. And the audience can't help but be confused, swept up in a torrent of bad dialog and special effects.
+And none of these changes seem to really have any weight to them. They literally come out of nowhere, with no explanation. And the audience simply feels confused, swept up in a torrent of bad dialog and special effects.
 
+<<<<<<< HEAD
 And in some movies, this is fine. If this were a political thriller, or a murder mystery, it would be totally normal to expect the audience to keep multiple distinct plots and motives in order. But *Chronicles* is not this kind of movie. -->
+=======
+That isn't to say that all films should have very simple plots. If this were a political thriller, or a murder mystery, it would be totally normal to expect the audience to keep multiple distinct plots and motives in order. But *Chronicles* is not this kind of movie.
+>>>>>>> Editing
 
 I'm surrounded by Assholes
 --------------------------
@@ -429,17 +432,17 @@ This completely bewildering lack of focus is not helped by the supporting charac
 
 As I have previously stated, one of *Pitch Black*'s strongest features is that the entire roster of characters are all interesting, or at the very least very likeable, right down to the would be  antagonist role of Johns.
 
-*Chronicles* is so completely void of such characters that it is almost impressive. Nowhere is this more clear that with the character of Toombs, the   bounty hunter taking the roll of a would-be Johns.
+*Chronicles* is so completely void of such characters that it is almost impressive. Nowhere is this more clear that with the character of Toombs, the bounty hunter taking filling in the role of Johns. But while Johns is cool and collected and an altogether human character, Toombs is quite the opposite. 
 
-But while Johns is cool and collected and an altogether human character, Toombs is quite the opposite. Despite its science fiction setting, *Pitch Black* feels real and believable, and Johns fits perfectly in this universe. He is not loud or obnoxious. He is a serious man, who just wants to do his job and get paid.
+Despite its science fiction setting, *Pitch Black* feels real and believable, and Johns fits perfectly in its universe. He is not loud or obnoxious. He is a serious man, who simply wants to do his job and get paid.
 
-By contrast Toombs is a giant cartoon character, an almost mustache twirling villain. No doubt the script must have said something along the lines of "Kid Catcher from Chitty Chitty Bang Bang", in the character notes.
+By contrast Toombs is a cartoon character, a mustache twirling villain. I wonder if the script said something along the lines of "Child Catcher from Chitty Chitty Bang Bang", in the character notes.
 
 He is totally unhinged, has no empathy for anyone else in the film, and spouts such terrible one liners, it is a miracle that anyone can stand him for more than about twenty seconds.
 
-Toombs would have been so out of place in *Pitch Black*, he would have burst straight through the fourth wall, so over top is his character, and yet somehow he fits into the world of *Chronicles*.
+Toombs would have been so out of place in *Pitch Black*, he would have burst straight through the fourth wall, and yet somehow he fits into the world of *Chronicles*.
 
-And this is because he is just one specific example of a problem that is endemic in the entire film. The characters throughout the film are so unlikable, I almost cannot believe that these two films were written by the same author. Where was the subtlty, the quietness that made *Pitch Black* what it was?
+And this is because he is just one specific example of a problem that is endemic in the entire film. The characters throughout the film are so unlikable, I almost cannot believe that these two films were written by the same author. Where was the subtelty, the quietness that made *Pitch Black* what it was?
 
 And this continues throughout all the facets of the films supporting cast. Not one character, besides the Imam, is anything less than a horrible two dimensional stereotype. The prison guards and prisoners in Crematoria, are so completely unlikable, not to mention entirely illogical. 
 
@@ -452,22 +455,24 @@ I don't want to spend too much time on the visual problems in *Chronicles*. In r
 
 But I would like to point out, that for the last twenty years, it seems like every single time that a director who works wonders on a shoestring budget with practical effects and sets, get a big budget for a sequel, they spend it on terrible looking CG.
 
-And the CG isn't even the worst parts of the film. Many of the action scenes are terribly edited. The scene with Riddick against the militia or against the Necromongers the city, is filmed in almost complete darkness, with just enough muzzle flash to make sure it is completely impossible to follow what is going on. 
+And the CG isn't even the worst parts of the film. Many of the action scenes are terribly edited. 
 
-I am sure that the Director was trying to make some kind of homage to *Equilibrium*, but it doesn't work in *Chronicles* in every way that it does work in *Equilibrium*.
+For instance, the scenes where Riddick fights the militia and the Necromongers in the city are filmed in almost complete darkness, with just enough muzzle flash to make sure it is completely impossible to follow what is going on. 
 
-There are more action scenes in the first twenty minutes of *Chronicles* than in the whole of *Pitch Black*, and they are terrible! Where before the director used his budget sparingly, focusing on executing just a few scenes well, once given sufficient budget, he daubed great swaths of mediocrity all over the place.
+I am sure that the director was trying to make some kind of homage to *Equilibrium*, but it doesn't work in *Chronicles* in every way that it does work in *Equilibrium*.
 
-Of course, it does make you wonder whether the director was actually any good to begin with. Hollywood is filled with accidental success stories, of how low budgets and bad props made films exceed their expectations. *Jaws* is obviously one of the most famous, but *Cat People (1942)* is another famous example of props being so terrible, and the lack of budget preventing better ones, that director was forced to be creative, and focus on the negative space, generating suspense. 
+There are more action scenes in the second twenty minutes of *Chronicles* than in the whole of *Pitch Black*, and they are terrible! Where before the director used his budget sparingly, focusing on executing just a few scenes well, once given sufficient budget, he daubed great swaths of mediocrity over the entire frame.
+
+It makes one wonder whether the director was actually any good to begin with. Hollywood is filled with accidental success stories, of how low budgets and bad props made films exceed their expectations. *Jaws (1975)* and *Cat People (1942)* are among the more  famous examples of terrible props and low budgets forcing the director to be creative, and focus on the negative space, generating suspense. 
 
 Had the director had their way, and nothing had gone wrong, would the films have been such a success? We will never know.
 
-But in light of *Chronicles*, one is forced to analyse whether perhaps *Pitch Black* was just a happy accident, whether all that great subtlety and suspense, was simply because the director did not have enough rope to hang himself. For me, whether the film succeeded or failed on purpose or by accident is largely irrelevant, and I won't dwell on it, but to me it seems clear that the Twohy fell, like so many other directors, for the budget trap, and it is hard to blame him for it.
+But after watching *Chronicles*, one is forced to re-evaluate whether perhaps *Pitch Black* was just a happy accident, whether all that great subtlety and suspense, was simply because the director did not have enough rope to hang himself.
 
 Attack of the Body Snatchers
 ----------------------------
 
-But, above all this, above any editing or special effects, above the unlikable supporting cast or bewildering plot, the one unforgivable downfall, was the destruction of the character of Richard B. Riddick.
+But, above all this, above any editing or special effects, above the unlikable supporting cast or bewildering plot, they made one unforgivable mistake: they destroyed the character of Richard B. Riddick.
 
 Throughout the whole of *Pitch Black* Riddick is simply an ex-con trying to escape the planet with his life, nothing more.
 
@@ -707,7 +712,7 @@ Repetition
 
 One could spend a hours criticising all the technical failings of *Riddick*. The Dialog is appalling, and the special effects are, if possible, worse than *The Chronicles of Riddick*.
 
-But while these are valid points, and most certainly don't help the audience to enjoy the film, focusing on them would be to lost focus on what *Pitch Black* was really about, the characters and their own motivation.
+But while these are valid points, and most certainly don't help the audience to enjoy the film, focusing on them would be to lose focus on what *Pitch Black* was really about, the characters and their own motivation.
 
 *Riddick* does its best to, return to basics that made *Pitch Black* so good, and Riddick says as much in his opening narration.
 
@@ -720,19 +725,19 @@ But while these are valid points, and most certainly don't help the audience to 
 > `RIDDICK: "just me and this no name world"`
 > `RIDDICK: "got to find that animal side again"`
 
-We can see where the film is trying to go. And so it hurts all the more when we see it fail.
+In another film, breaking the fourth wall like tin would seem juvenile and self indulgent. And yet, it is those very characteristics which make it fit in so well in at this place in time. We can feel what the film is trying to do. And so it hurts all the more when we see it fail.
 
 Riddick starts the film, without any real motivations. He has been betrayed by the Necromongers, but does not seem to hold any real antagonism towards them. *Riddick* is not about his thirst for vengeance upon those who tried to kill him.
 
-In fact, at the start of the film, Riddick seems to have to come to a certain peace with his own existence. He seems perfectly happy with his hermetic life, and animal companion. 
+In fact, at the start of the film, Riddick seems to have to come to a certain peace with his own existence. He seems perfectly happy with his hermetic life and animal companion. 
 
-There is a certain rhyme with how *Chronicles* starts, where he is also living an isolated life, communing with nature, as inhospitable as it may be. In fact, when we see him here, we can only assume that this is Riddick's natural state. 
+There is a certain repetition here, with how *Chronicles* starts, where he is also living an isolated life, communing with nature, as inhospitable as it may be. In fact, when we see him here, we one might start to believe that this is Riddick's natural state. 
 
-After losing not only Jack and Imam in the previous film, but also being betrayed in his quest for his home planet of Furya, perhaps Riddick has decided that he wants to withdraw from the universe that seems to always have treated him cruelly.
+After losing not only Jack and The Imam in the previous film, but also being betrayed in his quest for his home planet of Furya, perhaps Riddick has decided that he wants to withdraw from the universe that seems to always have treated him cruelly.
 
 And it seems as though he would have been happy to continue this way, if he could. Riddick finds a well stocked mercenary station, a potential way of the planet. But while he takes some of the food and supplies, he shows no interest in escaping.
 
-But of course, things can never be that simple. Soon enough Riddick sees the brewing clouds, and can sense that it is time for him to move on again. With no other obvious choices available to him, he returns to the mercenary station, and activates the emergency beacon, summoning bounty hunters to arrest him.
+But of course, things can never be that simple. Soon enough Riddick see the literal and metaphorical clouds on the horizon and he senses that it is time for him to move on again. With no other obvious choices available to him, he returns to the mercenary station and activates the emergency beacon, summoning bounty hunters to arrest him.
 
 In a way, it is a real shame that this is the direction that the film had to go, because it was this "forty days in the desert" that was the most interesting part of *Riddick*, however brief it was.
 
@@ -757,9 +762,9 @@ With Riddick free from prophesies and death cults, he is free to seek out his ow
 
 In addition, they massively downed the body count. In *Pitch Black*, Riddick only kills one person, Johns, and one might even argue that Johns was killed by himself or an alien. In  *Chronicles*, Riddick kills no less than 67 people.
 
-By massively scaling back the available cannon fodder, Riddick returns to being an almost  believable character.
+By massively scaling back the available cannon fodder in this third instalment, Riddick returns to being an almost  believable character.
 
-They also remember that Riddick works best when he is playing with others. *Chronicles* felt like Riddick versus The World. *Riddick* remembers that our hero works best when he has some uncertain allies on his back, whom can double cross each other at a moments notice.
+They also remembered that Riddick works best when he is playing with others. *Chronicles* felt like Riddick versus The World. *Riddick* remembers that our hero works best when he has some uncertain allies at his back, whom can double cross each other at a moments notice.
 
 And finally, they remembered that Riddick needs to be human. In *Chromicles* Riddick became truly superhuman. The third film reminds us that Riddick can be hurt, and does occasionally need the help of others. And that what he lacks in physical strength, he can make up for with his intelligence.
 
@@ -768,13 +773,11 @@ I am still surrounded by Assholes!
 
 But sadly, *Riddick* misses the most important element, the thing that made *Pitch Black* so good. They once again made the mistake of thinking that Riddick should be the hero of the movie.
 
-This mistake is so tragic, because of how easy it is to make. In a sense, the film was doomed from it's title. One cannot blame Hollywood for taking it as a forgone conclusion that the film should focus on Riddick. But as soon as it did, it was doomed.
+This mistake is so tragic, because of how easy it is to make. In a sense, the film was doomed from it's title. One cannot blame Hollywood for taking it as a forgone conclusion that the film should focus on Riddick. But as soon as it did, it was forever cursed.
 
-Not that a film based entirely around Riddick couldn't work, it is just that they haven't done it yet.
+Once again, *Pitch Black* works so well because of the character of Fry, Johns and the other survivors. We love them, with all their flaws and strength. We love them so much that we are perfectly happy to spend the first thirty minutes with them, with Riddick only taking up a few minutes of that screen time.
 
-Once again, *Pitch Black* works so well because of the character of Fry, Johns and the other survivors. We love them, with all their flaws and strength.
-
-Who are these people? No audience can feel any sympathy for such two bit characters, who do not show up until forty minutes into the film. When we have no one to root for except Riddick, I find it difficult to care. Especially as it is difficult to decide why Riddick doesn't just kill everyone straight away and save us all a lot of hassle.
+So who are these people? No audience can feel any sympathy for such two bit characters, who do not show up until forty minutes into the film. When we have no one to root for except Riddick, we all find it difficult to care. jEspecially as it is difficult to decide why Riddick doesn't just kill everyone straight away and save us all a lot of hassle.
 
 
 
@@ -791,22 +794,15 @@ This is not out of character for Riddick. His pragmatism has always put him firs
 
 
 
-We are once again introduced to a number of largely forgettable cannon fodder, although at least they are a little better than *The Chronicles of Riddick*.
+We are once again introduced to a number of largely forgettable cannon fodder, although at least they are a little better than in the previous instalment.
 
 In *Riddick* a number of the characters are actually memorable, if once again, complete cartoons.
 
-Formost amongst these is Santana, a villain so reprehensible that the film needs to tell you that he captured and raped a woman before showing her being released and gunned down by him. Apparently subtlety is over rated, it is important that the audience understand that this character deserves what is no doubt coming to him.
+Formost amongst these is Santana, a villain so reprehensible that the film needs to tell you that he captured and raped a woman before showing her being released and gunned down by him. Apparently subtlety is over rated and it is important that the audience understand that this character deserves what is no doubt coming to him.
 
-In addition, we have the captain of another ship, who turns out to be the father of Johns, yes, the character from *Pitch Black*. And under his command, his first officer is none other than Starbuck from *Battlestar Gallactica (2004)*
+In addition, we have the captain of another ship, who turns out to be the father of Johns, yes, the character from *Pitch Black*. And under his command, his first officer is none other than Starbuck from *Battlestar Gallactica (2004)* (Cara thrace?)
 
 These three characters form the core of remaining film
-
-
-
-
-
-
-
 
 
 
@@ -819,13 +815,13 @@ After panning of *The Chronicles of Riddick* by critics, fans and general audien
 
 It's baggage was unwieldy and direction unclear. And while a solid financial return may have allowed the franchise to struggle on, the box office receipts were unimpressive, and it seemed as though Riddick would not be returning to the silver screen.
 
-But return it did. After nearly a decade, and largely due to Vin Diesel himself, the Riddick franchise returned to cinemas, this time in the guise of the simply named *Riddick*.
+But return it did. After nearly a decade, and largely due to Vin Diesel never ending enthusiasm for the character, and a sizeable financial investment to boot, the Riddick franchise returned to cinemas, this time in the guise of the simply named *Riddick*.
 
 But how do you resurrect a franchise that was so unapologetically blindsided by the previous film?
 
 There were several possible solutions to the problem. Creating a prequel is of course always an option, in particular the story of how Riddicks escape from Butcher Bay is an obvious story to tell.
 
-Or perhaps, simply tell a story in the same universe, and bring Riddick in as *Shane (1953)* like character.
+Or perhaps, simply tell a story in the same universe, and bring Riddick in as a *Shane (1953)* like character.
 
 But it seems that Vin Diesel decided that the best way to proceed, was to instead remake *Pitch Black* within its own continuity.
 
@@ -885,7 +881,7 @@ But anyone who has been around the film block for a while, could have told you t
 
 And why does her character even need to be a lesbian? It seems to me to be a real shame that it seems like no woman can possibly be tough in movies or television, without being a lesbian. This is not really the forum for this discussion, but seriously..
 
-On the subject of homosexuality, I think it would have been much more interesting if it had turned out that John's had been John's husband rather than father.
+On the subject of homosexuality, I think it would have been much more interesting if it had turned out that Johns had been Johns' husband rather than father.
 
 Indeed, I though that the film was setting up for this. John's never implies that he is the father, Riddick induces it, and Johns never confirms nor denies it. Then later in the film, Riddick inform's Johns that his son was a junkie to which Johns Sr replies, "That is no the man I knew". Do father's refer to their son's as "the man I knew". Sure. But they are much more likely to say something like, "He was a good kid". This would have been a perfect juncture to reveal that Johns Sr was actually Johns husband.
 
