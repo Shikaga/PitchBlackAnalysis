@@ -469,48 +469,46 @@ Had the director had their way, and nothing had gone wrong, would the films have
 
 But after watching *Chronicles*, one is forced to re-evaluate whether perhaps *Pitch Black* was just a happy accident, whether all that great subtlety and suspense, was simply because the director did not have enough rope to hang himself.
 
+But, above all this, above any editing or special effects, above the unlikable supporting cast or bewildering plot, they made one unforgivable mistake: they destroyed the character of Richard B. Riddick.
+
 Attack of the Body Snatchers
 ----------------------------
-
-But, above all this, above any editing or special effects, above the unlikable supporting cast or bewildering plot, they made one unforgivable mistake: they destroyed the character of Richard B. Riddick.
 
 Throughout the whole of *Pitch Black* Riddick is simply an ex-con trying to escape the planet with his life, nothing more.
 
 By the end of *Chronicles*, he is the prophesied Space Jesus, and the leader of an army of religious zealots hell bent on the destruction of the universe.
 
-But before we go there, let's start to with the basics.
+So where did they go wrong?
 
 The character of Riddick in *Pitch Black* is a simple human. He is strong and resourceful, a good guy to have on your side in a tight spot. But he is human nonetheless. 
 
-As I have already pointed out before, both Johns and the crew are both roughly equal to Riddick, in terms of athletic power when push comes to shove. While he is rightly respected for his prowess in the darkness, when the crew catch him in the daylight they are able to overpower him in a one on one battle. He is not Superman.
+Both Johns and the crew are both an equal match for Riddick in terms of athletic power when push comes to shove. While he is rightly respected for his prowess in the darkness, when the crew catch him in the daylight they are able to overpower him in a one on one battle. He is not Superman.
 
 And yet, in a film that takes place less than ten years later, he has somehow turned into a cross between Jason Bourne, Rambo and Conan.
 
-The film starts on pretty solid ground, with Riddick's opening fight with the bounty hunters on an ice planet, which remains firmly within the bounds of reality.
+The film starts within the bounds of reality, with Riddick's opening fight with the bounty hunters on the ice planet.
 
 Riddick is outnumbered and outgunned. So what does he do? He goes to familiar ground, to the darkness, where he has the advantage and the mercenaries make easy pickings. Once safely in his cave where their vision and movement is hampered, Riddick takes them out one by one, "ghosting" them off camera. Finally, once all the henchmen are taken care of, Riddick takes Toombs on, mano-a-mano, to find out who sent him.
 
-This is actually a great scene. It is shot well, and the way that the camera is looking everywhere that Riddick is not, reminds the audience of how effective a stealth killer Riddick is.
+This is a great scene. It is shot well, and the way that the camera is looking everywhere that Riddick is not, reminds the audience of how effective a stealth killer Riddick is.
 
 Here we see the Riddick that know and love from *Pitch Black*. He is smart and calculating, using his quarries arrogance against them, before taking them down with a glee that the audience can't help but revel in it. We sit up in our seats waiting for more.
 
-But the problems soon start when Riddick takes on the local militia on Helion Prime. Firstly, the militia's motivation is never fully explained. They just kind of show up, accuse Riddick of being a spy, and start shooting the place up. And once they are dispatched, nothing more comes of it.
+But the problems soon start when Riddick takes on the local militia on Helion Prime. The militia's motivation is never explained. They simply show up, accuse Riddick of being a spy, and start shooting the place up. And once they are dispatched, nothing more comes of it.
 
-The only reason for this scene that I can think is that the writer thought that there had been too much exposition in the last five minutes (tell me about it) and that the audience must be getting bored.
-
-??? - Image of Judi Dench talking, sub: Wow, I have been talking a lot, when is the next action scene?
+The only plausible reason for this scene is that the writer thought, quite rightly, that there had been too much exposition in the last five minutes and that the audience must be getting bored.
 
 As I have already mentioned, the fight scene is shockingly filmed and edited, but that isn't even really the problem. The character of Riddick himself is also shockingly distorted. The Riddick from *Pitch Black* has never shown himself to be someone who would take on twenty armed men, with no real fear of getting hurt.
 
-Sure, he starts by extinguishing the candles, once more reemphasising that he works best in the shadows, but I can't help but think that Riddick would have simply dived out of the window against such overwhelming odds.
+The motif of "embracing the darkness" is reiterated once again by Riddick extinguishing the candles, but I can't help but think that Riddick would have simply dived out of the window against such overwhelming odds.
 
-No one ever knows where a bullet is going to go, and while it is totally conceivable for other movie heroes to take on twenty men at once, it seems somewhat out of place for Riddick.
+No one ever knows where a bullet is going to go, and while it is totally conceivable for other movie heroes to take on twenty men at once, it is out of Riddick, the man who can't defeat a group of dehydrated survivors or a bounty hunter with a baton, to do so. 
 
-Sadly, this is a theme that would continue for the entire film. Riddick is suddenly entirely fearless.
+Sadly, this is a theme that would continue for the entire film. The character previously known as Riddick has left the building.
 
-Riddick continues to take on legion upon legion of bad guys, from scores of Necromongers to the convicts of Crematoria. There are is even a boss fight at the end, which in all fairness, is a near universal trope of the genre, but feels so awkward by its conspicuous absence in *Pitch Black*.
+Riddick continues to take on legion upon legion of bad guys, from scores of Necromongers to the convicts of Crematoria. There is even a boss fight at the end, which in all fairness, is a near universal trope of the genre, but feels so awkward by its conspicuous absence in *Pitch Black*.
 
-In every one of these fights, Riddick never seems to show the slightest bit of fear, or restraint. He charges in, all guns boazing, assured of success, because, hey, its the middle of the movie, he can't die yet right?
+In every one of these fights, Riddick never seems to show the slightest bit of fear, or restraint. He charges in, all guns blazing, assured of success, simply because it is the middle of the movie and he can't die yet. 
 
 And this is such a shame. *Pitch Black* set up such a unique hero, who has to make use of his brains to make up for his lack of brawn, and they carelessly discard this in favour of bigger action scenes.
 
@@ -518,31 +516,31 @@ And while Riddick's brawn had been clearly put into overdrive, his brains have l
 
 Nothing ever felt rushed or sudden with Riddick. He didn't suddenly decide to do things on a whim, every action was calculated to the final detail.
 
-In *Chronicles*, this character is no where to be seen. Riddick's decisions seem to have not the least bit of thought put into them. As previously stated, his motivations seem to swing on a dime, and his actions with them.
+In *Chronicles*, that character is no where to be seen. Riddick's decisions seem to have not the least bit of thought put into them, his motivations swing on a dime and his actions with them.
 
 Riddick has previously been shown to not be especially prescient, not capable of seeing ten or even three moves ahead of everyone else. Yet, he is suddenly performing actions that would have every single time resulted in his death, had he not been incredibly lucky. 
 
 When he went to get revenge for the Imams death, was he committing suicide? Surely he knew that he wouldn't just be allowed to kill a ranking member of the occupying force and be allowed to leave?
 
-He would definitely have been killed, and he would have known this. Perhaps he no longer cared, but this just doesn't fit with Riddick's main character attribute: Survival Instinct.
+He would definitely have been killed and he would have known this. Perhaps he no longer cared, but this just doesn't fit with Riddick's main character attribute: Survival Instinct.
 
 Riddick would definitely not sacrifice his life to kill a soldier, who was, in a sense, simply doing his job. There are certainly characters who it is believable would do so, the father in *Taken* for example, but Riddick absolutely would not.
 
-And not only because he has a remarkable penchant for self preservation, but he had just recently been told that Jack was incarcerated in Crematoria. Earlier he seemed, albeit somewhat inexplicably, as though he blamed himself for her imprisonment, surely he would need to settle that score.
+And not only because he has a remarkable penchant for self preservation, but what about the Imam's family, that he was just a few hours ago trying to save, whom we never see again. Would he just abandon them to their fates, rather than taking them off planet like he promised Abu he would?
 
-Or what about the Imam's family, that he was just a few hours ago trying to save. Would he just abandon them to their fates, rather than taking them off planet like he promised the Abu he would?
+And he had just recently been told that Jack was incarcerated in Crematoria. Earlier he seemed, albeit somewhat inexplicably, as though he blamed himself for her imprisonment, surely he would need to settle that score.
 
-And while we never see the holy man's family again, when he is captured by the mercenaries again just a short time later, he tricks them into taking him to Crematoria. Was this part of his plan all along? Did he really feel bad about Jack, and want to save her? In that case, why had he just put himself in a position where he would almost certainly be killed? He clearly could not have expected to survive his encounter with the Necromongers, and he had no clear plan of getting to Crematoria either.
+And when he is captured by the mercenaries again just a short time later, he tricks the mercenaries into taking him to Crematoria. Was this part of his plan all along? Did he really feel bad about Jack, and want to save her? In that case, why had he just put himself in a position where he would almost certainly be killed? He clearly could not have expected to survive his encounter with the Necromongers, and he had no clear plan of getting to Crematoria either.
 
 The escape from the Necromongers itself is laughable. The number of ridiculous mistakes that happen at every turn to allow him to escape is comical, not to mention incomplete. The film is quite happy for Riddick to be stuck in the inner sanctum of their space castle one minute, inexplicably outside in the very next scene, being chased by a massive cg spaceship to boot.
 
-As though things weren't implausible enough already, this warship is suddenly brought down by our bounty hunter friends, who with the aid of a small rocket launcher are able to take the spaceship down. Is there any point even complaining at this point? It genuinely feels as though no one even cares anymore; why should I?
+As though things weren't implausible enough already, this warship is suddenly brought down by our bounty hunter friends, who with the aid of a small rocket launcher are able to take the spaceship down. Is there any point even complaining at this point? It genuinely feels as though none of the film makers care anymore; why should the audience?
 
-Nevertheless, at this point, despite taking down these bounty-hunters already, a militia, scores of Necromongers, a Necromonger lieutenant, more necromancer soldiers and escaping their melodramatically protected castle, Riddick is suddenly captured by these bounty-hunters.
+Nevertheless, at this point, despite taking down these bounty-hunters already, a militia, scores of Necromongers, a Necromonger lieutenant, more necromancer soldiers and escaping their thrown room, Riddick is suddenly captured by these bounty-hunters.
 
 Even trying to interpret Toombs' motivation at this point hurts my head. The Imam and the Elemental have clearly dropped the bounty of Riddick's head, so there is no reason for them to capture Riddick anymore.
 
-And the risk reward ratio can only have gotten worse, with Toombs increased knowledge of how dangerous Riddick is, and the fact that he is stuck on an occupied planet, and the bounty offered by Crematoria must be much lower than before.
+And the risk reward ratio can only have gotten worse, with Toombs increased knowledge of how dangerous Riddick is and the fact that Riddick is now stuck on an enemy occupied war torn planet, and the bounty offered by Crematoria must be much lower than what the Imam was offering before.
 
 Yet, Riddick seems to have no problem with any of this. He quite happily hands himself over to be captured, and tricks the mercenaries into being transported to Crematoria.
 
