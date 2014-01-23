@@ -555,48 +555,51 @@ But the fact is that Riddick himself is unfocused, and it feels like a complete 
 Out of his depth
 ----------------
 
-But the supercharging of Riddick's character isn't completely illogical. The fact is, it needed to occur for him to be able to fit into the universe that *Chronicles* has suddenly created.
-
-The story is suddenly just too big for Riddick to handle. Getting survivors to their escape ship is within Riddicks power, and makes for an interesting story. To single handedly defeat an entire invading army that have left countless destroyed planets in their wake, seems a little out of his wheelhouse.
-
-When Riddick landed on Helion Prime, he reminds the Imam, and the audience, what his speciality is:
-
 `I am sure God has his tricks. But getting out of places that nobody else can, that's one of mine`.
 
-This is actually a great line. It reminds of their religious animosity towards each other, while cementing what Riddick's super power is: Survival instinct.
+This is actually a great line. It simultaneously reminds the audience of the religious animosity that Riddick and Abu sharetowards each other, whilst also reiterating Riddick's super power: Survival instinct.
 
-And yet, Riddick is suddenly required to literally solve the entire universe's problems. Why could we not simply have had the story be that he needed to save Jack?
+And it is is at this line that *Chronicles* turns away from what could have been a great story.
 
-In fact, the first ten to twenty minutes would remain almost entirely unchanged, apart from removing the prologue about the Necromongers.
+Let us consider another way that the film could have gone at this point, assuming that the Necromonger prologue was removed.
 
-We could once again have Riddick being tracked by the Bounty Hunters, but when he arrives on Hellion Prime, Abu explains that Jack has finally got herself in more trouble than she can handle.
+Riddick would once again have been tracked by the bounty hunters, but when he arrives on Hellion Prime, Abu would explain that Jack has finally got herself in more trouble than she can handle.
 
-After their escape, Abu had adopted her as a sort of surrogate daughter, a prodigal daughter at that. She was never able to accept his way of life, but there was something that they admired in each other, something that had always kept them together.
+After the three of them escaped the events of *Pitch Black*, Abu had adopted Jack as a sort of surrogate daughter, a prodigal daughter even. She was never able to accept his way of life, but there was something that they admired in each other, something that had always kept them together.
 
-But as Jack reached her adolescence, she started to rebel, the birth of the Imam's daughter not helping their relationship. At first the Imam treated it with light humour. But as she fell deeper and deeper into the criminal underworld, he started doing everything he could to return her to the straight and narrow path.
+But as Jack went through her adolescence, she started to rebel, the birth of the Imam's daughter not helping their relationship. At first the Imam treated it with light humour. But as she fell deeper and deeper into the criminal underworld, he started doing everything he could to return her to the straight and narrow path.
 
-Finally, one night he was forced to bail her out of jail. They had a falling out that night, and after an argument, she walked out of his life.
+Finally, one night he was forced to bail her out of jail. They had a falling out that same night, and after an argument, she walked out of his life.
 
-But the Imam has just got the news that she finally bit off more than she can chew, and is now incarcerated in Crematoria. He has done everything that he can do, talked to every one of his friends in government, even tried to bribe some of them. His faith has truly been tested.
+But the Imam has just got the news that she has got in deep with the wrong people and is now incarcerated in Crematoria. He has done everything that he can do, talked to every one of his friends in government, even tried to bribe some of them. His faith has truly been tested.
 
 But after everything has failed, he had no choice but to send for Riddick. And here we are, the start of a great Ocean's Eleven style caper. Break into Crematoria, find Jack, Break her out, with plenty of fights and explosions on the way.
 
 In fact, I suspect even I could write a screenplay based on this premise, that would be better than the one *Chronicles* had to offer.
 
-This is absolutely the kind of task that Riddick has it within his power to solve. Remaining undetected, working in dark dangerous corners of the universe, and escaping with his life, and bringing those less fortunate with him to safety.
+And it is not that any individual part of *Chronicles* is bad, it is that there is just too much going on.
 
-And it could have so easily come to pass. The fact is, once you remove the Necromonger subplot, the rest of the film isn't too bad. An edit of *Chonciles* that was an hour and a half long, in which only the bounty hunter and crematoria scenes were left, would have been perfectly reasonable.
+The story is simply just too big for Riddick to handle. Getting survivors to their escape ship is within Riddicks power, and makes for an interesting story. To single handedly defeat an entire invading army that have left countless destroyed planets in their wake, is Rambo (*First Blood, 19XX*), not Riddick.
+
+
+And yet, Riddick is suddenly required to literally solve the entire universe's problems. Why could we not simply have had the story be that he needed to save Jack?
+
+The previous mistake of supercharging of Riddick's character isn't something that occurs for no reason. The fact is, it needed to occur for him to be able to fit into the universe that *Chronicles* has suddenly created, where Riddick is expected to literally save the universe.
+
+Breaking Jack out of Crematoria is the perfect kind of task for Riddick deal with. Remaining undetected, working in dark dangerous corners of the universe, and escaping with his life, and bringing those less fortunate with him to safety.
+
+And it could have so easily come to pass. The fact is, once you remove the Necromonger subplot, the rest of the film isn't too bad. An edit of *Chronciles* that was an hour and a half long, in which only the bounty hunter and crematoria scenes were left, would have been great.
 
 The Curate's Egg
 ----------------
 
-ANd on that note, while the film is indeed a disaster, there are undoubtedly some good parts, however fleeting they may be.
+But, while the film is undoubtedly a complete disaster, it is not without its redeeming features.
 
 The one small emotional glimmer in the film, is the precious few scenes that Riddick and Jack, now called Kyra, spend together.
 
-Indeed, I do wonder what precisely the filmmakers decision behind her name change was. There is obviously some attempt at a certain repetition. Riddick always pronounces her name *Cara*, with an obvious attempt to remind you of the protagonist of the former film.
+The film makers intention here is obvious. The character of Carolyn Fry was the core of *Pitch Black* and an emotional tether for Riddick to hold on. That character is now gone, and to reinforce this Riddick always pronounces Kyra's name *Cara*, with as an attempt to remind you of the protagonist of the former film.
 
-And in the same way as Carolyn Fry previously, Kyra sacrifices her life to save Riddick.
+And in the same way as Carolyn Fry in *Pitch Black*, Kyra sacrifices her life to save Riddick.
 
 It seems really unecessary to have changed her name in the film, if there attempt was truly to drive this home; we get it, it doesn't pay to be Riddick's friend.
 
