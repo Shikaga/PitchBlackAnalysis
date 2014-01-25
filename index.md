@@ -65,7 +65,7 @@ And so it was that we, like Jack, fell into hero worship of Riddick. And yet it 
 Alpha Male
 ----------
 
-*Pitch Black* starts with Riddick being presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn’t hesitate to `"skullfuck you in your sleep"`, in Johns most eloquent words.
+*Pitch Black* starts with Riddick being presented to us as the salient threat, the antagonist of a would be slasher film. Between his opening monologue and Johns doomsaying, we are given the impression that Riddick is a death dealing machine, that wouldn't hesitate to `"skullfuck you in your sleep"`, in Johns most eloquent words.
 
 In the wake of the crash, while the crew search for water, Riddick stalks in the shadows. 
 He sneaks up behind Fry and secretly steals some of her hair and then later happily returns to the ship and starts drinking their booze, while they stand just meters away.
