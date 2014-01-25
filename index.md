@@ -781,16 +781,22 @@ Discovering that your husband is was a drug addict is just so much more potent. 
 
 Finally, and not to put too finer point on this, it would mean that the actor wouldn't look far too young to be Johns father. Ten years have passed since the events of *Pitch Black*. Taking that into account, Both Johns are about the same age, so I can only suppose that Johns Sr has had some serious work done. Perhaps he exchanged twenty menthol kools for a surgical face lift.
 
+Prodigals Son
+=============
+
+And that is the current state of the Riddick Franchise.
+
+Is there hope still for the franchise? No probably not, at least, I do not suspect that another Riddick film will ever be released that is anywhere near to the quality that *Pitch Black* offers.
+
+Sadly, not only Hollywood, but also general audiences are not capable of understanding concept as complicated a cool character not taking the lead in a film, or a hero who has weaknesses and who makes mistakes.
+
+That said, I still hope for another film. *Riddick* was a step in the right direction, and with a slightly heavier hand in the editing room could have been a great film. That said, they still set up a strong launchpad with which to launch another film. 
+
+It successfully got rid of the Necromancers and returned Riddick to a believable power level, and I have hopes, albeit not high ones.
 
 
 
-
-
-
-
-
-
-
+<!---
 
 
 CUT CONTENT BELOW
@@ -857,3 +863,5 @@ Die Hard is supposed to be about about a New York Cop, doing the best he can in 
 At every junction his choices are logical and believable for his character. And this continues, by and large, for the next two films. But soon Hollywood require another movie, to capitalise on a much loved character, and quickly start looking around the back shelves for an action movie plot. 
 
 Any will do, with a flick of a red pen John McLain quickly becomes a protagonist, complete with catchphrase and references to previous films. The fact that his character has suddenly become superhuman badass is irrelevant.
+
+-->
