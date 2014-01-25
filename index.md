@@ -781,8 +781,8 @@ Discovering that your husband is was a drug addict is just so much more potent. 
 
 Finally, and not to put too finer point on this, it would mean that the actor wouldn't look far too young to be Johns father. Ten years have passed since the events of *Pitch Black*. Taking that into account, Both Johns are about the same age, so I can only suppose that Johns Sr has had some serious work done. Perhaps he exchanged twenty menthol kools for a surgical face lift.
 
-Prodigals Son
-=============
+Prodigal Son
+============
 
 And that is the current state of the Riddick Franchise.
 
