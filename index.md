@@ -550,6 +550,11 @@ Did he in fact even have breaking Jack out of Crematoria on his todo list at all
 
 And we come once again to the complete lack of focus that the film has. But, if it were just the film that had no focus, it would be almost forgivable. If it decided to randomly start to focus on random characters or get into obscure backstory, there would be only so much that I could complain about.
 
+And there is no point even getting into the complete absurdity of the sudden prophesy that appears out of nowhere, but when it is revealed that Riddicks story to Abu about how he started out `in some trash bin with an umbilical cord wrapped around his neck`, wasn't simply the fact that he was an unwanted child, but actually the fact that one of the Necromongers trying to strangle him with own umbilical cord, during their invasion of Furya to try and prevent the prophecy, it destroys one of the core emotional beats of the original films.
+
+Why a film maker would do this simply defies comprehension.
+
+
 But the fact is that Riddick himself is unfocused, and it feels like a complete betrayal of his character.
 
 Out of his depth
@@ -579,7 +584,7 @@ In fact, I suspect even I could write a screenplay based on this premise, that w
 
 And it is not that any individual part of *Chronicles* is bad, it is that there is just too much going on.
 
-The story is simply just too big for Riddick to handle. Getting survivors to their escape ship is within Riddicks power, and makes for an interesting story. To single handedly defeat an entire invading army that have left countless destroyed planets in their wake, is Rambo (*First Blood, 19XX*), not Riddick.
+The story is simply just too big for Riddick to handle. Getting survivors to their escape ship is within Riddicks power, and makes for an interesting story. To single handedly defeat an entire invading army that have left countless destroyed planets in their wake, is Rambo (*First Blood, 1982*), not Riddick.
 
 
 And yet, Riddick is suddenly required to literally solve the entire universe's problems. Why could we not simply have had the story be that he needed to save Jack?
@@ -605,117 +610,20 @@ It seems really unecessary to have changed her name in the film, if there attemp
 
 But there are other scenes in which we can almost glimpse something a little deeper within them. Their scene in Crematoria in which Riddick confronts Jack about her decision to sign up with mercenaries, actually feels like a small pocket of depth under an otherwise shallow surface.
 
-The abandonment that Jack feels, almost seems to resonate with Riddick. He obviously explains that he was doing it for own good, but then again, don't negligent fathers always?
+The abandonment that Jack feels resonates with Riddick. He obviously explains that he was doing it for own good, but then again, don't negligent fathers always? 
 
 Of course, having seen him living on a ice planet at the beginning of the film, we can only assume that he was doing this for her own good, but you can genuinely understand Kyra's frustration with Riddick.
 
-It is such a shame that this isn't the entire core of the film. The very scenes that the two of them share together fleet with almost being good, heady heights compared to their surrounding.
+For a character that so seldom shows his real emotions, it is wonderful to actually see this hidden side of Riddick.
 
-Although, in actual fact, large amounts of the Crematoria scenes are good. The shootout is well shot, and the generally what is going on is quite interesting. Even the somewhat mediocre chase scene, in which *Pitch Black*'s premise is flipped on it's head, and they are required to stay *out* of the light on their way to ship, is relatively interesting.
+It is such a shame that this isn't the entire core of the film. The scenes that the two of them share together approach being good, heady heights compared to the rest of the film.
 
-It is not until the Necromongers show up, and Riddick suddenly gets a deus-ex-machina in the form of a magical power-up that we suddenly reminded of the ridiculousness of the plot.
+Although, in actual fact, large amounts of the Crematoria scenes are good. The shootout is well shot, and the generally what is going on is quite interesting. Even the somewhat mediocre chase scene, in which *Pitch Black*'s premise is flipped on it's head, and they are required to stay *out* of the light on their way to ship, is interesting.
 
-Dead End
---------
+But once Necromongers show up again and Riddick suddenly gets a deus-ex-machina in the form of a magical power-up that we suddenly reminded of the terrible film we are in and after a dull and boring final boss battle, Riddick takes over the Necromonger army.
 
-But we are now reaching the end of the film, and after a dull and boring final boss battle, Riddick takes over the necromonger army.
-
-Where does he go from here? 
-
-
-
-
-
-
-
-
-
-
-
-
-There is a nice little line that Riddick uses here, where he talks about who there is no such thing as a friend, and that he should never have trusted the Imam. 
-
-It is subsequentally revealed that Riddicks story to Abu about how he started out `in some trash bin with an umbilical cord wrapped around his neck`, wasn't simply the fact that he was an unwanted child, but actually the fact that one of the Necromongers trying to strangle him with own umbilical cord, during their invasion of Furya to try and prevent the prophecy.
-
-What The Fuck? 
-
-This is one of the weirdest decisions I think in movie making history. To go from such a simple story, about a group of survivors, straight into a giant space opera, is just weird.
-
-In addition, our previously simple character, who already had plenty of interesting backstory, (who did he kill and why, how do his eyes really work, what was that "shine job" all about?), and convert him into an alien and Space Jesus simultaneously. 
-
-
-
-
-
-This is such a weird thing for Riddick's character to do. He never showed more than a passing affection for Jack, a loose friendship, but nothing like the connection he had with Fry.
-
-It seems odd that Riddick, who wants people to succeed and fail by their own strength, would suddenly feel that Jack needs to be rescued.
-
-Perhaps he blames himself for what has happened to her. After all, she was instantaneously infatuated with Riddick, and when she asked about the surgical shine job, Riddick told her just enough to get her in trouble.
-
-But the very fact that this character has supposedly killed people to be sent to prison, so that she can get this surgery done is completely bonkers. Seriously, there is no market  on the outside to get this performed?
-
-Surely, just about anything is easier than getting convicted of a crime, sneaking your payment into the prison, bribing the surgeon to perform the surgery and then break out of the prison again.
-
-Yet this is what the movie wants us to believe that this character has done. I mean, how can Riddick not admonish her for being incredibly stupid?
-
-
-
-
-
-
-
-
-
-
-
-
-
-At first, he was hiding on a ice planet, for a reason that is never fully explained other that to say "??? You should all stay away from me", to him travelling to the Imam to kill him for betraying him, to trying to escape the invasion, to trying to extract revenge for the Imams death, to trying to save Jack, to trying to assassinate the Lord Marhsall of the Necromancers to take their place.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RIDDICK
-
-Back to Basics
-
-Characters still suck
-
-Awful dialog
-
-Terrible CG, dog especially
-
-Misogny
-
-Unclear Motivations
-
-No need for flashbacks
-
-Repetition
-
-
-
-One could spend a hours criticising all the technical failings of *Riddick*. The Dialog is appalling, and the special effects are, if possible, worse than *The Chronicles of Riddick*.
-
-But while these are valid points, and most certainly don't help the audience to enjoy the film, focusing on them would be to lose focus on what *Pitch Black* was really about, the characters and their own motivation.
-
-*Riddick* does its best to, return to basics that made *Pitch Black* so good, and Riddick says as much in his opening narration.
+Part 3: Survivor
+================
 
 > `RIDDICK: "Somewhere along the way I lost a step"`
 > `RIDDICK: "I got sloppy"`
@@ -726,31 +634,15 @@ But while these are valid points, and most certainly don't help the audience to 
 > `RIDDICK: "just me and this no name world"`
 > `RIDDICK: "got to find that animal side again"`
 
-In another film, breaking the fourth wall like tin would seem juvenile and self indulgent. And yet, it is those very characteristics which make it fit in so well in at this place in time. We can feel what the film is trying to do. And so it hurts all the more when we see it fail.
+It is perhaps fitting that the Riddick franchise, like its protagonist, seems to have an incredible survival instinct.
 
-Riddick starts the film, without any real motivations. He has been betrayed by the Necromongers, but does not seem to hold any real antagonism towards them. *Riddick* is not about his thirst for vengeance upon those who tried to kill him.
+After panning of *The Chronicles of Riddick* by critics, fans and general audiences alike, it seemed as though Riddick was headed to the graveyard of failed franchises. 
 
-In fact, at the start of the film, Riddick seems to have to come to a certain peace with his own existence. He seems perfectly happy with his hermetic life and animal companion. 
+Its baggage was unwieldy and direction unclear. And while a solid financial return may have allowed the franchise to struggle on, the box office receipts were largely unimpressive, and it seemed as though Riddick would not be returning to the silver screen.
 
-There is a certain repetition here, with how *Chronicles* starts, where he is also living an isolated life, communing with nature, as inhospitable as it may be. In fact, when we see him here, we one might start to believe that this is Riddick's natural state. 
+But return it did. After nearly a decade, and largely due to Vin Diesel's never ending enthusiasm for the character and a sizeable financial investment to boot, the Riddick franchise returned to cinemas, this time in the guise of the back to basics *Riddick*.
 
-After losing not only Jack and The Imam in the previous film, but also being betrayed in his quest for his home planet of Furya, perhaps Riddick has decided that he wants to withdraw from the universe that seems to always have treated him cruelly.
-
-And it seems as though he would have been happy to continue this way, if he could. Riddick finds a well stocked mercenary station, a potential way of the planet. But while he takes some of the food and supplies, he shows no interest in escaping.
-
-But of course, things can never be that simple. Soon enough Riddick see the literal and metaphorical clouds on the horizon and he senses that it is time for him to move on again. With no other obvious choices available to him, he returns to the mercenary station and activates the emergency beacon, summoning bounty hunters to arrest him.
-
-In a way, it is a real shame that this is the direction that the film had to go, because it was this "forty days in the desert" that was the most interesting part of *Riddick*, however brief it was.
-
-I suspect that Vin Diesel is a dog person, because it was his moments with a CG dog on a blue screen where he actually seemed most human. It is actually a real pity that they didn't have a real dog or person in a mocap suit on set, because it is very evident when they are both on screen at the same time that Vin Diesel can't actually see what he is meant to be looking at.
-
-But even so, there is a certain level of rapport that Riddick has with this alien dog that surpasses anything that he has with any of the other humans in the film. 
-
-Of course, the dog has been used for the better part of a century as Hollywood shorthand for indicating people are good natured, but even so, I think it is at this point that you can truly appreciate Riddick's character, away from the trappings of all the plot details  that he is usually buried under.
-
-But, while I would personally have loved a *Castaway (2000)* in space, I appreciate that this was not going to appeal to general audiences, at least not the ones that were going to see the third film in the Riddick franchise.
-
-And so, we get to the inevitable core of the films, the arrival of bounty hunters.
+And it is in the opening narration above that *Riddick* defines what it is trying to achieve. A return to the animal side that we know and love; that simple character free of prophecies and cults.
 
 Introspection
 -------------
@@ -759,143 +651,147 @@ So here we are once again. Deserted Planet, Aliens, Riddick. They writers clearl
 
 And they got a lot of things right. They started by jettisoning the previous Necromonger lore, complete with prophesies and elementals, while still wrapping up the plot line neatly, even if it was a bit unnecessary to do so.
 
-With Riddick free from prophesies and death cults, he is free to seek out his own destiny, and the writers quickly make sure that he once again finds himself marooned on a planet with only only his wits to survive the elements.
+Riddick is now once again free to seek out his own destiny, and the writers quickly make sure that he once again finds himself marooned on a planet with only only his wits to survive the elements.
 
-In addition, they massively downed the body count. In *Pitch Black*, Riddick only kills one person, Johns, and one might even argue that Johns was killed by himself or an alien. In  *Chronicles*, Riddick kills no less than 67 people.
+They are also quick reverse the massive power differential that Riddick suffered from in *Chronicles*. By returning him to a much smaller conflict, with a smaller body count, Riddick's brains can once again take the centre stage over his exaggerated brawn.
 
-By massively scaling back the available cannon fodder in this third instalment, Riddick returns to being an almost  believable character.
+Attention was also payed to that fact that Riddick works best when he is playing with others. *Chronicles* felt like Riddick versus The World. *Riddick* remembers that our hero works best when he has some uncertain allies at his back, whom can double cross each other at a moments notice.
 
-They also remembered that Riddick works best when he is playing with others. *Chronicles* felt like Riddick versus The World. *Riddick* remembers that our hero works best when he has some uncertain allies at his back, whom can double cross each other at a moments notice.
+And finally, they remembered that Riddick needs to be human. In *Chronicles* Riddick became truly superhuman. The third film reminds us that Riddick can be hurt, and does occasionally need the help of others. And that what he lacks in physical strength, he can make up for with his intelligence.
 
-And finally, they remembered that Riddick needs to be human. In *Chromicles* Riddick became truly superhuman. The third film reminds us that Riddick can be hurt, and does occasionally need the help of others. And that what he lacks in physical strength, he can make up for with his intelligence.
+And does it work?
+
+No.
+
+One could spend a hours criticising all the technical failings of *Riddick*. The Dialog is appalling, and the special effects are, if possible, worse than *The Chronicles of Riddick*.
+
+But while these are valid points, it is a moot point. The fact is that they still don't fully understand what the Riddick franchise is truly about, but let us start at the beginning.
+
+Zero The Clock
+--------------
+
+Riddick starts the film, without any real motivations. He has been betrayed by the Necromongers, but does not seem to hold any real antagonism towards them. *Riddick* is not about his thirst for vengeance upon those who tried to kill him.
+
+Indeed, at the start of the film Riddick seems to have to come to a certain peace with his own existence. He seems perfectly happy with his hermetic life and animal companion. 
+
+After losing not only Jack and The Imam in the previous film, but also being betrayed in his quest for his home planet of Furya, perhaps Riddick has decided that he wants to withdraw from the universe that seems to always have treated him cruelly.
+
+In fact, when we see him here, we are reminded of the opening scene on the ice planet in *Chronicles*. Riddick is clearly a person who is perfectly happy with his own company, as though self banishment is Riddick's natural state. 
+
+
+And it seems as though he would have been happy to continue this way, if he could. Riddick finds a well stocked mercenary station, a potential way of the planet. But while he takes some of the food and supplies, he shows no interest in escaping.
+
+It is a real shame that this is the direction that the film had to go, because it was this "forty days in the desert" that was the most interesting part of *Riddick*, however brief it was.
+
+In many ways it is actually reminiscent of *Castaway (2000)*, with a CG dog taking the place of a volleyball. It would have been a bold choice if they had continued in the is fashion, although it probably presenting the audience with *Castaway* in space was not going to appeal to general audiences, at least not the ones that were going to see the third film in the Riddick franchise.
+
+But of course, things can never be that simple. Soon enough Riddick see the literal and metaphorical clouds on the horizon and he senses that it is time for him to move on again. With no other obvious choices available to him, he returns to the mercenary station and activates the emergency beacon, summoning bounty hunters to arrest him.
+
+And so, we get to the inevitable core of the films, the arrival of bounty hunters.
+
+
 
 I am still surrounded by Assholes!
 ----------------------------------
 
-But sadly, *Riddick* misses the most important element, the thing that made *Pitch Black* so good. They once again made the mistake of thinking that Riddick should be the hero of the movie.
+But after setting up an solid premise, *Riddick* made the same fatal mistake that *Chronicles* made: they made Riddick the hero of the movie.
 
 This mistake is so tragic, because of how easy it is to make. In a sense, the film was doomed from it's title. One cannot blame Hollywood for taking it as a forgone conclusion that the film should focus on Riddick. But as soon as it did, it was forever cursed.
 
-Once again, *Pitch Black* works so well because of the character of Fry, Johns and the other survivors. We love them, with all their flaws and strength. We love them so much that we are perfectly happy to spend the first thirty minutes with them, with Riddick only taking up a few minutes of that screen time.
+They looked at *Pitch Black*, and saw the mechanics: the darkness, the aliens, the survivors fighting together. And yet they failed to see that the reason that it works so well is because of the characters of Fry, Johns and the other survivors. 
 
-So who are these people? No audience can feel any sympathy for such two bit characters, who do not show up until forty minutes into the film. When we have no one to root for except Riddick, we all find it difficult to care. jEspecially as it is difficult to decide why Riddick doesn't just kill everyone straight away and save us all a lot of hassle.
+We loved them, with all their flaws and strength. We loved them so much that we are perfectly happy to spend the first thirty minutes with them, with Riddick only taking up a few minutes of that screen time.
 
+These "characters" do not hold even the smallest candle to their predecessors. No audience can feel any sympathy for them, when they show up forty minutes into the film, and are completely unlikable. 
 
+In fact, we have no one that we can root for except Riddick. And in fact, we are are ready to watch with glee as Riddick eviscerates them one by one. We sit up in our seat, and await the bloodbath.
 
+But no. The film follows up this self inflicted jab with the devastating uppercut of making us spend the majority of the next fifty minutes with them, and their terrible dialog.
 
+Formost amongst these is Santana, a villain so reprehensible that the film needs to tell you that he captured and raped a woman before showing her being released and gunned down by him. Apparently subtlety is over rated.
 
-When the Bounty Hunters arrive, Riddick provides them with a choice, leave one of their ships or die. Bold words, but after having seen his prowess in *Chronicles* there is no doubt in the audiences mind that he would have little difficulty delivering.
+In addition, we have the captain of another ship, who turns out to be the father of Johns, yes, the character from *Pitch Black*. And under his command, his first officer is none other than Starbuck from *Battlestar Gallactica (2004)*
 
-This is not out of character for Riddick. His pragmatism has always put him first, and he has clearly already shown little care for lives of mercenaries, as far as he is concerned, they are playing the same game.
+These three characters form the core of remaining film, but you never enjoy the time that you spend with them. The remaining characters are the usual muscle bound tough guys and scared rookies that you will find in the bargain bin of any direct to dvd action movie, and the less said about them the better.
 
+So where does this leave Riddick? Without any interesting characters for the audience to root for we need to rely on Riddick to provide the entertainment. And yet he disappears almost entirely so that we can get time to know these two bit characters, when we would much rather he just eviscerated them.
 
+It is at this time that we realise that not only are the characters insufferable, but none of their motivations make any sense. Every single one of the bounty hunters is supposedly here to kill Riddick, and yet they never do it, despite the many opportunities that they have.
 
+And while the "cells" plotline goes a some way to fixing this issue it feels so artificial that it is just painful. *Pitch Blacks* "cells" plot line made complete sense, and genuinely added to the story.
 
+There are so many plot holes that it just feels cruel to point all of them out, but it is worth enumerating a small number briefly, to consider the absurd lengths this movie goes to.
 
+Why do the bounty hunters suddenly think that Riddick has rearmed the cabinet?
+Why do they leave the important cells completely unprotected after unlocking them?
+Why does the bounty hunter attack Johns first, when he has Riddick dead to rights, and Riddick is clearly way more dangerous?
+Why does Johns abandon Riddick just to save him later?
 
+These are just a few of the numerous plot holes that exist in the film. And by themselves, they are largely insignificant, after all *Pitch Black* is not without its own share.
 
+But taken all together, and when the writers frequently hang a lampshade on them, it just strikes me as lazy writing.
 
-We are once again introduced to a number of largely forgettable cannon fodder, although at least they are a little better than in the previous instalment.
+But all of this would be irrelevant if we could actually like the characters, root for them, want them to survive. The fact is, that at no point would we care less if any of them die or live. The only character that we care about is Riddick, and he can only carry the movie so far.
 
-In *Riddick* a number of the characters are actually memorable, if once again, complete cartoons.
+Of course the one other character that we might care about is the alien dog that Riddick adopts.
 
-Formost amongst these is Santana, a villain so reprehensible that the film needs to tell you that he captured and raped a woman before showing her being released and gunned down by him. Apparently subtlety is over rated and it is important that the audience understand that this character deserves what is no doubt coming to him.
+I suspect that Vin Diesel is a dog person, because in a film with no humanity whatsoever, it was Riddick's moments with a CG dog on a blue screen where there was actually a touch of emotion. Something about the way that Riddick interacts with the dog has a real feeling of authenticity about it, whether it is the rhetorical questions he asks, or the smile he has when it does something, or just the way that he pats it on its body.
 
-In addition, we have the captain of another ship, who turns out to be the father of Johns, yes, the character from *Pitch Black*. And under his command, his first officer is none other than Starbuck from *Battlestar Gallactica (2004)* (Cara thrace?)
+It is actually a real pity that they didn't have a real dog or person in a mocap suit on set, because while Riddick behaves correctly emotionally,  it is very evident when they are both on screen at the same time that Vin Diesel can't actually see what he is meant to be looking at. His eyes do not track the dog correctly and he doesn't move his weight in response to the dog's behaviour.
 
-These three characters form the core of remaining film
+But even so, there is a certain level of rapport that Riddick has with this alien dog that surpasses anything that he has with any of the other humans in the film. 
 
+Hollywood has a very limited number of options for dogs however, and anyone who seen their share of films could have told you that the dog was not long for this world. "Evil people kill dogs", is one of the biggest tropes in Hollywood, and it seems as though the film wants to villainise Santana much more for the killing of a dog who was attack him, than for the rape and murder of a woman at the beginning of the second act.
 
+Balls Deep
+----------
 
-Part 3: Survivor
-================
+Ah yes. The one line that sticks out more than any other. The one that forces us to ask whether Riddick is a mysoginist. There are many concepts that can be explored here, with regards to feminism, sexism and how popular culture skews gender stereotypes, but there are many other sources covering this top and we will limit ourselves only to how this line relates to the character or Riddick.
 
-Perhaps it is fitting that the franchise, like its protagonist, seems to have some kind of incredible survival instinct.
+There are so many ways to look at this line. The natural reaction that most people will have, is quite rightly, repulsion.
 
-After panning of *The Chronicles of Riddick* by critics, fans and general audiences alike, it seemed as though Riddick was headed to the graveyard of failed franchises. 
+We do not live in a world where to heroes, confessed killers as they might be, can threaten to rape someone, at least not in western cinema. This is one of the very few lines that no protagonist, whether they be hero or antihero, can cross and still seek absolution.
 
-It's baggage was unwieldy and direction unclear. And while a solid financial return may have allowed the franchise to struggle on, the box office receipts were unimpressive, and it seemed as though Riddick would not be returning to the silver screen.
+Of course, their is plenty of room to play with whether Riddick actually threatened to rape ???Starbuck. Technically all he implied was that he would have sex with her, not that it would it would be non-consensual. But the character was pre-established to be homosexual, or at the very least, `didn't sleep with guys`.
 
-But return it did. After nearly a decade, and largely due to Vin Diesel never ending enthusiasm for the character, and a sizeable financial investment to boot, the Riddick franchise returned to cinemas, this time in the guise of the simply named *Riddick*.
+To imply that Riddick's action's over the next twenty four hours would be such that she would change her sexual orientation, is simply adolescent male wish fulfilment, albeit one that is quite pervasive in western popular culture.
 
-But how do you resurrect a franchise that was so unapologetically blindsided by the previous film?
+But, to even start dealing with such minutia, or to analyse what one person might mean by some inflection is completely missing the point of this line, which is that Riddick doesn't believe it himself.
 
-There were several possible solutions to the problem. Creating a prequel is of course always an option, in particular the story of how Riddicks escape from Butcher Bay is an obvious story to tell.
+In fact, it is not even well established whether Riddick is heterosexual. 
 
-Or perhaps, simply tell a story in the same universe, and bring Riddick in as a *Shane (1953)* like character.
+In *Pitch Black* he never seems to have any interest in Fry in any sexual way, being more interested in a almost anthropological sense, in the way that he seems to recognise a kindred spirit.
 
-But it seems that Vin Diesel decided that the best way to proceed, was to instead remake *Pitch Black* within its own continuity.
+In *Chronicles*, Riddick literally has no female foil to interact with whatsoever, that might establish his sexual orientation.
 
-Now, is *Riddick* really a remake of *Pitch Black*, I hear you ask. Well, obviously it is not a direct remake, but it is undoubtedly a spiritual remake, and the film itself knows that, and never lets you forget
+And in *Riddick*, suddenly we see Riddick in bed with a harem of Necromancers, one of whom tries to assassinate him. And yet, he seems completely disinterested in them in any sexual sense, seeming far more interested in finding Furya, a describing them, albeit sarcastically, as `distractions`.
 
-The film is heavy handed in its use of repetition, both of plot points and shots. In many ways it is these scenes that are the best in the movie.
+What are we meant to make of a franchise or Rated R movies in which the hero doesn't even have an implied sex scene? The fact is, Riddick's sexual orientation isn't even important. Survival Instinct is his core being, and any sexual motivation he may have is completely irrelevant.
 
-*Riddick* quickly jettison's the extraneous Necromonger plot lines alla *Alien 3 (1992)*, and adds a family member bent on revenge, alla *Die Hard with a Vengeance (1995)*.
+But then, why would he even say the line? Because it the role that he thinks that he needs to play. He is fucking with everyone, Santana, Johns, Sidekick #3 and ???Starbuck is no different. 
 
+Riddick is expert of human character, he knows the characters better than they know himself: We see this in *Pitch Black* in the way that he interacts with Fry and Johns, cutting to their weakest points with surgical accuracy.
 
+Within a second of meeting ???Starbuck he knows exactly what is up and what he needs to say to piss her off, and does so immediately. Is it reprehensible? Yes. Is it what Riddick's character would do? Absolutely.
 
+Johns
+-----
 
+And while many people might argue that it is a shame that ???Starbuck has to be a lesbian just because she is a strong female character, I definitely think that one of the characters of *Riddick* should have been homosexual. But it isn't ???Starbuck.
 
+The return of a Johns in *Riddick* is actually really interesting. The addition of a family member bent on revenge alla  *Die Hard with a Vengeance (1995)* was something that could have been really interesting if it had been executed correctly.
 
-What about the "superhero effect"? Yes, it is there. The Riddicck in *Riddick* is significantly more powerful than his counterpart in *Pitch Black*. But it is not quite to the same degree that *Chronicles* go to, primarily because the stakes have been lowered to the level that you would expect Riddick to be able to deal with. 
+And in fact, during the beginning of the movie it almost seems as though they are doing something interesting, in fact, it seems as though Johns had been Johns' husband rather than father.
 
-This Riddick can be hurt. He makes mistakes. He gets captured. And in the final "climax" of the film, he even needs too be saved by his enemies.
-
-
-
-
-
-
-
-
-There are many problems with the *Riddick*. For starters, the film really needs to have it's dialog almost completely rewritten from scratch.
-
-In addition, none of the character's motivations make any sense. Every single one of the bounty hunters is supposedly here to kill Riddick, and yet they never do it, despite the many opportunities that they have.
-
-The addition of the "cells" plotline goes a long way to fixing this issue. Obviously they cannot kill him once he has hidden the cells somewhere in the desert, but why does Johns save him at the end? He only moments before abandoned Riddick to take both power cells back to the ship, and yet something in the last half and hour or so has made him change his mind so that he now needs to save Riddick?
-
-
-
-Why does thug number 1 suddenly attack Johns when Riddick is digging? Surely you would kill Riddick first, and why would you even try and kill Riddick? Every single person in the film who has crossed him so far has died! Leave him alone.
-
-
-
-
-Also, unlike *Pitch Black*, nearly every single one of the characters is completely unlikable. One of *Pitch Black*'s strong points was the fact that most of the characters were actually quite likeable. None of the characters were over the top cliches. Even Johns, as flawed as he is, acted more like a scared chid than a action villain stereotype.
-
-You genuinely want all the characters in *Pitch Black* to make it through. The same can not be said of *Riddick*. Every single one of the characters is completely unlikable.
-
-You have absolutely no empathy for any of the characters that die, and no joy for those who live. In *Pitch Black*, when Jack and Abu escape the planet with Riddick, you feel genuinely relieved for them, and feel a very real sense of pain that Fry didn't make it.
-
-You do not feel the least thing for these characters. They have all backstabbed and bitched and postured the whole movie, and you can't help but think the movie would be better without them.
-
-In fact, have there ever been non-protagonist bounty hunters or mercenaries that the audience has ever empathised with? There is a whole sub population of society that the film industry has completely marginalised as evil greedy cannon fodder. I have known a few mercenaries in my time, and they have been lovely people, no worse than any national military solider. But while soldiers get to get shot holding a picture of their girlfriends while Adagio for Strings plays, mercenaries get gunned down with gleeful abandon, without ever a thought that perhaps this person was only on this job in an attempt to put food on table for their family.
-
-Nevertheless, it is not the job of "Riddick" to try and reverse this trend. Simply be aware of it, and realise that the audience is not going to sympathise with mercenaries the way it is going to empathise with the survivors of the Hunter Gratzner.
-
-And on the subject of empathising, a dog, seriously? Don't get me wrong, the dog was one of the better parts of the film. Firstly the, CG on it was excellent, about as good as I have seen. That said, it never stops being a CG dog. Vin Diesel is just able to act as though there is a real dog there. There is something about the way that people's eyes move when they are looking at a creature, that is completely lost, and just makes me feel like I am sitting on a sterile set whenever he and the dog are sharing a scene.
-
-But anyone who has been around the film block for a while, could have told you that the dog was not long for this world. "Evil people kill dogs", is one of the biggest tropes in Hollywood, and it seems as though the film wants to villainise Santana much more for the killing of a dog who was attack him, than for the rape and murder of a woman at the beginning of the second act.
-
-
-"Ball's deep"? What the fuck? Since when does a hero threaten a woman with rape? Okay, technically, all he implied was that he would have sex with her, not that it would it would be non-consensual. But the character was pre-established to be homosexual (which I will come back to later). To imply that Riddick's action's over the next twenty four hours would be such that she would change her sexual orientation, is simply adolescent male (read: Vin Diesel) wish fulfilment.
-
-And why does her character even need to be a lesbian? It seems to me to be a real shame that it seems like no woman can possibly be tough in movies or television, without being a lesbian. This is not really the forum for this discussion, but seriously..
-
-On the subject of homosexuality, I think it would have been much more interesting if it had turned out that Johns had been Johns' husband rather than father.
-
-Indeed, I though that the film was setting up for this. John's never implies that he is the father, Riddick induces it, and Johns never confirms nor denies it. Then later in the film, Riddick inform's Johns that his son was a junkie to which Johns Sr replies, "That is no the man I knew". Do father's refer to their son's as "the man I knew". Sure. But they are much more likely to say something like, "He was a good kid". This would have been a perfect juncture to reveal that Johns Sr was actually Johns husband.
+John's never explicitly states that he is the father, Riddick induces it, and Johns never confirms nor denies it. Then later in the film, Riddick inform's Johns that his son was a junkie to which Johns Sr replies, "That is no the man I knew". Do father's refer to their son's as "the man I knew". Sure. But they are much more likely to say something like, "He was a good kid". This would have been a perfect juncture to reveal that Johns Sr was actually Johns husband.
 
 The shock that your husband was a drug addict and you never knew about it, is so much more visceral than that your son is a drug addict. There are ten thousand movies about men's son's doing drugs and their father saying "you are going to ruin your life if you go down this path son".
 
 But there are precious few films about how discovering that your partner is a drug addict can destroy your life. This would have been a far more interesting story. Firstly, it personalises the original Johns much more. You never think about the fact that he has a family or loved ones. It never occurs to you that he might be so viciously hunting Riddick's bounty because he has a husband to provide for
 
-And I think that discovering that your Husband is was a drug addict is just so much more potent. Johns would have had to completely rethink their relationship. All those little things would suddenly start to make sense, as they always do. Ultimately it would make no difference, he would love him just as much.
+Discovering that your husband is was a drug addict is just so much more potent. Johns would have had to completely rethink their relationship. All those little things would suddenly start to make sense, as they always do. Ultimately it would make no difference, he would love him just as much.
 
-finally, it would mean that the actor wouldn't look way to young to be Johns father. Ten years have passed since the events of *Pitch Black*. Taking that into account, Both Johns are about the same age, so I can only suppose that Johns Sr has had some serious work done. Perhaps he exchanged twenty menthol kools for a surgical face lift.
-
-
-
+Finally, and not to put too finer point on this, it would mean that the actor wouldn't look far too young to be Johns father. Ten years have passed since the events of *Pitch Black*. Taking that into account, Both Johns are about the same age, so I can only suppose that Johns Sr has had some serious work done. Perhaps he exchanged twenty menthol kools for a surgical face lift.
 
 
 
