@@ -1,13 +1,9 @@
 ---
 layout: main
 ---
-?
-
-Survival Instinct: Why the Riddick franchise doesn't understand itself
+    
+Survival Instinct - Why the Riddick franchise doesn't understand itself
 ======================================================================
-
-Introduction
-============
 
 To a casual observer, *Pitch Black (2000)* may seem to be the epitome of generic filmmaking. A science-fiction horror flick starring Vin Diesel, it has all the elements one expects: A tough guy, a villain, lethal monsters and, of course, a disparate group of survivors waiting to be killed for the viewing pleasure of the audience. 
 
