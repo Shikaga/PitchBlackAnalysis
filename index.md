@@ -810,71 +810,18 @@ CUT CONTENT BELOW
 ??? - Talk about Riddick, love interests and Woman?
 
 
-
-Not only that, but he is beaten to the point of near unconciousness by a mere two creatures, who have already shown themselves to not be particularly dangerous, relatively speaking. He needs Fry to save him after his battle, and is so weak, that he is not even capable of saving her.
-
-By contrast, the Riddick presented to us in *Chronicles*, is an unstoppable killing machine, who is able to take down crew after crew of highly skilled mercenaries unarmed, dangerous convicts with nothing more tin cup and necromancer Gods with a simple dagger.
-
-He infiltrates Crematoria without any apparent doubt that not only he, but also Jack, will be able to subsequently break out.
-
-
-This is sadly one of the common mistakes that all sequels seem to be prone to. Once your hero has defeated one enemy, they need to be given a bigger test. This is why a New York City cop who's initial actions are initially to call the police, is only three movies later blowing up a helicopter with a car and surfing a jet.
-
-It seems impossible for films to let a character be anything less than a superhero by the time their second movie comes around. Even Alien is not completely immune to this, with with the Ripley from Aliens being significantly more badass than her previous incarnation.
-
-That is not to say that the Riddick presented in *Pitch Black* is weak. He shows himself to be supremely competent, but he never quite stops being human. 
-
-
-
+This is why a New York City cop who's initial actions are initially to call the police during a robbery, is only three movies later blowing up a helicopter with a car and surfing a jet.
 
 
 So it is not clear quite how dangerous Riddick is. In fact it is Johns who posses a far more salient threat to the survivors. 
 
 Johns is selfish, with a morphine addiction to boot.  He was more than willing to kill Jack to save his own life, and he is fixing to betray Riddick from the moment that he frees him.
 
-
-
-
-Who is the protagonist of this version?
-
-
-
-
-
-
-
-
-
-
-
-
 Perhaps, all we need for someone to be a protagonist is for the audience to identify with them, to see the world from their point of view. Indeed, there are plenty of stories out there about anti-heroes, who we identify with and are undoubtedly the protagonists of their own films.
 
 But can Riddick, who does not utter a single line of dialog for the first twenty seven minutes of the film, possibly be considered the film's protagonist? Is he the character that the audience most sympathise with?
 
-
-
-
-
-
-
-
-
-
 It would not have been hard, for a writer to pick up the film after forty five minutes and turn it into a standard Freddy or Jason style slasher, with perhaps just one of the crew members escaping with the escape ship (with a cut of Riddick hiding in the engine bay for the stinger).
-
-
-
-
-
-
-
-
-
-But this is not the direction the film chooses to take. It instead becomes much more interesting. Johns makes a deal with Riddick: help them, guide them, and he will get his freedom.
-
-But before we discuss the rest of the film, let us look where we are after twenty seven minutes.
-
 
 
 
@@ -895,33 +842,7 @@ The first film, *Pitch Black*, is a film about survival, about many characters w
 
 a character who never became much more than human. 
 
-It is often difficult to consider *Pitch Black* as it's own film, so intertwined is the Riddick legend with sequels and video games. But even a person who has only watched *Pitch Black* will likely come out of the movie with the impression of "badass", on their minds, which is likely only going to grow over time.
-
-
-
-But is this an accurate representation of Riddick, and is it the reason that *Pitch Black* is a good movie and Riddick a great character?
-
-
-
-
-
-
-
-
-
 He is not necessarily main character, he doesn't even have the most screen time. 
-
-But, by the end of the film, there is no doubt that Riddick is the hero of this piece. And it is upon this foundation that the Riddick franchise was built, including multiple films, video games and even anime.
-
-But, while ostensibly Riddick may have escaped the planet at the end of *Pitch Black*, in many ways his character, his character never did. 
-
-
-With his first line of dialog, Riddick steals the movie right from under her.
-
-
-
-
-
 
 
 
@@ -933,16 +854,9 @@ Die Hard came close. The first three Die Hard films remain within the bounds of 
 
 And it is these limits, that form focus of our discussion.
 
-
-
-
-
-
-
 Who is this character who then goes on to describe, with remarkable detail, right down to the leather tool belt, his fellow passengers, presumably by smell alone?
 
  John McClane, begins his narrative journey as a police officer and deadbeat husband, a believable everyman who is thrust into events beyond his control. But before long, John McClane turns into John Rambo on steroids. In many ways, the Die Hard series achieved more than most, it was actually capable of putting together a solid trilogy before succumbing to inevitable Hollywood money making machine. 
-
 
 ??? Move the rest of this down to somewhere more appropriate.
 
@@ -952,10 +866,6 @@ But in a way what is most tragic about Die Hard 4.0 is that it is actually a gre
 
 Die Hard is supposed to be about about a New York Cop, doing the best he can in the situation. In Die Hard, when terrorists attack Nakatomi Plaza, his first action, is to run away from danger. He then tries to call the police; the phone lines are cut. He then pulls the fire alarm, and the call is diverted. He then takes down ONE terrorist, and uses his radio to call for help. Once police assistance arrives, he hides in the bathroom, until he suddenly realises that the roof has been rigged with explosives, forcing him to try to save hostages.
 
-At every junction his choices are quite logical and believable for his character. And this continues, by and large, for the next two films. But soon Hollywood require another movie, to capitalise on a much loved character, and quickly start looking around the back shelves for an action movie plot. 
+At every junction his choices are logical and believable for his character. And this continues, by and large, for the next two films. But soon Hollywood require another movie, to capitalise on a much loved character, and quickly start looking around the back shelves for an action movie plot. 
 
 Any will do, with a flick of a red pen John McLain quickly becomes a protagonist, complete with catchphrase and references to previous films. The fact that his character has suddenly become superhuman badass is irrelevant.
-
-
-
-Our story begins aboard the Hunter Gratzner, where Richard B. Riddick is being transported in cryosleep back to the prison by bounty hunter William Johns. After a midflight incident, the pilot Carolyn Fry crash lands the ship on a planet. Their ship is badly damaged, but the soon find another ship with which they can escape the planet. But their troubles are not yet over, as the planet is infested with dangerous flying creatures and it is up to Riddick, Fry, Johns and the rest of the passengers to escape.
