@@ -241,7 +241,7 @@ Killing Machine
 
 In *Pitch Black* Riddick is frequently bested by the rest of crew. When he first escapes, John's is able to take him down, despite Riddick getting the drop on him (albeit, while shackled). And after he escapes, he is once again captured by crew, when they work together.
 
-This kind of vulnerability is unusual for both a protagonist and antagonist alike. Heroes in genre films can usually take at least three direct hits from a grenade launcher before starting to bleed. To see a hero who is taken down with simply (???) swipes of a nightstick, is almost unheard of.
+This kind of vulnerability is unusual for both a protagonist and antagonist alike. Heroes in genre films can usually take at least three direct hits from a grenade launcher before starting to bleed. To see a hero who is taken down with simply a few swipes of a nightstick, is almost unheard of.
 
 And not only is he physically weak, he does not have the usual prescience of a movie hero. He frequently misjudges both his enemies and his allies. When cornered by the creatures, he runs towards the rest of the crew, not predicting that they would instinctively shine light in his eyes. I have never seen such a trivial mistake made by a movie hero, and it imbues Riddick with a certain sense of believablity.
 
@@ -326,7 +326,7 @@ Abu, the Imam, is one of the most interesting of the secondary characters. In ad
 
 He clearly cares a lot for his kids, but trusts in his God as they slowly and mercilessly get killed one by one. Perhaps he sees himself as a Job figure, seeking meaning in his punishment. Perhaps not.
 
-But it is also this religious aspect that adds a good deal of depth to the film. The Imam finds himself in the company of atheists, who gently discount his faith (???, Is this true?). 
+But it is also this religious aspect that adds a good deal of depth to the film. The Imam finds himself in the company of atheists, who gently discount his faith.
 
 But discussions of God with Riddick are some of the more interesting parts of the films. Indeed, Riddick claims to believe in some kind of God figure, laying much of his own troubles at his feet. Whether this is a true belief or merely social construct that Riddick uses to explain the bad things that happen in this world, is known only to him however.
 
@@ -740,7 +740,7 @@ There are so many ways to look at this line. The natural reaction that most peop
 
 We do not live in a world where to heroes, confessed killers as they might be, can threaten to rape someone, at least not in western cinema. This is one of the very few lines that no protagonist, whether they be hero or antihero, can cross and still seek absolution.
 
-Of course, their is plenty of room to play with whether Riddick actually threatened to rape ???Starbuck. Technically all he implied was that he would have sex with her, not that it would it would be non-consensual. But the character was pre-established to be homosexual, or at the very least, `didn't sleep with guys`.
+Of course, their is plenty of room to play with whether Riddick actually threatened to rape Dahl. Technically all he implied was that he would have sex with her, not that it would it would be non-consensual. But the character was pre-established to be homosexual, or at the very least, `didn't sleep with guys`.
 
 To imply that Riddick's action's over the next twenty four hours would be such that she would change her sexual orientation, is simply adolescent male wish fulfilment, albeit one that is quite pervasive in western popular culture.
 
@@ -756,16 +756,16 @@ And in *Riddick*, suddenly we see Riddick in bed with a harem of Necromancers, o
 
 What are we meant to make of a franchise or Rated R movies in which the hero doesn't even have an implied sex scene? The fact is, Riddick's sexual orientation isn't even important. Survival Instinct is his core being, and any sexual motivation he may have is completely irrelevant.
 
-But then, why would he even say the line? Because it the role that he thinks that he needs to play. He is fucking with everyone, Santana, Johns, Sidekick #3 and ???Starbuck is no different. 
+But then, why would he even say the line? Because it the role that he thinks that he needs to play. He is fucking with everyone, Santana, Johns, Sidekick #3 and Dahl is no different. 
 
 Riddick is expert of human character, he knows the characters better than they know himself: We see this in *Pitch Black* in the way that he interacts with Fry and Johns, cutting to their weakest points with surgical accuracy.
 
-Within a second of meeting ???Starbuck he knows exactly what is up and what he needs to say to piss her off, and does so immediately. Is it reprehensible? Yes. Is it what Riddick's character would do? Absolutely.
+Within a second of meeting Dahl he knows exactly what is up and what he needs to say to piss her off, and does so immediately. Is it reprehensible? Yes. Is it what Riddick's character would do? Absolutely.
 
 Johns
 -----
 
-And while many people might argue that it is a shame that ???Starbuck has to be a lesbian just because she is a strong female character, I definitely think that one of the characters of *Riddick* should have been homosexual. But it isn't ???Starbuck.
+And while many people might argue that it is a shame that Dahl has to be a lesbian just because she is a strong female character, I definitely think that one of the characters of *Riddick* should have been homosexual. But it isn't Dahl.
 
 The return of a Johns in *Riddick* is actually really interesting. The addition of a family member bent on revenge alla  *Die Hard with a Vengeance (1995)* was something that could have been really interesting if it had been executed correctly.
 
