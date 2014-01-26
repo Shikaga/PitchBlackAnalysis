@@ -11,7 +11,7 @@ Not that there is anything wrong with that. Not every film can reinvent the genr
 
 For most horror films, this will take the form of more visceral kills or cutting edge special effects, or perhaps even a unique visual style.
 
-But, while *Pitch Black* is most certainly competently made, it has none of these things. But none of that matters, because of what it does have, the one thing that makes it stand out from all its contemporaries: the character of Richard B. Riddick.
+But, while *Pitch Black* is most certainly competently made, it has none of these things. But that doesn't matter, because of what it does have, the one thing that makes it stand out from all its contemporaries: the character of Richard B. Riddick.
 
 *Pitch Black* turned out to be what the studios call a "sleeper hit", a film that doesn't break any box office records, but gains a sort of cult following and brings in a steady amount of money over its theatrical run and generally does very well on DVD.
 
