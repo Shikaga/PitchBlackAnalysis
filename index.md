@@ -104,7 +104,9 @@ Riddick does not bear the hero's burden. He does not not protect the innocent, h
 
 He tries to help the other passengers, but only to a degree. When one of the Imam's boys gets cornered by alien creatures, Riddick does not try to save him. He tells the boy to stay still, but when the boy runs, Riddick does nothing to intervene, clearly sensing the futility of trying to save him.
 
-And it is because he performs acts that are unconscionable for a protagonist, that Riddick is so interesting. He is not constrained by the moral expectations of his role, however nuanced it might be. He is a character that we truly cannot predict.
+In a word, he is pragmatic. In two words, he has Survival Instinct. At it is this Survival Instinct that drives his character, that motivates his actions, be they great or small, heroic or unconscionable.
+
+And it is because he performs acts that are unconscionable for a protagonist, that Riddick is so interesting. He is not constrained by the moral expectations of the role of a hero, however nuanced it might be.
 
 Wingmoman
 ---------
@@ -210,13 +212,6 @@ But then Riddick betrays them, heading to the ship alone, leaving Fry, Jack and 
 
 > `RIDDICK: "Come on, Come on, That's it, That's it. Good Girl"`
 
-
-
-
-
-
-
-
 This is all of Fry's nightmares manifest in a single dreadful moment. Once again she has the option of either abandoning the others and saving her own life or trusting in her own strength and try to save them, even against impossible odds.
 
 Riddick asking her to once again abandon them hits her like a hammer. The tension growing, beat by beat, with Riddick's smiling evilly as he sees her break down. But then, she finally gathers her strength and throws it in his face, declaring that they are going back for the others, whether he likes it or not.
@@ -244,21 +239,27 @@ Finally at the very end of the film, after the climax and celebrations have begu
 Likewise Fry is finally provided her absolution. Her rejection of self preservation in favour of protecting those around her, shows her that she can be the person she wants to be, the person who Owens was, the person who Johns and Riddick are not.
 
 
-?????????????????
------------------
-
+Two sides of the same coin
+--------------------------
 
 So where does this leave Riddick? If Fry is the central character of *Pitch Black*, what is Riddick's roll in the film?
 
-The fact is, that in *Pitch Black* Riddick's primary purpose is to act as a mirror for Fry's character.
+The fact is, that in *Pitch Black* Riddick's primary purpose is to act as a mirror for Fry's character, and vice versa.
 
-Riddick is a personification of a part of Frys character. Her choice is between becoming him - giving up all remorse for things done in the name of survival and instead accepting that there are goals so desirable that her own survival is worth risking on even relatively small chances of success.  She has to die because for this to be a meaningful choice means that we can't accept the normal magical thinking of heroes in films.  Riddick is there specifically to make sure we do not, to let us see clearly what the choice is.
+They two like minded characters, their wills battling in a sitation that neither of them is truly prepared for. They both have little to win and everything to lose and the choices that they make will tell them who they truly are.
 
+In a real sense, Riddick is a part of Frys character, the devil on her shoulder personified.
 
+Fry's final choice is simple, so much deeper than simply deciding whether to return for the other survivors.
+
+Her real choice is between pragmatism and idealism. She must choose between becoming Riddick and giving up all remorse for things done in the name of survival and rejecting Riddick and believing that some things are worth dying for.
+
+She has to die because for this to be a meaningful choice. For her to survive after making her decision would make it irrelevant, a reinforcement of the normal magical thinking of heroes in films. Riddick is there specifically to let us see the consequences of her choice.
 
 The slipping mask
 -----------------
-So, while Riddick may not be a villain, he is a ruthless killer, who cares only about his own survival. A stone cold badass, who leaves everyone in no doubt of his own selfishness.
+
+So, Riddick took the pragmatic path when Fry chose the idealist. He was strong, she was weak, he lived, she died, case closed. Riddick is a ruthless narcissit who cares only about his own survival. A stone cold badass, who leaves everyone in no doubt of his own selfishness.
 
 Well, not quite. While a cursory glance of Riddick's character may lead you to this conclusion, things are a lot more complicated than that.
 
